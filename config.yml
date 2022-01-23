@@ -5,7 +5,6 @@ title: webstack
 description: x1a0xf's navigation site
 
 # favicon of website
-# favicon: "https://github.com/x1a0xf.png?size=40"
 favicon: "https://webstack.cc/assets/images/favicon.png"
 
 # your website url
@@ -22,20 +21,7 @@ footer: © 2021-2021 @x1a0xf
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
-
-webstack:
-  search:
-    enabled: false
-    default: google
-    # 可选的搜索引擎
-    engines:
-      - google
-      - github
-      - weibo
-      - baidu
-      - bilibili
-      - zhihu
+# google_analytics: "G-EXE1PJ8CR2"
 
 content:
   categories:
@@ -77,6 +63,15 @@ content:
         - name: verytoolz
           description: 各种文件格式转换
           url: https://verytoolz.com/yaml-parser.html
+        - name: JSON Editor Online
+          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
+          url: https://jsoneditoronline.org/
+        - name: Diffchecker
+          description: diff 工具，diff 文本、diff 图片、diff PDF
+          url: https://www.diffchecker.com/diff
+        - name: misaka ping
+          description:
+          url: https://ping.sx/ping
     - name: golang开发工具
       sites:
         - name: sql-to-struct
@@ -138,6 +133,9 @@ content:
         - name: mermaid-live-editor
           description: 在线mermaid编辑器
           url: https://mermaid.live/edit/
+        - name: Excalidraw
+          description: 流程图工具，可以画手写风格的图表
+          url: https://excalidraw.com/
         - name: 逮蝦戶
           description: spotify之类境外服务的拼车网站
           url: https://daixiahu.co/#/buses
