@@ -25,7 +25,7 @@ google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
   search:
-    enabled: true
+    enabled: false
     default: google
     # 可选的搜索引擎
     engines:
@@ -38,6 +38,20 @@ webstack:
 
 content:
   categories:
+    - name: 在线IDE
+      sites:
+        - name: 在线PHP
+          url: https://3v4l.org/
+        - name: 在线golang
+          url: https://goplay.tools/
+    - name: 开发工具
+      sites:
+        - name: pagespeed insights
+          description: 页面性能分析工具，很好用
+          url: https://pagespeed.web.dev/
+        - name: deps.dev
+          description: 用来查看开源项目的依赖是否有漏洞
+          url: https://deps.dev/
     - name: 常用推荐
       sites:
         - name: Dribbble
