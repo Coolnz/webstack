@@ -62,6 +62,42 @@ content:
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
+        - name: Staticfile CDN
+          description: 收录知名开源js、css等静态资源的网站
+          url: https://www.staticfile.org/
+        - name: 网易DNS检测工具
+          description: 
+          url: http://nstool.netease.com/
+        - name: CSVJSON
+          description: 用来csv和json之间互转, 以及json美化和json检验
+          url: https://csvjson.com/
+        - name: transform
+          description: 各种文件格式转换
+          url: https://transform.tools/
+        - name: verytoolz
+          description: 各种文件格式转换
+          url: https://verytoolz.com/yaml-parser.html
+    - name: golang开发工具
+      sites:
+        - name: sql-to-struct
+          description: 在线sql转struct
+          url: http://sql2struct.atotoa.com/
+        - name: curl-to-go
+          description: curl-to-go
+          url: https://mholt.github.io/curl-to-go/
+        - name: JSON-to-GO
+          description:
+          url: https://mholt.github.io/json-to-go/
+        - name: YAML-to-go
+          description: YAML-to-Go
+          url: https://zhwt.github.io/yaml-to-go/
+        - name: TOML-to-go
+          description: 
+          url: https://xuri.me/toml-to-go/
+        - name: json-to-struct
+          url: http://www.hailaz.cn/static/pages/tools/tools.html
+        - name: JSON转Struct
+          url: https://www.printlove.cn/tools/json2go/
     - name: 云服务
       sites:
         - name: 云片
@@ -144,6 +180,12 @@ content:
         - name: blogtrottr
           description: 订阅rss, 发送到邮箱(ttrss也支持发送某个feed到邮箱的功能)
           url: https://blogtrottr.com/
+        - name: 蜜蜂剪辑
+          description: 蜜蜂剪辑，在线音视频处理
+          url: https://beecut.cn/
+        - name: Zamzar
+          description:  视频/音频/图片/电子书转换器, 非常强大的在线工具
+          url: https://www.zamzar.com/
     - name: 投资
       sites:
         - name: Investment Calculator
@@ -155,5 +197,9 @@ content:
         - name: Neat Reader
           description: 在线阅读ePUB/mobi等格式文件, 阅读体验不错, 不再需要下载calibre之类的本地阅读器
           url: https://www.neat-reader.cn/
+    - name: 综合在线工具
+      sites:
+        - name: OKTools
+          url: https://oktools.net/number
           
 
