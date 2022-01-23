@@ -52,6 +52,38 @@ content:
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
+    - name: 云服务
+      sites:
+        - name: 云片
+          url: https://www.yunpian.com/
+        - name: 聚合数据
+          url: https://www.juhe.cn/
+        - name: nowapi
+          description: 常用api服务,还有余额
+          url: https://www.nowapi.com/
+        - name: 百度智能云
+          description: 百度智能云,用过车牌识别之类的服务
+          url: https://cloud.baidu.com/
+        - name: 高德开放平台
+          description: 地图服务
+          url: https://lbs.amap.com/
+        - name: 超级鹰
+          description: 打码平台,还不错
+          url: https://www.chaojiying.com/
+        - name: 腾讯防水墙
+          description: 验证码/内容平台防垃圾内容等服务
+          url: https://007.qq.com/
+    - name: 正则
+      sites:
+        - name: regex101
+          description: 正则在线调试网站，非常好用
+          url: https://regex101.com/
+        - name: 正则大全any-rule
+          description: 收录了常用业务的正则
+          url: https://any86.github.io/any-rule/
+        - name: 图解正则Regexper
+          description: 图解正则
+          url: https://regexper.com/
     - name: 常用推荐
       sites:
         - name: Dribbble
