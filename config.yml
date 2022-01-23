@@ -5,7 +5,8 @@ title: webstack
 description: x1a0xf's navigation site
 
 # favicon of website
-favicon: "https://github.com/x1a0xf.png?size=40"
+# favicon: "https://github.com/x1a0xf.png?size=40"
+favicon: "https://webstack.cc/assets/images/favicon.png"
 
 # your website url
 url: https://x1a0xf.github.io/webstack/
@@ -44,6 +45,15 @@ content:
           url: https://3v4l.org/
         - name: 在线golang
           url: https://goplay.tools/
+        - name: Replit
+          description: 在线使用的通用IDE,支持所有主流语言,但是需要登录,比较麻烦
+          url: https://replit.com/
+        - name: Colaboratory
+          description: 可以在线使用的Jupyter notebook环境,机器学习必备
+          url: https://colab.research.google.com/
+        - name: Compiler Explorer
+          description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
+          url: https://godbolt.org/
     - name: 开发工具
       sites:
         - name: pagespeed insights
@@ -84,6 +94,41 @@ content:
         - name: 图解正则Regexper
           description: 图解正则
           url: https://regexper.com/
+    - name: 日常服务
+      sites:
+        - name: markmap
+          description: 在线markdown转思维导图
+          url: https://markmap.js.org/repl
+        - name: mermaid-live-editor
+          description: 在线mermaid编辑器
+          url: https://mermaid.live/edit/
+        - name: 逮蝦戶
+          description: spotify之类境外服务的拼车网站
+          url: https://daixiahu.co/#/buses
+        - name: xclient
+          description: mac的破解软件网站
+          url: https://xclient.info/
+        - name: CloudConvert
+          description: 在线文件转换网站，所有格式应有尽有
+          url: https://cloudconvert.com/
+        - name: 云短信
+          description: 在线短信接收平台,用来注册临时使用(只使用一次)的网站
+          url: https://yunduanxin.net/
+        - name: iLovePDF
+          description: 提供所有PDF相关的在线服务
+          url: https://www.ilovepdf.com/
+        - name: 白描OCR
+          description: 白描OCR的在线服务
+          url: https://web.baimiaoapp.com/
+        - name: StackEdit
+          description: 在线markdown工具，其实没啥用
+          url: https://stackedit.io/
+        - name: TinyPNG
+          description: 在线图片压缩服务
+          url: https://tinypng.com/
+        - name: IPLC.VIP
+          description: 翻墙工具
+          url: https://portal.uuks.club/
     - name: 常用推荐
       sites:
         - name: Dribbble
