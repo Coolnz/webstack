@@ -2,19 +2,19 @@
 title: webstack
 
 # description of website
-description: x1a0xf's navigation site
+description: luckyhakcing's navigation site
 
 # favicon of website
 favicon: "https://webstack.cc/assets/images/favicon.png"
 
 # your website url
-url: https://x1a0xf.github.io/webstack/
+url: https://ws.wrss.top
 
 # github profile url
-github: "https://github.com/91go/webstack"
+github: "https://github.com/toolsz/webstack"
 
 # footer message
-footer: © 2021-2021 @x1a0xf
+footer: © 2021-2021 @luckyhacking
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -164,9 +164,12 @@ content:
 #         - name: IconFont
 #           description: 阿里巴巴矢量图标库
 #           url: http://www.iconfont.cn/
-#         - name: EasyIcon
-#           description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-#           url: http://www.easyicon.cc/
+        - name: EasyIcon
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+          url: http://www.easyicon.cc/
+        - name: FlatIcon
+          description: 类似EasyIcon, 可以直接搜索icon
+          url: https://www.flaticon.com/
 #         - name: 稿定抠图
 #           description: 免费在线抠图软件,图片快速换背景-抠白底图
 #           url: https://www.gaoding.com
