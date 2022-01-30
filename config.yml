@@ -88,6 +88,12 @@ content:
           url: http://www.hailaz.cn/static/pages/tools/tools.html
         - name: JSON转Struct
           url: https://www.printlove.cn/tools/json2go/
+    - name: 开发文档
+      sites:
+        - name: golang标准库
+          url: https://pkg.go.dev/std
+        - name: gf文档
+          url: https://pkg.go.dev/github.com/gogf/gf/v2
     - name: golang平台
       sites:
         - name: CodeCov
