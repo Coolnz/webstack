@@ -196,6 +196,9 @@ content:
         - name: Zamzar
           description:  视频/音频/图片/电子书转换器, 非常强大的在线工具
           url: https://www.zamzar.com/
+        - name: Google翻译
+          description: 
+          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
     - name: 投资
       sites:
         - name: Investment Calculator
