@@ -88,6 +88,17 @@ content:
           url: http://www.hailaz.cn/static/pages/tools/tools.html
         - name: JSON转Struct
           url: https://www.printlove.cn/tools/json2go/
+    - name: golang平台
+      sites:
+        - name: CodeCov
+          description:
+          url: https://about.codecov.io/
+        - name: Go Report Card
+          description:
+          url: https://goreportcard.com/
+        - name: coveralls
+          description:
+          url: https://coveralls.io/
     - name: 云服务
       sites:
         - name: 云片
