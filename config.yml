@@ -205,6 +205,8 @@ content:
         - name: Google翻译
           description: 
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+        - name: ChartCube
+          description: 相当于可以在线使用的echarts, 可以导出饼图柱状图折线图等, 但仅支持导入csv/excel/json数据
     - name: 投资
       sites:
         - name: Investment Calculator
