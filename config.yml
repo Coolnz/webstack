@@ -67,6 +67,9 @@ content:
         - name: misaka ping
           description:
           url: https://ping.sx/ping
+        - name: Github Compare
+          description: 对比多个github的repo, go.libhunt.com也支持类似功能, 但是只能比较golang的lib
+          url: https://www.githubcompare.com/
     - name: golang开发工具
       sites:
         - name: sql-to-struct
