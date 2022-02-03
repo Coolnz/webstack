@@ -207,6 +207,10 @@ content:
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
         - name: ChartCube
           description: 相当于可以在线使用的echarts, 可以导出饼图柱状图折线图等, 但仅支持导入csv/excel/json数据
+          url: https://chartcube.alipay.com/upload
+        - name: 冷熊简历
+          description: 用来生成简历pdf文件, 很不错
+          url: https://cv.ftqq.com/#
     - name: 投资
       sites:
         - name: Investment Calculator
