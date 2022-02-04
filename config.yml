@@ -258,6 +258,8 @@ content:
         - name: Unsplash Instant
           description: 启动页背景图片
           url: https://chrome.google.com/webstore/detail/unsplash-instant/pejkokffkapolfffcgbmdmhdelanoaih
+        - name: Vimium
+          url: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
     - name: github相关拓展
       sites:
         - name: Octotree - GitHub code tree
@@ -274,64 +276,61 @@ content:
           url: https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn
     - name: chrome拓展/其他
       sites:
-        - name: Behave!
-          description: 对网页进行监控和检测，比如端口扫描、访问私有IP、DNS重绑定攻击
-          url: 
         - name: Decentraleyes
           description: 网页加速，隐私保护
-          url:
+          url: https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj
         - name: Axure for chrome
-          description:
-          url:
+          description: Axure插件嘛, 浏览器查看原型什么的
+          url: https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp
         - name: Buster: Captcha Solver for Humans
           description: 处理图片验证码
-          url:
+          url: https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl
         - name: Set Character Encoding
           description: 设置网页的编码方式
-          url: 
+          url: https://chrome.google.com/webstore/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae
         - name: Disable HTML5 Autoplay
-          description: 
-          url:
+          description: 用来控制视频是否自动播放, 很好用, 但是已经长期不维护了
+          url: https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai
         - name: Toggle Tabs
           description: 在两个最近使用的tab间切换
-          url:
+          url: https://chrome.google.com/webstore/detail/toggle-tabs/amlniobkkcncmkejklnnhkbjkmhfjmla
         - name: uBlacklist
           description: 在谷歌的搜索结果中屏蔽特定的网站显示
-          url:
+          url: https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe
         - name: User-Agent Switcher
           description: 切换UA
-          url:
+          url: https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
         - name: Wappalyzer
           description: 查看该网页用了哪些技术栈
-          url:
+          url: https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
         - name: 划词翻译
-          url:
+          url: https://chrome.google.com/webstore/detail/%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/ikhdkkncnoglghljlkmcimlnlhkeamad
         - name: 图片助手ImageAssistant
-          description: 用来下载批量下载图片
-          url:
+          description: 用来下载批量下载图片, 很好用
+          url: https://chrome.google.com/webstore/detail/imageassistant-batch-imag/dbjbempljhcmhlfpfacalomonjpalpko
         - name: 网易云音乐下载插件2.0
           description:
-          url: 
+          url: https://chrome.google.com/webstore/detail/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E4%B8%8B%E8%BD%BD%E6%8F%92%E4%BB%B620/cnlnkiocccioogaajdifbkifbgfaphcg
         - name: 购物党自动比价工具
           description:
-          url:
+          url: https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah?hl=zh-CN
     - name: chrome拓展/弃用备份
       sites:
         - name: Tamper Chrome
-          description: 类似burp suite的工具
-          url:
+          description: 类似burp suite的工具, 修改请求
+          url: https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb
         - name: loom
           description: chrome的录屏插件
-          url:
+          url: https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb
         - name: hqweay/bookmark-tools
           description: mac上chrome书签文件夹转markdown
-          url:
+          url: https://github.com/hqweay/bookmark-tools
         - name: moonD4rk/HackBrowserData
           description: 导出浏览器数据的工具
-          url:
+          url: https://github.com/moonD4rk/HackBrowserData
         - name: 音乐解锁
           description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
-          url:
+          url: https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd
         - name: Enhanced GitHub
           description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载, 所以卸载;
           url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
@@ -340,4 +339,4 @@ content:
           url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
         - name: JetBrains Toolbox Extension
           description: 用来直接在jb家IDE中打开repo, 需要搭配Toolbox的APP使用, 还行但没必要
-          url: 
+          url: https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna
