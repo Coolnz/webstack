@@ -272,12 +272,6 @@ content:
         - name: GitZip for github
           description: 直接下载repo中的文件或文件夹, 记得设置github的AK
           url: https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn
-        - name: Star History
-          description: 查看repo的star历史, 用来对比repo, 查看repo活跃度以及是否刷star
-          url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
-        - name: Enhanced GitHub
-          description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹)
-          url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
     - name: chrome拓展/其他
       sites:
         - name: Behave!
@@ -289,7 +283,7 @@ content:
         - name: Axure for chrome
           description:
           url:
-        - name: Buster
+        - name: Buster: Captcha Solver for Humans
           description: 处理图片验证码
           url:
         - name: Set Character Encoding
@@ -302,7 +296,7 @@ content:
           description: 在两个最近使用的tab间切换
           url:
         - name: uBlacklist
-          description:
+          description: 在谷歌的搜索结果中屏蔽特定的网站显示
           url:
         - name: User-Agent Switcher
           description: 切换UA
@@ -312,7 +306,7 @@ content:
           url:
         - name: 划词翻译
           url:
-        - name: 图片助手
+        - name: 图片助手ImageAssistant
           description: 用来下载批量下载图片
           url:
         - name: 网易云音乐下载插件2.0
@@ -321,7 +315,7 @@ content:
         - name: 购物党自动比价工具
           description:
           url:
-    - name: chrome拓展/暂时不用
+    - name: chrome拓展/弃用备份
       sites:
         - name: Tamper Chrome
           description: 类似burp suite的工具
@@ -338,5 +332,12 @@ content:
         - name: 音乐解锁
           description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
           url:
-
-
+        - name: Enhanced GitHub
+          description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载, 所以卸载;
+          url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
+        - name: Star History
+          description: 查看repo的star历史, 用来对比repo, 查看repo活跃度以及是否刷star
+          url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
+        - name: JetBrains Toolbox Extension
+          description: 用来直接在jb家IDE中打开repo, 需要搭配Toolbox的APP使用, 还行但没必要
+          url: 
