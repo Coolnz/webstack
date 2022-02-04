@@ -235,9 +235,108 @@ content:
         - name: verytoolz
           description: 各种文件格式转换
           url: https://verytoolz.com/yaml-parser.html
-    - name: chrome拓展
+    - name: chrome拓展/必备
       sites:
         - name: FeHelper
           description: 前端助手
           url: https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN
+        - name: OneTab
+          url: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+        - name: AdGuard
+          description: 广告拦截器
+          url: https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg
+        - name: RSSHub Rader
+          url: https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa
+        - name: Tampermonkey油猴
+          url: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+        - name: Bookmarks clean up
+          description: 清理chrome书签
+          url: https://chrome.google.com/webstore/detail/bookmarks-clean-up/oncbjlgldmiagjophlhobkogeladjijl
+        - name: 下载+
+          description:
+          url: https://chrome.google.com/webstore/detail/download-plus/gokgophibdidjjpildcdbfpmcahilaaf
+        - name: Unsplash Instant
+          description: 启动页背景图片
+          url: https://chrome.google.com/webstore/detail/unsplash-instant/pejkokffkapolfffcgbmdmhdelanoaih
+    - name: github相关拓展
+      sites:
+        - name: Octotree - GitHub code tree
+          description: repo的文件树, 必备
+          url: https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc
+        - name: Sourcegraph
+          description: 查看func的定义和引用
+          url: https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack
+        - name: Gitpod
+          description: 浏览器vscode, 本身github就支持该功能, 但是gitpod更好用
+          url: https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki
+        - name: GitZip for github
+          description: 直接下载repo中的文件或文件夹, 记得设置github的AK
+          url: https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn
+        - name: Star History
+          description: 查看repo的star历史, 用来对比repo, 查看repo活跃度以及是否刷star
+          url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
+        - name: Enhanced GitHub
+          description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹)
+          url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
+    - name: chrome拓展/其他
+      sites:
+        - name: Behave!
+          description: 对网页进行监控和检测，比如端口扫描、访问私有IP、DNS重绑定攻击
+          url: 
+        - name: Decentraleyes
+          description: 网页加速，隐私保护
+          url:
+        - name: Axure for chrome
+          description:
+          url:
+        - name: Buster
+          description: 处理图片验证码
+          url:
+        - name: Set Character Encoding
+          description: 设置网页的编码方式
+          url: 
+        - name: Disable HTML5 Autoplay
+          description: 
+          url:
+        - name: Toggle Tabs
+          description: 在两个最近使用的tab间切换
+          url:
+        - name: uBlacklist
+          description:
+          url:
+        - name: User-Agent Switcher
+          description: 切换UA
+          url:
+        - name: Wappalyzer
+          description: 查看该网页用了哪些技术栈
+          url:
+        - name: 划词翻译
+          url:
+        - name: 图片助手
+          description: 用来下载批量下载图片
+          url:
+        - name: 网易云音乐下载插件2.0
+          description:
+          url: 
+        - name: 购物党自动比价工具
+          description:
+          url:
+    - name: chrome拓展/暂时不用
+      sites:
+        - name: Tamper Chrome
+          description: 类似burp suite的工具
+          url:
+        - name: loom
+          description: chrome的录屏插件
+          url:
+        - name: hqweay/bookmark-tools
+          description: mac上chrome书签文件夹转markdown
+          url:
+        - name: moonD4rk/HackBrowserData
+          description: 导出浏览器数据的工具
+          url:
+        - name: 音乐解锁
+          description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
+          url:
+
 
