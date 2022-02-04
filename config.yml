@@ -235,4 +235,9 @@ content:
         - name: verytoolz
           description: 各种文件格式转换
           url: https://verytoolz.com/yaml-parser.html
+    - name: chrome拓展
+      sites:
+        - name: FeHelper
+          description: 前端助手
+          url: https://chrome.google.com/webstore/detail/fehelper%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8B/pkgccpejnmalmdinmhkkfafefagiiiad?hl=zh-CN
 
