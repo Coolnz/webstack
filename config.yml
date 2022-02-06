@@ -70,6 +70,9 @@ content:
         - name: Github Compare
           description: 对比多个github的repo, go.libhunt.com也支持类似功能, 但是只能比较golang的lib
           url: https://www.githubcompare.com/
+        - name: ProgramCreek
+          description: 一些lib的使用例子, 但是只支持java/python/c++/scala, 不知道某个lib的用法时, 可以先在这个网站查查
+          url: https://www.programcreek.com/
     - name: golang开发工具
       sites:
         - name: sql-to-struct
@@ -282,7 +285,7 @@ content:
         - name: Axure for chrome
           description: Axure插件嘛, 浏览器查看原型什么的
           url: https://chrome.google.com/webstore/detail/axure-rp-extension-for-ch/dogkpdfcklifaemcdfbildhcofnopogp
-        - name: Buster: Captcha Solver for Humans
+        - name: Buster - Captcha Solver for Humans
           description: 处理图片验证码
           url: https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl
         - name: Set Character Encoding
