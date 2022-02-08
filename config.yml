@@ -217,6 +217,9 @@ content:
         - name: 冷熊简历
           description: 用来生成简历pdf文件, 很不错
           url: https://cv.ftqq.com/#
+        - name: 开源服务的badage服务
+          description: 提供了很多常用badage, 比如license/发布版本/下载量/文档/last-commit时间, 还可以定制徽章, 比如qq群/捐赠地址等;
+          url: https://shields.io/
     - name: 投资
       sites:
         - name: Investment Calculator
