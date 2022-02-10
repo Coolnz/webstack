@@ -320,6 +320,9 @@ content:
         - name: 购物党自动比价工具
           description:
           url: https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah?hl=zh-CN
+        - name: BlockSite
+          description: 禁止访问指定网站, 支持跨浏览器
+          url: https://chrome.google.com/webstore/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh
     - name: chrome拓展/弃用备份
       sites:
         - name: Tamper Chrome
