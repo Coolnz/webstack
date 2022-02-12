@@ -220,6 +220,9 @@ content:
         - name: 开源服务的badage服务
           description: 提供了很多常用badage, 比如license/发布版本/下载量/文档/last-commit时间, 还可以定制徽章, 比如qq群/捐赠地址等;
           url: https://shields.io/
+        - name: httpbin
+          description: 用来通过查看url请求是否符合预期, 来看代码是否有问题, 或者当前网络环境(比如容器内)是否有问题
+          url: http://httpbin.org/
     - name: 投资
       sites:
         - name: Investment Calculator
@@ -231,16 +234,25 @@ content:
         - name: Neat Reader
           description: 在线阅读ePUB/mobi等格式文件, 阅读体验不错, 不再需要下载calibre之类的本地阅读器
           url: https://www.neat-reader.cn/
+        - name: Kaggle
+          description: 数据挖掘的比赛网站
+          url: https://www.kaggle.com/
+        - name: JoinQuant聚宽量化交易平台
+          description: 相当于国内的Kaggle, 没事下载几个策略跑跑
+          url: https://www.joinquant.com/
     - name: 综合在线工具
       sites:
         - name: OKTools
           url: https://oktools.net/number
         - name: transform
-          description: 各种文件格式转换
+          description: 各种数据类型转换
           url: https://transform.tools/
         - name: verytoolz
-          description: 各种文件格式转换
+          description: 各种数据类型转换
           url: https://verytoolz.com/yaml-parser.html
+        - name: online-xxx-tools
+          description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
+          url: https://onlinecsvtools.com/
     - name: chrome拓展/必备
       sites:
         - name: FeHelper
