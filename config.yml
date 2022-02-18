@@ -100,6 +100,9 @@ content:
           url: https://pkg.go.dev/std
         - name: gf文档
           url: https://pkg.go.dev/github.com/gogf/gf/v2
+        - name: Goland文档
+          description: IDE相关问题别再乱查各种帖子了，直接看文档最好
+          url: https://www.jetbrains.com/help/go/meet-the-product.html
     - name: golang平台
       sites:
         - name: CodeCov
