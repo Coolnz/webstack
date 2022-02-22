@@ -103,6 +103,8 @@ content:
         - name: Goland文档
           description: IDE相关问题别再乱查各种帖子了，直接看文档最好
           url: https://www.jetbrains.com/help/go/meet-the-product.html
+        - name: alpine-packages
+          url: https://pkgs.alpinelinux.org/packages
     - name: golang平台
       sites:
         - name: CodeCov
