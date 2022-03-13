@@ -41,6 +41,7 @@ content:
         - name: Compiler Explorer
           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
           url: https://godbolt.org/
+          
     - name: 开发工具
       sites:
         - name: Pagespeed Insights
@@ -55,12 +56,6 @@ content:
         - name: 网易DNS检测工具
           description: 
           url: http://nstool.netease.com/
-        - name: CSVJSON
-          description: 用来csv和json之间互转, 以及json美化和json检验
-          url: https://csvjson.com/
-        - name: JSON Editor Online
-          description: JSON 工具，可以对比两个 JSON，以及分享 JSON 片段
-          url: https://jsoneditoronline.org/
         - name: Diffchecker
           description: diff 工具，diff 文本、diff 图片、diff PDF
           url: https://www.diffchecker.com/diff
@@ -73,11 +68,27 @@ content:
         - name: ProgramCreek
           description: 一些lib的使用例子, 但是只支持java/python/c++/scala, 不知道某个lib的用法时, 可以先在这个网站查查
           url: https://www.programcreek.com/
+          
+          
+    - name: 综合在线工具
+      sites:
+        - name: OKTools
+          url: https://oktools.net/number
+        - name: transform
+          description: 各种数据类型转换
+          url: https://transform.tools/
+        - name: verytoolz
+          description: 各种数据类型转换
+          url: https://verytoolz.com/yaml-parser.html
+        - name: online-xxx-tools
+          description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
+          url: https://onlinecsvtools.com/
+        - name: CloudConvert
+          description: 在线文件转换网站，所有格式应有尽有
+          url: https://cloudconvert.com/
+          
     - name: 开发文档
       sites:
-        - name: API Hub
-          description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
-          url: https://www.apifox.cn/apihub/
         - name: golang标准库
           url: https://pkg.go.dev/std
         - name: gf文档
@@ -98,8 +109,11 @@ content:
         - name: coveralls
           description:
           url: https://coveralls.io/
-    - name: 云服务
+    - name: 云服务文档
       sites:
+        - name: API Hub
+          description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
+          url: https://www.apifox.cn/apihub/
         - name: 云片
           url: https://www.yunpian.com/
         - name: 聚合数据
@@ -150,9 +164,6 @@ content:
         - name: xclient
           description: mac的破解软件
           url: https://xclient.info/
-        - name: CloudConvert
-          description: 在线文件转换网站，所有格式应有尽有
-          url: https://cloudconvert.com/
         - name: Table Convert
           description: tableconvert
           url: https://tableconvert.com/
@@ -230,19 +241,9 @@ content:
         - name: JoinQuant聚宽量化交易平台
           description: 相当于国内的Kaggle, 没事下载几个策略跑跑
           url: https://www.joinquant.com/
-    - name: 综合在线工具
-      sites:
-        - name: OKTools
-          url: https://oktools.net/number
-        - name: transform
-          description: 各种数据类型转换
-          url: https://transform.tools/
-        - name: verytoolz
-          description: 各种数据类型转换
-          url: https://verytoolz.com/yaml-parser.html
-        - name: online-xxx-tools
-          description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
-          url: https://onlinecsvtools.com/
+
+          
+          
 #     - name: chrome拓展/弃用备份
 #       sites:
 #         - name: Tamper Chrome
