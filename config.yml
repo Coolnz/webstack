@@ -96,6 +96,9 @@ content:
           url: https://www.printlove.cn/tools/json2go/
     - name: 开发文档
       sites:
+        - name: API Hub
+          description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
+          url: https://www.apifox.cn/apihub/
         - name: golang标准库
           url: https://pkg.go.dev/std
         - name: gf文档
