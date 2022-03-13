@@ -73,27 +73,6 @@ content:
         - name: ProgramCreek
           description: 一些lib的使用例子, 但是只支持java/python/c++/scala, 不知道某个lib的用法时, 可以先在这个网站查查
           url: https://www.programcreek.com/
-    - name: golang开发工具
-      sites:
-        - name: sql-to-struct
-          description: 在线sql转struct
-          url: http://sql2struct.atotoa.com/
-        - name: curl-to-go
-          description: curl-to-go
-          url: https://mholt.github.io/curl-to-go/
-        - name: JSON-to-GO
-          description:
-          url: https://mholt.github.io/json-to-go/
-        - name: YAML-to-go
-          description: YAML-to-Go
-          url: https://zhwt.github.io/yaml-to-go/
-        - name: TOML-to-go
-          description: 
-          url: https://xuri.me/toml-to-go/
-        - name: json-to-struct
-          url: http://www.hailaz.cn/static/pages/tools/tools.html
-        - name: JSON转Struct
-          url: https://www.printlove.cn/tools/json2go/
     - name: 开发文档
       sites:
         - name: API Hub
@@ -264,29 +243,29 @@ content:
         - name: online-xxx-tools
           description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
           url: https://onlinecsvtools.com/
-    - name: chrome拓展/弃用备份
-      sites:
-        - name: Tamper Chrome
-          description: 类似burp suite的工具, 修改请求
-          url: https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb
-        - name: loom
-          description: chrome的录屏插件
-          url: https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb
-        - name: hqweay/bookmark-tools
-          description: mac上chrome书签文件夹转markdown
-          url: https://github.com/hqweay/bookmark-tools
-        - name: moonD4rk/HackBrowserData
-          description: 导出浏览器数据的工具
-          url: https://github.com/moonD4rk/HackBrowserData
-        - name: 音乐解锁
-          description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
-          url: https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd
-        - name: Enhanced GitHub
-          description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载, 所以卸载;
-          url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
-        - name: Star History
-          description: 查看repo的star历史, 用来对比repo, 查看repo活跃度以及是否刷star
-          url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
-        - name: JetBrains Toolbox Extension
-          description: 用来直接在jb家IDE中打开repo, 需要搭配Toolbox的APP使用, 还行但没必要
-          url: https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna
+#     - name: chrome拓展/弃用备份
+#       sites:
+#         - name: Tamper Chrome
+#           description: 类似burp suite的工具, 修改请求
+#           url: https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb
+#         - name: loom
+#           description: chrome的录屏插件
+#           url: https://chrome.google.com/webstore/detail/loom-%E2%80%93-free-screen-and-ca/liecbddmkiiihnedobmlmillhodjkdmb
+#         - name: hqweay/bookmark-tools
+#           description: mac上chrome书签文件夹转markdown
+#           url: https://github.com/hqweay/bookmark-tools
+#         - name: moonD4rk/HackBrowserData
+#           description: 导出浏览器数据的工具
+#           url: https://github.com/moonD4rk/HackBrowserData
+#         - name: 音乐解锁
+#           description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
+#           url: https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd
+#         - name: Enhanced GitHub
+#           description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载, 所以卸载;
+#           url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
+#         - name: Star History
+#           description: 查看repo的star历史, 用来对比repo, 查看repo活跃度以及是否刷star
+#           url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
+#         - name: JetBrains Toolbox Extension
+#           description: 用来直接在jb家IDE中打开repo, 需要搭配Toolbox的APP使用, 还行但没必要
+#           url: https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna
