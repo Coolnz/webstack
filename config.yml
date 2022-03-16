@@ -176,9 +176,9 @@ content:
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
-        - name: StackEdit
-          description: 在线markdown工具，其实没啥用
-          url: https://stackedit.io/
+        - name: 在线markdown编辑器
+          description: 比StackEdit好用很多
+          url: https://md.mzr.me/
         - name: TinyPNG
           description: 在线图片压缩服务
           url: https://tinypng.com/
