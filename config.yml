@@ -158,6 +158,9 @@ content:
         - name: Excalidraw
           description: 流程图工具，可以画手写风格的图表
           url: https://excalidraw.com/
+        - name: OpenSource Builders
+          description: 一些服务的开源替代品，还不错
+          url: https://opensource.builders/
         - name: 逮蝦戶
           description: spotify之类境外服务的拼车网站
           url: https://daixiahu.co/#/buses
@@ -177,7 +180,7 @@ content:
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
         - name: 在线markdown编辑器
-          description: 比StackEdit好用很多
+          description: 比StackEdit好用很多，用来辅助处理一些md格式问题
           url: https://md.mzr.me/
         - name: TinyPNG
           description: 在线图片压缩服务
