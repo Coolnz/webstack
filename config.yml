@@ -239,6 +239,8 @@ content:
           url: https://github.com/marketplace?type=actions
         - name: gh-actions官方文档
           url: https://docs.github.com/cn/actions/quickstart
+        - name: gitlab官方文档
+          url: https://docs.gitlab.com/ee/
 
 
 
