@@ -108,6 +108,12 @@ content:
           url: https://www.jetbrains.com/help/go/meet-the-product.html
         - name: alpine-packages
           url: https://pkgs.alpinelinux.org/packages
+        - name: GORM文档
+          url: https://gorm.io/docs/
+          
+          
+          
+          
     - name: golang平台
       sites:
         - name: CodeCov
@@ -241,6 +247,7 @@ content:
           url: https://docs.github.com/cn/actions/quickstart
         - name: gitlab官方文档
           url: https://docs.gitlab.com/ee/
+        
 
 
 
