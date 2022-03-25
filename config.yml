@@ -103,6 +103,8 @@ content:
           url: https://pkg.go.dev/std
         - name: gf文档
           url: https://pkg.go.dev/github.com/gogf/gf/v2
+        - name: go-zero文档
+          url: https://go-zero.dev/cn/
         - name: Goland文档
           description: IDE相关问题别再乱查各种帖子了，直接看文档最好
           url: https://www.jetbrains.com/help/go/meet-the-product.html
@@ -110,6 +112,24 @@ content:
           url: https://pkgs.alpinelinux.org/packages
         - name: GORM文档
           url: https://gorm.io/docs/
+        - name: pre-commit的hooks和文档
+          description: 提供的所有hooks，也可以看看文档
+          url: https://pre-commit.com/hooks.html
+        - name: Docker文档
+          description: 文档写的特别好，三个部分: docker命令/Dockerfile/docker-compose
+          url: https://docs.docker.com/engine/reference/run/
+        - name: k8s文档
+          url: https://kubernetes.io/zh/docs/reference/
+        - name: Prometheus文档
+          url: https://prometheus.io/docs/prometheus/latest/getting_started/
+        - name: Redis命令/文档
+          description: 主要用来查命令，当然，别忘了还有文档
+          url: https://redis.io/commands/
+        - name: Gitea文档
+          description: 没什么好看的，很简单的服务
+          url: https://docs.gitea.io/zh-cn/
+        - name: UmiJS文档
+          url: https://umijs.org/zh-CN/docs/load-on-demand
           
           
           
