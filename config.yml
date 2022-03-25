@@ -116,7 +116,7 @@ content:
           description: 提供的所有hooks，也可以看看文档
           url: https://pre-commit.com/hooks.html
         - name: Docker文档
-          description: 文档写的特别好，三个部分: docker命令/Dockerfile/docker-compose
+          description: 文档写的特别好，三个部分：docker命令/Dockerfile/docker-compose
           url: https://docs.docker.com/engine/reference/run/
         - name: k8s文档
           url: https://kubernetes.io/zh/docs/reference/
