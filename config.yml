@@ -111,7 +111,7 @@ content:
         - name: alpine-packages
           url: https://pkgs.alpinelinux.org/packages
         - name: GORM文档
-          url: https://gorm.io/docs/
+          url: https://gorm.io/zh_CN/docs/index.html
         - name: pre-commit的hooks和文档
           description: 提供的所有hooks，也可以看看文档
           url: https://pre-commit.com/hooks.html
