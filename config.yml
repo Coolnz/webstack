@@ -126,10 +126,11 @@ content:
           description: 主要用来查命令，当然，别忘了还有文档
           url: https://redis.io/commands/
         - name: Gitea文档
-          description: 没什么好看的，很简单的服务
           url: https://docs.gitea.io/zh-cn/
         - name: UmiJS文档
           url: https://umijs.org/zh-CN/docs/load-on-demand
+        - name: casbin文档
+          url: https://casbin.org/docs/zh-CN/overview
           
           
           
@@ -253,7 +254,7 @@ content:
           url: http://httpbin.org/
         - name: Neat Reader
           description: 在线阅读ePUB/mobi等格式文件, 阅读体验不错, 不再需要下载calibre之类的本地阅读器
-          url: https://www.neat-reader.cn/
+          url: https://www.neat-reader.cn/webapp#/
     - name: xxx
       sites:
         - name: LeetCode
