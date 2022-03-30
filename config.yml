@@ -211,7 +211,9 @@ content:
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
-
+        - name: WakaTime
+          description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
+          url: https://wakatime.com/dashboard
 
 
 
