@@ -68,6 +68,10 @@ content:
         - name: ProgramCreek
           description: 一些lib的使用例子, 但是只支持java/python/c++/scala, 不知道某个lib的用法时, 可以先在这个网站查查
           url: https://www.programcreek.com/
+        - name: 阿里云镜像站
+          url: https://developer.aliyun.com/mirror/
+        - name: 中科大镜像站
+          url: https://mirrors.ustc.edu.cn/
           
           
     - name: 数据转换工具
