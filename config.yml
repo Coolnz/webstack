@@ -68,10 +68,13 @@ content:
         - name: ProgramCreek
           description: 一些lib的使用例子, 但是只支持java/python/c++/scala, 不知道某个lib的用法时, 可以先在这个网站查查
           url: https://www.programcreek.com/
-        - name: 阿里云镜像站
+        - name: 阿里云镜像源
           url: https://developer.aliyun.com/mirror/
-        - name: 中科大镜像站
+        - name: 中科大镜像源
           url: https://mirrors.ustc.edu.cn/
+        - name: 数据结构模拟 Data Structure Visualizations
+          description: 各种数据结构的动画
+          url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
           
           
     - name: 数据转换工具
@@ -127,7 +130,7 @@ content:
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
         - name: Redis命令/文档
-          description: 主要用来查命令，当然，别忘了还有文档
+          description: 主要用来查命令；当然，还有文档；
           url: https://redis.io/commands/
         - name: Gitea文档
           url: https://docs.gitea.io/zh-cn/
@@ -135,6 +138,9 @@ content:
           url: https://umijs.org/zh-CN/docs/load-on-demand
         - name: casbin文档
           url: https://casbin.org/docs/zh-CN/overview
+        - name: Ansible文档
+          description: 找了几个中文版文档，版本都很老；将就看英文版吧；
+          url: https://docs.ansible.com/ansible/latest/index.html
           
           
           
