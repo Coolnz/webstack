@@ -273,6 +273,10 @@ content:
         - name: 写作猫
           description: 非常好用，写点文档什么的；
           url: https://xiezuocat.com/#/
+        - name: DNSdumpster
+          description: 查看某个域名下的所有二级域名
+          url: https://dnsdumpster.com/
+          
     - name: xxx
       sites:
         - name: LeetCode
