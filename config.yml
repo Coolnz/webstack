@@ -194,10 +194,18 @@ content:
         - name: 正则大全any-rule
           description: 收录了常用业务的正则
           url: https://any86.github.io/any-rule/
-        - name: 图解正则Regexper
-          description: 图解正则
-          url: https://regexper.com/
-          
+        - name: iHateRegex
+          description: 收录了更多的常用正则
+          url: https://ihateregex.io/
+        - name: 图解正则regex-vis
+          description: 比Regexper好用
+          url: https://regex-vis.com/
+        - name: regexlearn
+          description: regex游乐场
+          url: https://regexlearn.com/zh-cn/learn
+
+
+
     - name: 文档工具
       sites:
         - name: Markmap
@@ -309,6 +317,9 @@ content:
         - name: JoinQuant聚宽量化交易平台
           description: 相当于国内的Kaggle, 没事下载几个策略跑跑
           url: https://www.joinquant.com/
+        - name: paperswithcode
+          description: 论文+代码，ML相关
+          url: https://paperswithcode.com/
 
 
 #       - name: 弃用网站
