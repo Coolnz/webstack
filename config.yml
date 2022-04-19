@@ -144,7 +144,8 @@ content:
         - name: Ansible文档
           description: 找了几个中文版文档，版本都很老；将就看英文版吧；
           url: https://docs.ansible.com/ansible/latest/index.html
-          
+        - name: Ansible Galaxy
+          url: https://galaxy.ansible.com/home
           
           
           
