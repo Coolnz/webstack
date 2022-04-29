@@ -321,6 +321,11 @@ content:
         - name: paperswithcode
           description: 论文+代码，ML相关
           url: https://paperswithcode.com/
+    - name:
+        - name: ProductZ
+          url: https://productz.com/en
+        - name: Top10Zone
+          url: https://www.top10-zone.com/
 
 
 #       - name: 弃用网站
