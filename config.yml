@@ -285,6 +285,8 @@ content:
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
+        - name: 在线尺子achizi
+          url: http://achizi.com/
           
     - name: xxx
       sites:
