@@ -146,6 +146,9 @@ content:
           url: https://docs.ansible.com/ansible/latest/index.html
         - name: Ansible Galaxy
           url: https://galaxy.ansible.com/home
+        - name: Element文档
+          description: ⚠️注意版本
+          url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
           
           
           
@@ -323,11 +326,23 @@ content:
         - name: paperswithcode
           description: 论文+代码，ML相关
           url: https://paperswithcode.com/
-    - name:
+    - name: 日常生活
+      sites:
         - name: ProductZ
           url: https://productz.com/en
         - name: Top10Zone
           url: https://www.top10-zone.com/
+        - name: 始祖鸟
+          url: https://arcteryx.com/ca/zh/c/mens
+        - name: 始祖鸟leaf
+          url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
+        - name: IKEA
+          url: https://www.ikea.cn/cn/zh/cat/chu-wu-he-shou-na-st001/
+        - name: MUJI
+          url: https://www.muji.com.cn/cn/store/
+
+
+
 
 
 #       - name: 弃用网站
