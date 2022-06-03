@@ -340,6 +340,9 @@ content:
           url: https://www.ikea.cn/cn/zh/cat/chu-wu-he-shou-na-st001/
         - name: MUJI
           url: https://www.muji.com.cn/cn/store/
+        - name: REI
+          description: 户外测评
+          url: https://www.rei.com/
 
 
 
