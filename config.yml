@@ -149,6 +149,8 @@ content:
         - name: Element文档
           description: ⚠️注意版本
           url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
+        - name: Element Plus文档
+          url: https://element-plus.gitee.io/zh-CN/component/button.html
           
           
           
