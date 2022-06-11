@@ -282,6 +282,8 @@ content:
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
+        - name: 硬创社
+          url: https://x.jlc.com/
 
           
     - name: xxx
