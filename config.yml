@@ -229,6 +229,20 @@ content:
         - name: Table Convert
           description: tableconvert
           url: https://tableconvert.com/
+    - name: web3
+      sites:
+        - name: Seed Club
+          url: https://www.seedclub.xyz/
+        - name: Mirror
+          url: https://mirror.xyz/
+        - name: UNISWAP
+          url: https://uniswap.org/
+        - name: FWB
+          url: https://www.fwb.help/
+        - name: Bankless DAO
+          url: https://www.bankless.community/
+        - name: DAOrayaki
+          url: https://media.daorayaki.org/
           
           
           
