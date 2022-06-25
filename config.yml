@@ -128,8 +128,7 @@ content:
         - name: Docker文档
           description: 文档写的特别好，三个部分：docker命令/Dockerfile/docker-compose
           url: https://docs.docker.com/engine/reference/run/
-        - name: k8s文档
-          url: https://kubernetes.io/zh/docs/reference/
+
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
         - name: Redis命令/文档
@@ -152,7 +151,12 @@ content:
         - name: Element Plus文档
           url: https://element-plus.gitee.io/zh-CN/component/button.html
           
-          
+    - name: k8s
+      sites:
+        - name: k8s文档
+          url: https://kubernetes.io/zh/docs/reference/
+        - name: kubesphere
+          url: https://kubesphere.io/zh/
           
     - name: golang平台
       sites:
