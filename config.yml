@@ -360,7 +360,18 @@ content:
           description: 非常好用，写点文档什么的；
           url: https://xiezuocat.com/#/
           
-          
+    - name: 自建服务
+      sites:
+        - name: alist
+          url: https://alist.wrss.top/aliyundrive
+        - name: mali
+          url: https://mali.wrss.top/
+        - name: rsshub
+          url: https://ttrss.wrss.top/
+        - name: 阿里云盘
+          url: https://www.aliyundrive.com/drive
+
+
 
     - name: 购物
       sites:
