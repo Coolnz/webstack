@@ -42,6 +42,8 @@ content:
           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
           url: https://godbolt.org/
           
+          
+          
     - name: 开发工具
       sites:
         - name: Pagespeed Insights
@@ -93,6 +95,7 @@ content:
         - name: online-xxx-tools
           description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
           url: https://onlinecsvtools.com/
+
 
     - name: 文件转换工具
       sites:
@@ -150,25 +153,27 @@ content:
           url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
         - name: Element Plus文档
           url: https://element-plus.gitee.io/zh-CN/component/button.html
-          
-    - name: k8s
-      sites:
+ 
         - name: k8s文档
           url: https://kubernetes.io/zh/docs/reference/
         - name: kubesphere
           url: https://kubesphere.io/zh/
+
+        - name: LeetCode
+          url: https://leetcode-cn.com/
+        - name: CodeTop企业题库
+          url: https://codetop.cc/home
+        - name: gh-actions集合
+          description:
+          url: https://github.com/marketplace?type=actions
+        - name: gh-actions官方文档
+          url: https://docs.github.com/cn/actions/quickstart
+        - name: gitlab官方文档
+          url: https://docs.gitlab.com/ee/
           
-    - name: golang平台
-      sites:
-        - name: CodeCov
-          description:
-          url: https://about.codecov.io/
-        - name: Go Report Card
-          description:
-          url: https://goreportcard.com/
-        - name: coveralls
-          description:
-          url: https://coveralls.io/
+          
+          
+
     - name: 云服务文档
       sites:
         - name: API Hub
@@ -213,26 +218,37 @@ content:
         - name: regexlearn
           description: regex游乐场
           url: https://regexlearn.com/zh-cn/learn
-
-
-
-    - name: 文档工具
+    - name: golang平台
       sites:
-        - name: Markmap
-          description: 在线markdown转思维导图
-          url: https://markmap.js.org/repl
-        - name: Mermaid Live Editor
-          description: 在线mermaid编辑器
-          url: https://mermaid.live/edit/
-        - name: Excalidraw
-          description: 流程图工具，可以画手写风格的图表
-          url: https://excalidraw.com/
-        - name: 在线markdown编辑器
-          description: 比StackEdit好用很多，用来辅助处理一些md格式问题
-          url: https://md.mzr.me/
-        - name: Table Convert
-          description: tableconvert
-          url: https://tableconvert.com/
+        - name: CodeCov
+          description:
+          url: https://about.codecov.io/
+        - name: Go Report Card
+          description:
+          url: https://goreportcard.com/
+        - name: coveralls
+          description:
+          url: https://coveralls.io/
+
+
+#     - name: 文档工具
+#       sites:
+#         - name: Markmap
+#           description: 在线markdown转思维导图
+#           url: https://markmap.js.org/repl
+#         - name: Mermaid Live Editor
+#           description: 在线mermaid编辑器
+#           url: https://mermaid.live/edit/
+#         - name: Excalidraw
+#           description: 流程图工具，可以画手写风格的图表
+#           url: https://excalidraw.com/
+#         - name: 在线markdown编辑器
+#           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
+#           url: https://md.mzr.me/
+
+          
+          
+          
     - name: web3
       sites:
         - name: Seed Club
@@ -250,75 +266,6 @@ content:
           
           
           
-    - name: 日常服务
-      sites:
-
-        - name: OpenSource Builders
-          description: 一些服务的开源替代品，还不错
-          url: https://opensource.builders/
-        - name: WakaTime
-          description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
-          url: https://wakatime.com/dashboard
-
-
-
-        - name: 白描OCR
-          description: 白描OCR的在线服务
-          url: https://web.baimiaoapp.com/
-
-
-        - name: IPLC
-          description: 翻墙工具
-          url: https://portal.uuks.club/
-
-        - name: EasyIcon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.cc/
-        - name: FlatIcon
-          description: 类似EasyIcon, 可以直接搜索icon
-          url: https://www.flaticon.com/
-
-
-
-        - name: Google翻译
-          description: 
-          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
-        - name: ChartCube
-          description: 相当于可以在线使用的echarts, 可以导出饼图柱状图折线图等, 但仅支持导入csv/excel/json数据
-          url: https://chartcube.alipay.com/upload
-        - name: 冷熊简历
-          description: 用来生成简历pdf文件, 很不错
-          url: https://cv.ftqq.com/#
-        - name: 开源服务的badage服务
-          description: 提供了很多常用badage, 比如license/发布版本/下载量/文档/last-commit时间, 还可以定制徽章, 比如qq群/捐赠地址等;
-          url: https://shields.io/
-        - name: httpbin
-          description: 用来通过查看url请求是否符合预期, 来看代码是否有问题, 或者当前网络环境(比如容器内)是否有问题
-          url: http://httpbin.org/
-
-
-        - name: DNSdumpster
-          description: 查看某个域名下的所有二级域名
-          url: https://dnsdumpster.com/
-        - name: 硬创社
-          url: https://x.jlc.com/
-
-          
-    - name: xxx
-      sites:
-        - name: LeetCode
-          url: https://leetcode-cn.com/
-        - name: CodeTop企业题库
-          url: https://codetop.cc/home
-        - name: gh-actions集合
-          description:
-          url: https://github.com/marketplace?type=actions
-        - name: gh-actions官方文档
-          url: https://docs.github.com/cn/actions/quickstart
-        - name: gitlab官方文档
-          url: https://docs.gitlab.com/ee/
-        
-
 
 
     - name: 投资
@@ -343,6 +290,48 @@ content:
 
     - name: 日常生活
       sites:
+        - name: OpenSource Builders
+          description: 一些服务的开源替代品，还不错
+          url: https://opensource.builders/
+        - name: WakaTime
+          description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
+          url: https://wakatime.com/dashboard
+
+        - name: 白描OCR
+          description: 白描OCR的在线服务
+          url: https://web.baimiaoapp.com/
+        - name: IPLC
+          description: 翻墙工具
+          url: https://portal.uuks.club/
+        - name: EasyIcon
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+          url: http://www.easyicon.cc/
+        - name: FlatIcon
+          description: 类似EasyIcon, 可以直接搜索icon
+          url: https://www.flaticon.com/
+
+        - name: Google翻译
+          description: 
+          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+        - name: ChartCube
+          description: 相当于可以在线使用的echarts, 可以导出饼图柱状图折线图等, 但仅支持导入csv/excel/json数据
+          url: https://chartcube.alipay.com/upload
+        - name: 冷熊简历
+          description: 用来生成简历pdf文件, 很不错
+          url: https://cv.ftqq.com/#
+        - name: 开源服务的badage服务
+          description: 提供了很多常用badage, 比如license/发布版本/下载量/文档/last-commit时间, 还可以定制徽章, 比如qq群/捐赠地址等;
+          url: https://shields.io/
+        - name: httpbin
+          description: 用来通过查看url请求是否符合预期, 来看代码是否有问题, 或者当前网络环境(比如容器内)是否有问题
+          url: http://httpbin.org/
+
+        - name: DNSdumpster
+          description: 查看某个域名下的所有二级域名
+          url: https://dnsdumpster.com/
+        - name: 硬创社
+          url: https://x.jlc.com/
+          
         - name: TinyPNG
           description: 在线图片压缩服务
           url: https://tinypng.com/
@@ -359,6 +348,12 @@ content:
         - name: 写作猫
           description: 非常好用，写点文档什么的；
           url: https://xiezuocat.com/#/
+
+        - name: Table Convert
+          description: tableconvert
+          url: https://tableconvert.com/
+          
+          
           
     - name: 自建服务
       sites:
