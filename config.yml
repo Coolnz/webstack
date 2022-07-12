@@ -158,6 +158,9 @@ content:
           url: https://kubernetes.io/zh/docs/reference/
         - name: kubesphere
           url: https://kubesphere.io/zh/
+        - name: Artifact Hub
+          url: https://artifacthub.io/packages/search?sort=relevance&page=1
+
 
         - name: LeetCode
           url: https://leetcode-cn.com/
