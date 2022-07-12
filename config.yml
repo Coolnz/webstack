@@ -160,6 +160,8 @@ content:
           url: https://kubesphere.io/zh/
         - name: Artifact Hub
           url: https://artifacthub.io/packages/search?sort=relevance&page=1
+        - name: Helm
+          url: https://helm.sh/zh/docs/intro/quickstart/
 
 
         - name: LeetCode
