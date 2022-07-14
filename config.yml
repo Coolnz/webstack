@@ -162,6 +162,9 @@ content:
           url: https://artifacthub.io/packages/search?sort=relevance&page=1
         - name: Helm
           url: https://helm.sh/zh/docs/intro/quickstart/
+        - name: 云原生资料库
+          description: k8s/Istio/Envoy教程
+          url: https://lib.jimmysong.io/kubernetes-handbook/
 
 
         - name: LeetCode
