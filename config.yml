@@ -25,50 +25,56 @@ template: webstack
 
 content:
   categories:
-    - name: 在线IDE
-      sites:
-        - name: 在线golang
-          description: 有代码提示, 比golang官方的playground好用
-          url: https://goplay.tools/
-        - name: 在线PHP
-          url: https://3v4l.org/
-        - name: Replit
-          description: 在线使用的通用IDE, 支持所有主流语言, 但是需要登录, 比较麻烦
-          url: https://replit.com/
-        - name: Colaboratory
-          description: 在线使用的Jupyter notebook环境, 机器学习必备
-          url: https://colab.research.google.com/
-        - name: Compiler Explorer
-          description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
-          url: https://godbolt.org/
-          
-          
           
     - name: 开发工具
       sites:
+        - name: Replit
+          description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
+          url: https://replit.com/
+#         - name: 在线golang
+#           description: 有代码提示，比golang官方的playground好用
+#           url: https://goplay.tools/
+#         - name: 在线PHP
+#           url: https://3v4l.org/
+#         - name: Colaboratory
+#           description: 在线使用的Jupyter notebook环境，机器学习必备
+#           url: https://colab.research.google.com/
+#         - name: Compiler Explorer
+#           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
+#           url: https://godbolt.org/
+
+
+
         - name: Pagespeed Insights
           description: 页面性能分析工具，很好用
           url: https://pagespeed.web.dev/
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
+        - name: Github Compare
+          description: 对比多个github的repo，go.libhunt.com也支持类似功能，但是只能比较golang的lib
+          url: https://www.githubcompare.com/
+          
+
+          
+        - name: 网易DNS检测工具
+          url: http://nstool.netease.com/
+        - name: misaka ping
+          url: https://ping.sx/ping
+        - name: DNSdumpster
+          description: 查看某个域名下的所有二级域名
+          url: https://dnsdumpster.com/
+          
+          
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
-        - name: 网易DNS检测工具
-          description: 
-          url: http://nstool.netease.com/
         - name: Diffchecker
           description: diff 工具，diff 文本、diff 图片、diff PDF
           url: https://www.diffchecker.com/diff
-        - name: misaka ping
-          description:
-          url: https://ping.sx/ping
-        - name: Github Compare
-          description: 对比多个github的repo, go.libhunt.com也支持类似功能, 但是只能比较golang的lib
-          url: https://www.githubcompare.com/
+
         - name: ProgramCreek
-          description: 一些lib的使用例子, 但是只支持java/python/c++/scala, 不知道某个lib的用法时, 可以先在这个网站查查
+          description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
           url: https://www.programcreek.com/
         - name: 阿里云镜像源
           url: https://developer.aliyun.com/mirror/
@@ -77,9 +83,15 @@ content:
         - name: 数据结构模拟 Data Structure Visualizations
           description: 各种数据结构的动画
           url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-        - name: Nginx Config
-          description: 用来生成nginx配置文件
-          url: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
+#         - name: Nginx Config
+#           description: 用来生成nginx配置文件
+#           url: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
+        - name: httpbin
+          description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境(比如容器内)是否有问题
+          url: http://httpbin.org/
+
+          
+          
           
           
     - name: 数据转换工具
@@ -103,7 +115,7 @@ content:
           description: 在线文件转换网站，所有格式应有尽有
           url: https://cloudconvert.com/
         - name: Zamzar
-          description:  视频/音频/图片/电子书转换器, 非常强大的在线工具
+          description:  视频/音频/图片/电子书转换器，非常强大的在线工具
           url: https://www.zamzar.com/
         - name: iLovePDF
           description: 提供所有PDF相关的在线服务
@@ -172,7 +184,6 @@ content:
         - name: CodeTop企业题库
           url: https://codetop.cc/home
         - name: gh-actions集合
-          description:
           url: https://github.com/marketplace?type=actions
         - name: gh-actions官方文档
           url: https://docs.github.com/cn/actions/quickstart
@@ -192,22 +203,22 @@ content:
         - name: 聚合数据
           url: https://www.juhe.cn/
         - name: nowapi
-          description: 常用api服务,还有余额
+          description: 常用api服务，还有余额
           url: https://www.nowapi.com/
         - name: 百度智能云
-          description: 百度智能云,用过车牌识别之类的服务
+          description: 百度智能云，用过车牌识别之类的服务
           url: https://cloud.baidu.com/
         - name: 高德开放平台
           description: 地图服务
           url: https://lbs.amap.com/
         - name: 超级鹰
-          description: 打码平台,还不错
+          description: 打码平台，还不错
           url: https://www.chaojiying.com/
         - name: 腾讯防水墙
           description: 验证码/内容平台防垃圾内容等服务
           url: https://007.qq.com/
         - name: 芝麻HTTP
-          descriptin: 比较好用的代理IP网站, 但是不便宜, 用过几次还可以
+          descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
     - name: 正则
       sites:
@@ -239,20 +250,7 @@ content:
           url: https://coveralls.io/
 
 
-#     - name: 文档工具
-#       sites:
-#         - name: Markmap
-#           description: 在线markdown转思维导图
-#           url: https://markmap.js.org/repl
-#         - name: Mermaid Live Editor
-#           description: 在线mermaid编辑器
-#           url: https://mermaid.live/edit/
-#         - name: Excalidraw
-#           description: 流程图工具，可以画手写风格的图表
-#           url: https://excalidraw.com/
-#         - name: 在线markdown编辑器
-#           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
-#           url: https://md.mzr.me/
+
 
           
           
@@ -289,7 +287,7 @@ content:
           description: 数据挖掘的比赛网站
           url: https://www.kaggle.com/
         - name: JoinQuant聚宽量化交易平台
-          description: 相当于国内的Kaggle, 没事下载几个策略跑跑
+          description: 相当于国内的Kaggle，没事下载几个策略跑跑
           url: https://www.joinquant.com/
         - name: paperswithcode
           description: 论文+代码，ML相关
@@ -301,45 +299,13 @@ content:
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
-        - name: WakaTime
-          description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
-          url: https://wakatime.com/dashboard
+
 
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
-        - name: IPLC
-          description: 翻墙工具
-          url: https://portal.uuks.club/
-        - name: EasyIcon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.cc/
-        - name: FlatIcon
-          description: 类似EasyIcon, 可以直接搜索icon
-          url: https://www.flaticon.com/
-
-        - name: Google翻译
-          description: 
-          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
-        - name: ChartCube
-          description: 相当于可以在线使用的echarts, 可以导出饼图柱状图折线图等, 但仅支持导入csv/excel/json数据
-          url: https://chartcube.alipay.com/upload
-        - name: 冷熊简历
-          description: 用来生成简历pdf文件, 很不错
-          url: https://cv.ftqq.com/#
-        - name: 开源服务的badage服务
-          description: 提供了很多常用badage, 比如license/发布版本/下载量/文档/last-commit时间, 还可以定制徽章, 比如qq群/捐赠地址等;
-          url: https://shields.io/
-        - name: httpbin
-          description: 用来通过查看url请求是否符合预期, 来看代码是否有问题, 或者当前网络环境(比如容器内)是否有问题
-          url: http://httpbin.org/
-
-        - name: DNSdumpster
-          description: 查看某个域名下的所有二级域名
-          url: https://dnsdumpster.com/
-        - name: 硬创社
-          url: https://x.jlc.com/
-          
+        - name: 草料二维码
+          url: https://cli.im/
         - name: TinyPNG
           description: 在线图片压缩服务
           url: https://tinypng.com/
@@ -347,11 +313,42 @@ content:
           url: http://achizi.com/
         - name: 墨迹天气
           url: https://tianqi.moji.com/
-        - name: 草料二维码
-          description: 
-          url: https://cli.im/
+          
+          
+        - name: IPLC
+          description: 翻墙工具
+          url: https://portal.uuks.club/
+        - name: EasyIcon
+          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+          url: http://www.easyicon.cc/
+        - name: FlatIcon
+          description: 类似EasyIcon，可以直接搜索icon
+          url: https://www.flaticon.com/
+
+        - name: Google翻译
+          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+
+        - name: 冷熊简历
+          description: 用来生成简历pdf文件，很不错
+          url: https://cv.ftqq.com/#
+
+
+#         - name: WakaTime
+#           description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
+#           url: https://wakatime.com/dashboard
+#         - name: ChartCube
+#           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
+#           url: https://chartcube.alipay.com/upload
+#         - name: 开源服务的badage服务
+#           description: 提供了很多常用badage，比如license/发布版本/下载量/文档/last-commit时间，还可以定制徽章，比如qq群/捐赠地址等;
+#           url: https://shields.io/
+#         - name: 硬创社
+#           url: https://x.jlc.com/
+          
+
+
         - name: Neat Reader
-          description: 在线阅读ePUB/mobi等格式文件, 阅读体验不错, 不再需要下载calibre之类的本地阅读器
+          description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
           url: https://www.neat-reader.cn/webapp#/
         - name: 写作猫
           description: 非常好用，写点文档什么的；
@@ -387,16 +384,33 @@ content:
           url: https://productz.com/en
         - name: Top10Zone
           url: https://www.top10-zone.com/
-        - name: 始祖鸟
-          url: https://arcteryx.com/ca/zh/c/mens
-        - name: 始祖鸟leaf
-          url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
+#         - name: 始祖鸟
+#           url: https://arcteryx.com/ca/zh/c/mens
+#         - name: 始祖鸟leaf
+#           url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
         - name: IKEA
           url: https://www.ikea.cn/cn/zh/cat/chu-wu-he-shou-na-st001/
         - name: MUJI
           url: https://www.muji.com.cn/cn/store/
         - name: REI
           url: https://www.rei.com/
+
+
+
+#     - name: 文档工具
+#       sites:
+#         - name: Markmap
+#           description: 在线markdown转思维导图
+#           url: https://markmap.js.org/repl
+#         - name: Mermaid Live Editor
+#           description: 在线mermaid编辑器
+#           url: https://mermaid.live/edit/
+#         - name: Excalidraw
+#           description: 流程图工具，可以画手写风格的图表
+#           url: https://excalidraw.com/
+#         - name: 在线markdown编辑器
+#           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
+#           url: https://md.mzr.me/
 
 
 
@@ -409,17 +423,17 @@ content:
 #           description: mac的破解软件
 #           url: https://xclient.info/
 #         - name: 云短信
-#           description: 在线短信接收平台,用来注册临时使用(只使用一次)的网站
+#           description: 在线短信接收平台，用来注册临时使用(只使用一次)的网站
 #           url: https://yunduanxin.net/
 #         - name: Blogtrottr
-#           description: 订阅rss, 发送到邮箱(ttrss也支持发送某个feed到邮箱的功能)
+#           description: 订阅rss，发送到邮箱(ttrss内置“发送某个feed到邮箱”功能，所以不需要)
 #           url: https://blogtrottr.com/
 #         - name: 蜜蜂剪辑
 #           description: 蜜蜂剪辑，在线音视频处理
 #           url: https://beecut.cn/
 
 #         - name: 稿定抠图
-#           description: 免费在线抠图软件,图片快速换背景-抠白底图
+#           description: 免费在线抠图软件，图片快速换背景-抠白底图
 #           url: https://www.gaoding.com
 #         - name: IconFont
 #           description: 阿里巴巴矢量图标库
@@ -430,7 +444,7 @@ content:
 #     - name: chrome拓展/弃用备份
 #       sites:
 #         - name: Tamper Chrome
-#           description: 类似burp suite的工具, 修改请求
+#           description: 类似burp suite的工具，修改请求
 #           url: https://chrome.google.com/webstore/detail/tamper-chrome-extension/hifhgpdkfodlpnlmlnmhchnkepplebkb
 #         - name: loom
 #           description: chrome的录屏插件
@@ -445,11 +459,11 @@ content:
 #           description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
 #           url: https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd
 #         - name: Enhanced GitHub
-#           description: 对gitzip的补充, 实际上用处不大, 只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载, 所以卸载;
+#           description: 对gitzip的补充，实际上用处不大，只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载，所以卸载;
 #           url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
 #         - name: Star History
-#           description: 查看repo的star历史, 用来对比repo, 查看repo活跃度以及是否刷star
+#           description: 查看repo的star历史，用来对比repo，查看repo活跃度以及是否刷star
 #           url: https://chrome.google.com/webstore/detail/star-history/iijibbcdddbhokfepbblglfgdglnccfn
 #         - name: JetBrains Toolbox Extension
-#           description: 用来直接在jb家IDE中打开repo, 需要搭配Toolbox的APP使用, 还行但没必要
+#           description: 用来直接在jb家IDE中打开repo，需要搭配Toolbox的APP使用，还行但没必要
 #           url: https://chrome.google.com/webstore/detail/jetbrains-toolbox-extensi/offnedcbhjldheanlbojaefbfbllddna
