@@ -31,6 +31,7 @@ content:
         - name: Replit
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
           url: https://replit.com/
+          
 #         - name: 在线golang
 #           description: 有代码提示，比golang官方的playground好用
 #           url: https://goplay.tools/
@@ -73,7 +74,7 @@ content:
           description: diff 工具，diff 文本、diff 图片、diff PDF
           url: https://www.diffchecker.com/diff
 
-        - name: ProgramCreek
+        - name: Program Creek
           description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
           url: https://www.programcreek.com/
         - name: 阿里云镜像源
@@ -87,14 +88,14 @@ content:
 #           description: 用来生成nginx配置文件
 #           url: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
         - name: httpbin
-          description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境(比如容器内)是否有问题
+          description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境（比如容器内）是否有问题
           url: http://httpbin.org/
 
           
           
           
           
-    - name: 数据转换工具
+    - name: 转换工具
       sites:
         - name: OKTools
           url: https://oktools.net/number
@@ -108,10 +109,7 @@ content:
           description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
           url: https://onlinecsvtools.com/
 
-
-    - name: 文件转换工具
-      sites:
-        - name: CloudConvert
+        - name: Cloud Convert
           description: 在线文件转换网站，所有格式应有尽有
           url: https://cloudconvert.com/
         - name: Zamzar
@@ -120,7 +118,38 @@ content:
         - name: iLovePDF
           description: 提供所有PDF相关的在线服务
           url: https://www.ilovepdf.com/
+
+
+   - name: 正则
+      sites:
+        - name: regex101
+          description: 正则在线调试网站，非常好用
+          url: https://regex101.com/
+        - name: 正则大全any-rule
+          description: 收录了常用业务的正则
+          url: https://any86.github.io/any-rule/
+        - name: iHateRegex
+          description: 收录了更多的常用正则
+          url: https://ihateregex.io/
+        - name: 图解正则regex-vis
+          description: 比Regexper好用
+          url: https://regex-vis.com/
+        - name: regexlearn
+          description: regex游乐场
+          url: https://regexlearn.com/zh-cn/learn
+    - name: golang平台
+      sites:
+        - name: CodeCov
+          description:
+          url: https://about.codecov.io/
+        - name: Go Report Card
+          description:
+          url: https://goreportcard.com/
+        - name: coveralls
+          description:
+          url: https://coveralls.io/
           
+
           
     - name: 开发文档
       sites:
@@ -147,7 +176,7 @@ content:
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
         - name: Redis命令/文档
-          description: 主要用来查命令；当然，还有文档；
+          description: 主要用来查命令（当然，还有文档）
           url: https://redis.io/commands/
         - name: Gitea文档
           url: https://docs.gitea.io/zh-cn/
@@ -156,7 +185,7 @@ content:
         - name: casbin文档
           url: https://casbin.org/docs/zh-CN/overview
         - name: Ansible文档
-          description: 找了几个中文版文档，版本都很老；将就看英文版吧；
+          description: 找了几个中文版文档，版本都很老（将就看英文版吧）
           url: https://docs.ansible.com/ansible/latest/index.html
         - name: Ansible Galaxy
           url: https://galaxy.ansible.com/home
@@ -203,13 +232,12 @@ content:
         - name: 聚合数据
           url: https://www.juhe.cn/
         - name: nowapi
-          description: 常用api服务，还有余额
+          description: 常用api服务（还有余额）
           url: https://www.nowapi.com/
         - name: 百度智能云
           description: 百度智能云，用过车牌识别之类的服务
           url: https://cloud.baidu.com/
         - name: 高德开放平台
-          description: 地图服务
           url: https://lbs.amap.com/
         - name: 超级鹰
           description: 打码平台，还不错
@@ -220,34 +248,7 @@ content:
         - name: 芝麻HTTP
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
-    - name: 正则
-      sites:
-        - name: regex101
-          description: 正则在线调试网站，非常好用
-          url: https://regex101.com/
-        - name: 正则大全any-rule
-          description: 收录了常用业务的正则
-          url: https://any86.github.io/any-rule/
-        - name: iHateRegex
-          description: 收录了更多的常用正则
-          url: https://ihateregex.io/
-        - name: 图解正则regex-vis
-          description: 比Regexper好用
-          url: https://regex-vis.com/
-        - name: regexlearn
-          description: regex游乐场
-          url: https://regexlearn.com/zh-cn/learn
-    - name: golang平台
-      sites:
-        - name: CodeCov
-          description:
-          url: https://about.codecov.io/
-        - name: Go Report Card
-          description:
-          url: https://goreportcard.com/
-        - name: coveralls
-          description:
-          url: https://coveralls.io/
+ 
 
 
 
@@ -290,7 +291,7 @@ content:
           description: 相当于国内的Kaggle，没事下载几个策略跑跑
           url: https://www.joinquant.com/
         - name: paperswithcode
-          description: 论文+代码，ML相关
+          description: 论文+代码（ML相关）
           url: https://paperswithcode.com/
           
 
@@ -316,7 +317,6 @@ content:
           
           
         - name: IPLC
-          description: 翻墙工具
           url: https://portal.uuks.club/
         - name: EasyIcon
           description: PNG、ICO、ICNS格式图标搜索、图标下载服务
@@ -340,7 +340,7 @@ content:
 #           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
 #           url: https://chartcube.alipay.com/upload
 #         - name: 开源服务的badage服务
-#           description: 提供了很多常用badage，比如license/发布版本/下载量/文档/last-commit时间，还可以定制徽章，比如qq群/捐赠地址等;
+#           description: 提供了很多常用badage，比如license/发布版本/下载量/文档/last-commit时间，还可以定制徽章，比如qq群/捐赠地址等
 #           url: https://shields.io/
 #         - name: 硬创社
 #           url: https://x.jlc.com/
@@ -351,11 +351,9 @@ content:
           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
           url: https://www.neat-reader.cn/webapp#/
         - name: 写作猫
-          description: 非常好用，写点文档什么的；
           url: https://xiezuocat.com/#/
 
         - name: Table Convert
-          description: tableconvert
           url: https://tableconvert.com/
           
           
@@ -459,7 +457,7 @@ content:
 #           description: 把网易云音乐、QQ音乐等软件的专用音频格式转为MP3
 #           url: https://chrome.google.com/webstore/detail/%E9%9F%B3%E4%B9%90%E8%A7%A3%E9%94%81/gldlhhhmienbhlpkfanjpmffdjblmegd
 #         - name: Enhanced GitHub
-#           description: 对gitzip的补充，实际上用处不大，只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载，所以卸载;
+#           description: 对gitzip的补充，实际上用处不大，只能查看文件大小(无法查看文件夹); 但是严重延迟网页加载，所以卸载
 #           url: https://chrome.google.com/webstore/detail/enhanced-github/anlikcnbgdeidpacdbdljnabclhahhmd
 #         - name: Star History
 #           description: 查看repo的star历史，用来对比repo，查看repo活跃度以及是否刷star
