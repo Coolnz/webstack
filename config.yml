@@ -329,7 +329,6 @@ content:
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
 
         - name: 冷熊简历
-          description: 用来生成简历pdf文件，很不错
           url: https://cv.ftqq.com/#
 
 
@@ -380,8 +379,9 @@ content:
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
         - name: ProductZ
           url: https://productz.com/en
-        - name: Top10Zone
-          url: https://www.top10-zone.com/
+#         - name: Top10Zone
+#           description: 几个缺点：商品种类太少，且很多Top10商品实际上一般（并且没有很多很好用的国内品牌），另外更新很慢，大部分榜单还是2020年的
+#           url: https://www.top10-zone.com/
 #         - name: 始祖鸟
 #           url: https://arcteryx.com/ca/zh/c/mens
 #         - name: 始祖鸟leaf
