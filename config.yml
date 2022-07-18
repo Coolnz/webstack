@@ -90,37 +90,6 @@ content:
         - name: httpbin
           description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境（比如容器内）是否有问题
           url: http://httpbin.org/
-
-          
-          
-          
-          
-    - name: 转换工具
-      sites:
-        - name: OKTools
-          url: https://oktools.net/number
-        - name: transform
-          description: 各种数据类型转换
-          url: https://transform.tools/
-        - name: verytoolz
-          description: 各种数据类型转换
-          url: https://verytoolz.com/yaml-parser.html
-        - name: online-xxx-tools
-          description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
-          url: https://onlinecsvtools.com/
-
-        - name: Cloud Convert
-          description: 在线文件转换网站，所有格式应有尽有
-          url: https://cloudconvert.com/
-        - name: Zamzar
-          description:  视频/音频/图片/电子书转换器，非常强大的在线工具
-          url: https://www.zamzar.com/
-        - name: iLovePDF
-          description: 提供所有PDF相关的在线服务
-          url: https://www.ilovepdf.com/
-
-   - name: 正则
-      sites:
         - name: regex101
           description: 正则在线调试网站，非常好用
           url: https://regex101.com/
@@ -138,16 +107,39 @@ content:
           url: https://regexlearn.com/zh-cn/learn
           
           
+          
+          
+    - name: 转换工具
+      sites:
+        - name: OKTools
+          url: https://oktools.net/number
+        - name: transform
+          description: 各种数据类型转换
+          url: https://transform.tools/
+        - name: verytoolz
+          description: 各种数据类型转换
+          url: https://verytoolz.com/yaml-parser.html
+        - name: online-xxx-tools
+          description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
+          url: https://onlinecsvtools.com/
+        - name: Cloud Convert
+          description: 在线文件转换网站，所有格式应有尽有
+          url: https://cloudconvert.com/
+        - name: Zamzar
+          description: 视频/音频/图片/电子书转换器，非常强大的在线工具
+          url: https://www.zamzar.com/
+        - name: iLovePDF
+          description: 提供所有PDF相关的在线服务
+          url: https://www.ilovepdf.com/
+
+
     - name: golang平台
       sites:
         - name: CodeCov
-          description:
           url: https://about.codecov.io/
         - name: Go Report Card
-          description:
           url: https://goreportcard.com/
         - name: coveralls
-          description:
           url: https://coveralls.io/
           
 
