@@ -105,6 +105,10 @@ content:
         - name: regexlearn
           description: regex游乐场
           url: https://regexlearn.com/zh-cn/learn
+        - name: paperswithcode
+          description: 论文+代码（ML相关）
+          url: https://paperswithcode.com/
+          
           
           
           
@@ -133,7 +137,7 @@ content:
           url: https://www.ilovepdf.com/
 
 
-    - name: golang平台
+    - name: 平台
       sites:
         - name: CodeCov
           url: https://about.codecov.io/
@@ -283,9 +287,7 @@ content:
         - name: JoinQuant聚宽量化交易平台
           description: 相当于国内的Kaggle，没事下载几个策略跑跑
           url: https://www.joinquant.com/
-        - name: paperswithcode
-          description: 论文+代码（ML相关）
-          url: https://paperswithcode.com/
+
           
 
     - name: 日常生活
@@ -362,6 +364,8 @@ content:
           url: https://www.aliyundrive.com/drive
         - name: teambition
           url: https://www.teambition.com/projects
+        - name: github
+          url: https://github.com/luckyhacking
 
 
 
@@ -372,6 +376,7 @@ content:
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
         - name: ProductZ
           url: https://productz.com/en
+          
 #         - name: Top10Zone
 #           description: 几个缺点：商品种类太少，且很多Top10商品实际上一般（并且没有很多很好用的国内品牌），另外更新很慢，大部分榜单还是2020年的
 #           url: https://www.top10-zone.com/
@@ -379,6 +384,8 @@ content:
 #           url: https://arcteryx.com/ca/zh/c/mens
 #         - name: 始祖鸟leaf
 #           url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
+
+
         - name: IKEA
           url: https://www.ikea.cn/cn/zh/cat/chu-wu-he-shou-na-st001/
         - name: MUJI
