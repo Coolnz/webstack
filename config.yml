@@ -71,7 +71,7 @@ content:
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
         - name: Diffchecker
-          description: diff 工具，diff 文本、diff 图片、diff PDF
+          description: diff 工具，diff 文本、diff 图片、diff
           url: https://www.diffchecker.com/diff
 
         - name: Program Creek
@@ -135,6 +135,8 @@ content:
         - name: iLovePDF
           description: 提供所有PDF相关的在线服务
           url: https://www.ilovepdf.com/
+        - name: iLoveIMG
+          url: https://www.iloveimg.com/zh-cn
 
 
     - name: 平台
