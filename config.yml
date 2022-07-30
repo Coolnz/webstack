@@ -357,6 +357,8 @@ content:
           url: https://web.telegram.im/
         - name: 微软邮箱Outlook
           url: https://outlook.live.com/
+        - name: 好工具周刊BestXTools
+          url: https://discuss-cn.bestxtools.com/
           
           
           
@@ -400,6 +402,8 @@ content:
           url: https://www.muji.com.cn/cn/store/
         - name: REI
           url: https://www.rei.com/
+        - name: 充电头网手机充电兼容性测试数据库
+          url: https://shimo.im/sheets/aBAYV0nY69S90V3j
 
 
 
