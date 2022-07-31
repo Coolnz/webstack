@@ -363,6 +363,17 @@ content:
           url: https://greasyfork.org/zh-CN
         - name: Ero Video
           url: https://en.ero-video.net/
+        - name: SPEEDTEST
+          url: https://www.speedtest.net/zh-Hans
+        - name: Github Star Charts
+          description: 比GitHub Star History好用
+          url: https://starchart.cc/
+        - name: 隔离食用手册
+          url: https://cook.yunyoujun.cn/
+        - name: 中文播客榜
+          url: https://xyzrank.com/
+        - name: 设计工具排行uxtools
+          url: https://uxtools.co/tools/design
           
           
           
