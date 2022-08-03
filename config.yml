@@ -218,6 +218,9 @@ content:
         - name: gitlab官方文档
           url: https://docs.gitlab.com/ee/
           
+        - name: AWESOME-LIST
+          url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
+          
           
           
 
