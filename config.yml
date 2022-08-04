@@ -286,6 +286,9 @@ content:
           url: https://www.bankless.community/
         - name: DAOrayaki
           url: https://media.daorayaki.org/
+        - name: cryptofonts
+          description: 加密货币的icon
+          url: https://cryptofonts.com/icons.php
           
           
           
@@ -388,6 +391,13 @@ content:
           url: https://xyzrank.com/
         - name: 设计工具排行uxtools
           url: https://uxtools.co/tools/design
+        
+        - name: Kill the Newsletter!
+          description: newsletter转rss
+          url: https://kill-the-newsletter.com/
+        - name: follow.it
+          description: rss转newsletter
+          url: https://follow.it/enter-website
           
           
           
