@@ -49,6 +49,18 @@ content:
         - name: Pagespeed Insights
           description: 页面性能分析工具，很好用
           url: https://pagespeed.web.dev/
+        - name: devtool.tech
+          url: https://devtool.tech/
+        - name: toolight
+          url: https://toolight.cn/
+        - name: itdog
+          url: https://www.itdog.cn/
+        - name: webutils
+          description: 提供在线curl工具，以及一些文本和图片工具
+          url: https://www.webutils.app/
+          
+          
+        
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
@@ -330,6 +342,11 @@ content:
           url: https://web.baimiaoapp.com/
         - name: 草料二维码
           url: https://cli.im/
+        - name: qrcode-monkey
+          description: 搭配草料使用（主要使用其一些国外服务的logo）
+          url: https://www.qrcode-monkey.com/
+        
+        
         - name: TinyPNG
           description: 在线图片压缩服务（picdiet/yalijuda）
           url: https://tinypng.com/
@@ -412,6 +429,9 @@ content:
         - name: follow.it
           description: rss转newsletter
           url: https://follow.it/enter-website
+        - name: password-generator
+          description: 密码生成器
+          url: https://mrjooz.github.io/password-generator
           
           
           
