@@ -55,6 +55,16 @@ content:
         - name: Github Compare
           description: 对比多个github的repo，go.libhunt.com也支持类似功能，但是只能比较golang的lib
           url: https://www.githubcompare.com/
+        - name: Github Star Charts
+          description: 比GitHub Star History好用
+          url: https://starchart.cc/
+        - name: Github OSS Insight
+          description: xxx
+          url: https://ossinsight.io/
+        - name: Github active-forks
+          description: 查找repo最活跃的fork
+          url: https://techgaun.github.io/active-forks/index.html
+        
           
 
           
@@ -105,10 +115,14 @@ content:
         - name: regexlearn
           description: regex游乐场
           url: https://regexlearn.com/zh-cn/learn
+
+        - name: Crontab.guru
+          url: https://crontab.guru/
+          
+          
         - name: paperswithcode
           description: 论文+代码（ML相关）
           url: https://paperswithcode.com/
-          
           
           
           
@@ -367,9 +381,7 @@ content:
 
         - name: SPEEDTEST
           url: https://www.speedtest.net/zh-Hans
-        - name: Github Star Charts
-          description: 比GitHub Star History好用
-          url: https://starchart.cc/
+
         - name: 隔离食用手册
           url: https://cook.yunyoujun.cn/
         - name: 中文播客榜
