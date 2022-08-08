@@ -31,21 +31,6 @@ content:
         - name: Replit
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
           url: https://replit.com/
-          
-#         - name: 在线golang
-#           description: 有代码提示，比golang官方的playground好用
-#           url: https://goplay.tools/
-#         - name: 在线PHP
-#           url: https://3v4l.org/
-#         - name: Colaboratory
-#           description: 在线使用的Jupyter notebook环境，机器学习必备
-#           url: https://colab.research.google.com/
-#         - name: Compiler Explorer
-#           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
-#           url: https://godbolt.org/
-
-
-
         - name: Pagespeed Insights
           description: 页面性能分析工具，很好用
           url: https://pagespeed.web.dev/
@@ -58,8 +43,6 @@ content:
         - name: webutils
           description: 提供在线curl工具，以及一些文本和图片工具
           url: https://www.webutils.app/
-          
-          
         
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
@@ -77,9 +60,6 @@ content:
           description: 查找repo最活跃的fork
           url: https://techgaun.github.io/active-forks/index.html
         
-          
-
-          
         - name: 网易DNS检测工具
           url: http://nstool.netease.com/
         - name: misaka ping
@@ -87,7 +67,6 @@ content:
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
-          
           
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
@@ -106,9 +85,7 @@ content:
         - name: 数据结构模拟 Data Structure Visualizations
           description: 各种数据结构的动画
           url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-#         - name: Nginx Config
-#           description: 用来生成nginx配置文件
-#           url: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
+
         - name: httpbin
           description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境（比如容器内）是否有问题
           url: http://httpbin.org/
@@ -141,8 +118,23 @@ content:
         - name: favicon.io
           description: 生成icon
           url: https://favicon.io/
-          
-          
+
+#         - name: 在线golang
+#           description: 有代码提示，比golang官方的playground好用
+#           url: https://goplay.tools/
+#         - name: 在线PHP
+#           url: https://3v4l.org/
+#         - name: Colaboratory
+#           description: 在线使用的Jupyter notebook环境，机器学习必备
+#           url: https://colab.research.google.com/
+#         - name: Compiler Explorer
+#           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
+#           url: https://godbolt.org/
+#         - name: Nginx Config
+#           description: 用来生成nginx配置文件
+#           url: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
+
+
           
           
     - name: 转换工具
@@ -283,12 +275,6 @@ content:
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
  
-
-
-
-
-          
-          
           
     - name: web3
       sites:
@@ -380,20 +366,6 @@ content:
           url: https://cv.ftqq.com/#
 
 
-#         - name: WakaTime
-#           description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
-#           url: https://wakatime.com/dashboard
-#         - name: ChartCube
-#           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
-#           url: https://chartcube.alipay.com/upload
-#         - name: 开源服务的badage服务
-#           description: 提供了很多常用badage，比如license/发布版本/下载量/文档/last-commit时间，还可以定制徽章，比如qq群/捐赠地址等
-#           url: https://shields.io/
-#         - name: 硬创社
-#           url: https://x.jlc.com/
-          
-
-
         - name: Neat Reader
           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
           url: https://www.neat-reader.cn/webapp#/
@@ -402,8 +374,7 @@ content:
 
         - name: Table Convert
           url: https://tableconvert.com/
-        - name: SOU.BEST
-          url: https://sou.best/
+
         - name: telegram
           url: https://web.telegram.im/
         - name: 微软邮箱Outlook
@@ -416,12 +387,10 @@ content:
         - name: SPEEDTEST
           url: https://www.speedtest.net/zh-Hans
 
-        - name: 隔离食用手册
-          url: https://cook.yunyoujun.cn/
+
         - name: 中文播客榜
           url: https://xyzrank.com/
-        - name: 设计工具排行uxtools
-          url: https://uxtools.co/tools/design
+
         
         - name: Kill the Newsletter!
           description: newsletter转rss
@@ -432,7 +401,27 @@ content:
         - name: password-generator
           description: 密码生成器
           url: https://mrjooz.github.io/password-generator
-          
+
+
+#         - name: WakaTime
+#           description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
+#           url: https://wakatime.com/dashboard
+#         - name: ChartCube
+#           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
+#           url: https://chartcube.alipay.com/upload
+#         - name: 开源服务的badage服务
+#           description: 提供了很多常用badage，比如license/发布版本/下载量/文档/last-commit时间，还可以定制徽章，比如qq群/捐赠地址等
+#           url: https://shields.io/
+#         - name: 硬创社
+#           url: https://x.jlc.com/
+#         - name: 设计工具排行uxtools
+#           url: https://uxtools.co/tools/design
+#         - name: 隔离食用手册
+#           url: https://cook.yunyoujun.cn/
+#         - name: SOU.BEST
+#           url: https://sou.best/
+
+
           
           
     - name: 自建服务
@@ -447,6 +436,8 @@ content:
           url: https://www.aliyundrive.com/drive
         - name: teambition
           url: https://www.teambition.com/projects
+        - name: linear
+          url: https://linear.app/
         - name: github
           url: https://github.com/luckyhacking
 
@@ -459,16 +450,6 @@ content:
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
         - name: ProductZ
           url: https://productz.com/en
-          
-#         - name: Top10Zone
-#           description: 几个缺点：商品种类太少，且很多Top10商品实际上一般（并且没有很多很好用的国内品牌），另外更新很慢，大部分榜单还是2020年的
-#           url: https://www.top10-zone.com/
-#         - name: 始祖鸟
-#           url: https://arcteryx.com/ca/zh/c/mens
-#         - name: 始祖鸟leaf
-#           url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
-
-
         - name: IKEA
           url: https://www.ikea.cn/cn/zh/cat/chu-wu-he-shou-na-st001/
         - name: MUJI
@@ -478,6 +459,13 @@ content:
         - name: 充电头网手机充电兼容性测试数据库
           url: https://shimo.im/sheets/aBAYV0nY69S90V3j
 
+#         - name: Top10Zone
+#           description: 几个缺点：商品种类太少，且很多Top10商品实际上一般（并且没有很多很好用的国内品牌），另外更新很慢，大部分榜单还是2020年的
+#           url: https://www.top10-zone.com/
+#         - name: 始祖鸟
+#           url: https://arcteryx.com/ca/zh/c/mens
+#         - name: 始祖鸟leaf
+#           url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
 
 
 #     - name: 文档工具
