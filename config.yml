@@ -387,17 +387,20 @@ content:
         - name: SPEEDTEST
           url: https://www.speedtest.net/zh-Hans
 
-
+# rss相关服务
         - name: 中文播客榜
           url: https://xyzrank.com/
-
-        
+        - name: feeddd
+          description: 订阅微信公众号的feed（可以代替werss，werss服务不太稳）
+          url: https://feeddd.org/feeds
         - name: Kill the Newsletter!
           description: newsletter转rss
           url: https://kill-the-newsletter.com/
         - name: follow.it
           description: rss转newsletter
           url: https://follow.it/enter-website
+          
+          
         - name: password-generator
           description: 密码生成器
           url: https://mrjooz.github.io/password-generator
