@@ -36,8 +36,7 @@ content:
           url: https://pagespeed.web.dev/
         - name: devtool.tech
           url: https://devtool.tech/
-        - name: toolight
-          url: https://toolight.cn/
+
         - name: itdog
           url: https://www.itdog.cn/
         - name: webutils
@@ -360,10 +359,12 @@ content:
 #           description: 订阅rss，发送到邮箱(ttrss内置“发送某个feed到邮箱”功能，所以不需要)
 #           url: https://blogtrottr.com/
 
-
-        - name: password-generator
-          description: 密码生成器
-          url: https://mrjooz.github.io/password-generator
+        - name: 偷懒工具toolight
+          description: 使用其密码生成器等工具
+          url: https://toolight.cn/
+#         - name: password-generator
+#           description: 密码生成器
+#           url: https://mrjooz.github.io/password-generator
 
 
         - name: Cloud Convert
