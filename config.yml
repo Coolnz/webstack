@@ -311,6 +311,8 @@ content:
           url: https://portal.uuks.club/
         - name: Google翻译 - 
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+        - name: 木及简历
+          url: https://www.mujicv.com/editor/?id=template-c124a10e0db5e4b9
         - name: 冷熊简历
           url: https://cv.ftqq.com/#
         - name: Neat Reader
