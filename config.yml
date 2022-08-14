@@ -489,7 +489,8 @@ content:
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: teambition
-          url: https://www.teambition.com/projects
+#           url: https://www.teambition.com/projects
+          url: https://www.teambition.com/project/5e703a1ffb67050022013213/tasks
         - name: linear
           url: https://linear.app/
         - name: github
