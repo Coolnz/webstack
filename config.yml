@@ -438,6 +438,9 @@ content:
 #           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
 #           url: https://chartcube.alipay.com/upload
 
+        - name: wikiHow
+          url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
+
 
 
 # 文档工具
