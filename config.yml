@@ -307,6 +307,8 @@ content:
           url: https://tianqi.moji.com/
         - name: ventusky
           url: https://www.ventusky.com/?p=31.2;121.5;5&l=temperature-2m
+        - name: Weather Spark
+          url: [上海市每月气候、天气和平均温度（中国） - Weather Spark](https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94)
         - name: IPLC
           url: https://portal.uuks.club/
         - name: Google翻译 - 
