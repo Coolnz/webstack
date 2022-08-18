@@ -41,6 +41,9 @@ content:
           url: https://linear.app/
         - name: github
           url: https://github.com/luckyhacking
+        - name: 偷懒工具toolight
+          description: 使用其密码生成器等工具
+          url: https://toolight.cn/
         - name: 即时工具67tool
           url: https://www.67tool.com/
         - name: 一个工具箱atoolbox
@@ -265,7 +268,7 @@ content:
 
     - name: 云服务文档
       sites:
-        - name: API Hub
+        - name: apifox
           description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
           url: https://www.apifox.cn/apihub/
         - name: 云片
@@ -417,9 +420,6 @@ content:
 
 
 # 工具集网站
-        - name: 偷懒工具toolight
-          description: 使用其密码生成器等工具
-          url: https://toolight.cn/
         - name: Cloud Convert
           description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
           url: https://cloudconvert.com/
