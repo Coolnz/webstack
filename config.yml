@@ -25,7 +25,32 @@ template: webstack
 
 content:
   categories:
-          
+    - name: 常用网站
+      sites:
+        - name: alist
+          url: https://alist.wrss.top/aliyundrive
+        - name: mali
+          url: https://mali.wrss.top/
+        - name: ttrss
+          url: https://ttrss.wrss.top/
+        - name: 阿里云盘
+          url: https://www.aliyundrive.com/drive
+        - name: teambition
+          url: https://www.teambition.com/project/5e703a1ffb67050022013213/tasks
+        - name: linear
+          url: https://linear.app/
+        - name: github
+          url: https://github.com/luckyhacking
+        - name: 即时工具67tool
+          url: https://www.67tool.com/
+        - name: 一个工具箱atoolbox
+          description: 使用其图片拼接功能
+          url: http://www.atoolbox.net/Tool.php?Id=978
+        - name: Google翻译 - translate
+          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+
+
+
     - name: 开发工具
       sites:
         - name: Replit
@@ -247,9 +272,9 @@ content:
           url: https://www.yunpian.com/
         - name: 聚合数据
           url: https://www.juhe.cn/
-        - name: nowapi
-          description: 常用api服务（还有余额）
-          url: https://www.nowapi.com/
+#         - name: nowapi
+#           description: 常用api服务（还有余额）但是这网站实在没什么好用的API服务了，所以暂时去掉。
+#           url: https://www.nowapi.com/
         - name: 百度智能云
           description: 百度智能云，用过车牌识别之类的服务
           url: https://cloud.baidu.com/
@@ -303,16 +328,18 @@ content:
           url: https://www.qrcode-monkey.com/
         - name: 在线尺子achizi
           url: http://achizi.com/
+          
+# 天气
         - name: 墨迹天气
           url: https://tianqi.moji.com/
-        - name: ventusky
-          url: https://www.ventusky.com/?p=31.2;121.5;5&l=temperature-2m
         - name: Weather Spark
-          url: [上海市每月气候、天气和平均温度（中国） - Weather Spark](https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94)
-        - name: IPLC
-          url: https://portal.uuks.club/
-        - name: Google翻译 - 
-          url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+          description: 全年气候和平均天气
+          url: https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94
+#         - name: ventusky
+#           description: 其实没什么用，还不如墨迹
+#           url: https://www.ventusky.com/?p=31.2;121.5;5&l=temperature-2m
+
+# 文档相关
         - name: 木及简历
           url: https://www.mujicv.com/editor/?id=template-c124a10e0db5e4b9
         - name: 冷熊简历
@@ -320,16 +347,24 @@ content:
         - name: Neat Reader
           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
           url: https://www.neat-reader.cn/webapp#/
+        - name: Koodo Reader
+          url: https://reader.960960.xyz/
         - name: 写作猫
           url: https://xiezuocat.com/#/
         - name: Table Convert
           url: https://tableconvert.com/
+          
+          
+
+        - name: IPLC
+          url: https://portal.uuks.club/
         - name: telegram
           url: https://web.telegram.im/
         - name: 微软邮箱Outlook
           url: https://outlook.live.com/
-        - name: 好工具周刊BestXTools
-          url: https://discuss-cn.bestxtools.com/
+
+
+
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
         - name: SPEEDTEST
@@ -346,6 +381,10 @@ content:
 #         - name: 蜜蜂剪辑
 #           description: 蜜蜂剪辑，在线音视频处理
 #           url: https://beecut.cn/
+#         - name: 好工具周刊BestXTools
+#           url: https://discuss-cn.bestxtools.com/
+#         - name: 中文播客榜
+#           url: https://xyzrank.com/
 
           
 # icon相关
@@ -363,8 +402,6 @@ content:
 
 
 # rss相关服务
-        - name: 中文播客榜
-          url: https://xyzrank.com/
         - name: feeddd
           description: 订阅微信公众号的feed（可以代替werss，werss服务不太稳）
           url: https://feeddd.org/feeds
@@ -383,29 +420,25 @@ content:
         - name: 偷懒工具toolight
           description: 使用其密码生成器等工具
           url: https://toolight.cn/
-#         - name: password-generator
-#           description: 密码生成器
-#           url: https://mrjooz.github.io/password-generator
         - name: Cloud Convert
           description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
           url: https://cloudconvert.com/
-#         - name: Zamzar
-#           description: 视频/音频/图片/电子书转换器，非常强大的在线工具
-#           url: https://www.zamzar.com/
         - name: iLovePDF
           description: 提供所有PDF相关的在线服务
           url: https://www.ilovepdf.com/
+#         - name: Zamzar
+#           description: 视频/音频/图片/电子书转换器，非常强大的在线工具
+#           url: https://www.zamzar.com/
+#         - name: password-generator
+#           description: 密码生成器
+#           url: https://mrjooz.github.io/password-generator
 
 
 # 图片相关服务
-        - name: 即时工具67tool
-          url: https://www.67tool.com/
         - name: iLoveIMG
           description: 使用其图片压缩/图片编辑/修改图片分辨率/图片格式转换等功能
           url: https://www.iloveimg.com/zh-cn
-        - name: 一个工具箱atoolbox
-          description: 使用其图片拼接功能
-          url: http://www.atoolbox.net/Tool.php?Id=978
+
 #         - name: tldraw
 #           description: 画板工具，挺好用，导出格式tldr（可以用来拼接图片，搭配iLoveIMG使用）
 #           url: https://www.tldraw.com/
@@ -442,7 +475,7 @@ content:
 #           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
 #           url: https://chartcube.alipay.com/upload
 
-        - name: wikiHow
+        - name: wikihow
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
 
 
@@ -480,25 +513,6 @@ content:
 #           url: https://sou.best/
 
 
-          
-          
-    - name: 自建服务
-      sites:
-        - name: alist
-          url: https://alist.wrss.top/aliyundrive
-        - name: mali
-          url: https://mali.wrss.top/
-        - name: ttrss
-          url: https://ttrss.wrss.top/
-        - name: 阿里云盘
-          url: https://www.aliyundrive.com/drive
-        - name: teambition
-#           url: https://www.teambition.com/projects
-          url: https://www.teambition.com/project/5e703a1ffb67050022013213/tasks
-        - name: linear
-          url: https://linear.app/
-        - name: github
-          url: https://github.com/luckyhacking
 
 
 
