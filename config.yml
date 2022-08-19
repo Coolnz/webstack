@@ -51,7 +51,8 @@ content:
           url: http://www.atoolbox.net/Tool.php?Id=978
         - name: Google翻译
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
-
+        - name: 微软邮箱Outlook
+          url: https://outlook.live.com/
 
 
     - name: 开发工具
@@ -363,8 +364,7 @@ content:
           url: https://portal.uuks.club/
         - name: telegram
           url: https://web.telegram.im/
-        - name: 微软邮箱Outlook
-          url: https://outlook.live.com/
+
 
 
 
