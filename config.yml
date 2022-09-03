@@ -537,6 +537,8 @@ content:
           url: https://www.rei.com/
         - name: 充电头网手机充电兼容性测试数据库
           url: https://shimo.im/sheets/aBAYV0nY69S90V3j
+        - name: 跑鞋选购
+          url: https://www.kdocs.cn/l/cbxLvRl512AN
 
 #         - name: Top10Zone
 #           description: 几个缺点：商品种类太少，且很多Top10商品实际上一般（并且没有很多很好用的国内品牌），另外更新很慢，大部分榜单还是2020年的
