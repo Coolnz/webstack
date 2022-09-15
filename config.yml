@@ -53,6 +53,8 @@ content:
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
         - name: 微软邮箱Outlook
           url: https://outlook.live.com/
+        - name: 高驰Training Hub
+          url: https://t.coros.com/admin/views/dash-board
 
 
     - name: 开发工具
