@@ -471,6 +471,9 @@ content:
         - name: 稿定抠图 - 在线PS
           description: 免费在线抠图软件，图片快速换背景-抠白底图
           url: https://ps.gaoding.com/#/
+        - name: illustrationlink
+          description: 插画集网站web-stack
+          url: https://www.illustrationlink.com/#list2
 
 #         - name: tldraw
 #           description: 画板工具，挺好用，导出格式tldr（可以用来拼接图片，搭配iLoveIMG使用）
