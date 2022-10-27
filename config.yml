@@ -76,9 +76,20 @@ content:
         - name: Replit
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
           url: https://replit.com/
-        - name: Pagespeed Insights
-          description: 页面性能分析工具，很好用
-          url: https://pagespeed.web.dev/
+          
+          
+        - name: Web-Vitals
+          description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面
+          url: https://www.experte.com/web-vitals
+#         - name: Pagespeed Insights
+#           description: 页面性能分析工具，很好用
+#           url: https://pagespeed.web.dev/
+
+        - name: resource-hint-validator
+          description: 一款检查preload, prefetch, preconnect等Resource Hints使用是否恰当的工具
+          url: https://www.debugbear.com/resource-hint-validator
+
+
         - name: devtool.tech
           url: https://devtool.tech/
 
