@@ -557,6 +557,8 @@ content:
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
+        - name: 快递100
+          url: https://www.kuaidi100.com/
         - name: ProductZ
           url: https://productz.com/en
         - name: IKEA
