@@ -559,6 +559,8 @@ content:
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
         - name: 快递100
           url: https://www.kuaidi100.com/
+        - name: 黑猫投诉
+          url: https://tousu.sina.com.cn/
         - name: ProductZ
           url: https://productz.com/en
         - name: IKEA
