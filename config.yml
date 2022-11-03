@@ -27,11 +27,11 @@ content:
   categories:
     - name: 常用网站
       sites:
-        - name: alist
+        - name: ALIST
           url: https://alist.wrss.top/aliyundrive
-        - name: mali
+        - name: MALI
           url: https://mali.wrss.top/
-        - name: ttrss
+        - name: TTRSS
           url: https://ttrss.wrss.top/
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
@@ -39,7 +39,7 @@ content:
           url: https://www.teambition.com/project/5e703a1ffb67050022013213/tasks
         - name: linear
           url: https://linear.app/
-        - name: github
+        - name: gh
           url: https://github.com/luckyhacking
         - name: 偷懒工具toolight
           description: 使用其密码生成器等工具
