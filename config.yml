@@ -354,7 +354,7 @@ content:
       sites:
         - name: 5000yan
           url: https://5000yan.com/fenlei/zhuzi/
-          description: 老子、韩非子、孟子、庄子、孙子兵法、墨子
+          description: 老子、韩非子、荀子，以及庄子、孟子、论语、墨子、孙子兵法
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
