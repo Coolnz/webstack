@@ -211,7 +211,7 @@ content:
           description: 各种数据类型转换
           url: https://verytoolz.com/yaml-parser.html
         - name: online-xxx-tools
-          description: 用来转换各种数据类型和文件格式 (用来搜yamllint工具时发现的)
+          description: 用来转换各种数据类型和文件格式（用来搜yamllint工具时发现的）
           url: https://onlinecsvtools.com/
 
 
@@ -390,6 +390,7 @@ content:
 
 ## 阅读器
         - name: Koodo Reader
+          description: 开源阅读器（koodo-reader）
           url: https://reader.960960.xyz/
 #         - name: Neat Reader
 #           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
@@ -524,7 +525,7 @@ content:
 #           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
 #           url: https://chartcube.alipay.com/upload
 
-        - name: wikihow
+        - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
         - name: COKEMV
           url: https://cokemv.me/
@@ -569,7 +570,6 @@ content:
 
     - name: 购物
       sites:
-      
 ## 综合服务
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
