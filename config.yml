@@ -28,7 +28,7 @@ content:
     - name: 常用网站
       sites:
         - name: ALIST
-          url: https://alist.wrss.top/aliyundrive
+          url: https://alist.wrss.top/
         - name: MALI
           url: https://mali.wrss.top/
         - name: TTRSS
