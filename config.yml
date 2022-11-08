@@ -359,7 +359,7 @@ content:
       sites:
         - name: 5000yan
           url: https://5000yan.com/fenlei/zhuzi/
-          description: 老子、韩非子、荀子，以及庄子、孟子、论语、墨子、孙子兵法
+          description: 老子、韩非子、荀子（以及庄子孟子论语墨子孙子）
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
@@ -375,8 +375,36 @@ content:
           url: http://achizi.com/
         - name: IT桔子
           url: https://www.itjuzi.com/deathCompany
+        - name: IPLC
+          url: https://portal.uuks.club/
+        - name: tg
+          url: https://web.telegram.im/
+        - name: 油猴脚本Greasy Fork
+          url: https://greasyfork.org/zh-CN
+        - name: SPEEDTEST
+          url: https://www.speedtest.net/zh-Hans
+        - name: Wiki How
+          url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
+        - name: COKEMV
+          url: https://cokemv.me/
+#         - name: 逮蝦戶
+#           description: spotify之类境外服务的拼车网站
+#           url: https://daixiahu.co/#/buses
+#         - name: xclient
+#           description: mac的破解软件
+#           url: https://xclient.info/
+#         - name: 云短信
+#           description: 在线短信接收平台，用来注册临时使用(只使用一次)的网站
+#           url: https://yunduanxin.net/
+#         - name: 蜜蜂剪辑
+#           description: 蜜蜂剪辑，在线音视频处理
+#           url: https://beecut.cn/
+#         - name: 好工具周刊BestXTools
+#           url: https://discuss-cn.bestxtools.com/
+#         - name: 中文播客榜
+#           url: https://xyzrank.com/
           
-
+          
 
 # 文档相关
 
@@ -401,37 +429,15 @@ content:
           url: https://xiezuocat.com/#/
         - name: Table Convert
           url: https://tableconvert.com/
+        - name: Graph Maker
+          url: https://linegraphmaker.co/bar-graph
+#         - name: ChartCube
+#           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
+#           url: https://chartcube.alipay.com/upload
           
-          
-
-        - name: IPLC
-          url: https://portal.uuks.club/
-        - name: telegram
-          url: https://web.telegram.im/
 
 
 
-
-        - name: 油猴脚本Greasy Fork
-          url: https://greasyfork.org/zh-CN
-        - name: SPEEDTEST
-          url: https://www.speedtest.net/zh-Hans
-#         - name: 逮蝦戶
-#           description: spotify之类境外服务的拼车网站
-#           url: https://daixiahu.co/#/buses
-#         - name: xclient
-#           description: mac的破解软件
-#           url: https://xclient.info/
-#         - name: 云短信
-#           description: 在线短信接收平台，用来注册临时使用(只使用一次)的网站
-#           url: https://yunduanxin.net/
-#         - name: 蜜蜂剪辑
-#           description: 蜜蜂剪辑，在线音视频处理
-#           url: https://beecut.cn/
-#         - name: 好工具周刊BestXTools
-#           url: https://discuss-cn.bestxtools.com/
-#         - name: 中文播客榜
-#           url: https://xyzrank.com/
 
           
 ## icon相关
@@ -452,12 +458,12 @@ content:
         - name: feeddd
           description: 订阅微信公众号的feed（可以代替werss，werss服务不太稳）
           url: https://feeddd.org/feeds
-        - name: Kill the Newsletter!
-          description: newsletter转rss
-          url: https://kill-the-newsletter.com/
-        - name: follow.it
-          description: rss转newsletter
-          url: https://follow.it/enter-website
+#         - name: Kill the Newsletter!
+#           description: newsletter转rss
+#           url: https://kill-the-newsletter.com/
+#         - name: follow.it
+#           description: rss转newsletter
+#           url: https://follow.it/enter-website
 #         - name: Blogtrottr
 #           description: 订阅rss，发送到邮箱(ttrss内置“发送某个feed到邮箱”功能，所以不需要)
 #           url: https://blogtrottr.com/
@@ -490,7 +496,6 @@ content:
         - name: illustrationlink
           description: 插画集网站web-stack
           url: https://www.illustrationlink.com/#list2
-
 #         - name: tldraw
 #           description: 画板工具，挺好用，导出格式tldr（可以用来拼接图片，搭配iLoveIMG使用）
 #           url: https://www.tldraw.com/
@@ -519,16 +524,9 @@ content:
         - name: 七麦数据
           url: https://www.qimai.cn/
 
-        - name: Graph Maker
-          url: https://linegraphmaker.co/bar-graph
-#         - name: ChartCube
-#           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
-#           url: https://chartcube.alipay.com/upload
 
-        - name: Wiki How
-          url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-        - name: COKEMV
-          url: https://cokemv.me/
+
+
 
 
 
