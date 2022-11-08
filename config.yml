@@ -375,8 +375,6 @@ content:
           url: http://achizi.com/
         - name: IT桔子
           url: https://www.itjuzi.com/deathCompany
-        - name: IPLC
-          url: https://portal.uuks.club/
         - name: tg
           url: https://web.telegram.im/
         - name: 油猴脚本Greasy Fork
@@ -399,8 +397,6 @@ content:
 #         - name: 蜜蜂剪辑
 #           description: 蜜蜂剪辑，在线音视频处理
 #           url: https://beecut.cn/
-#         - name: 好工具周刊BestXTools
-#           url: https://discuss-cn.bestxtools.com/
 #         - name: 中文播客榜
 #           url: https://xyzrank.com/
           
@@ -456,7 +452,7 @@ content:
 
 ## rss相关服务
         - name: feeddd
-          description: 订阅微信公众号的feed（可以代替werss，werss服务不太稳）
+          description: 订阅微信公众号的feed
           url: https://feeddd.org/feeds
 #         - name: Kill the Newsletter!
 #           description: newsletter转rss
