@@ -103,17 +103,19 @@ content:
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
-        - name: Github Compare
-          description: 对比多个github的repo，go.libhunt.com也支持类似功能，但是只能比较golang的lib
-          url: https://www.githubcompare.com/
+
 
         - name: Github OSS Insight
-          description: 查看gh某个repo的star history/PR/issue等等综合数据
+          description: 查看gh某个repo的star/PR/issue等等数据，以及比较repo
           url: https://ossinsight.io/
 #         - name: Github Star Charts
 #           description: 比GitHub Star History好用
 #           url: https://starchart.cc/
-
+#         - name: Github Compare
+#           description: 对比多个github的repo，go.libhunt.com也支持类似功能，但是只能比较golang的lib
+#           url: https://www.githubcompare.com/
+          
+          
 
         - name: Github active-forks
           description: 查找repo最活跃的fork
