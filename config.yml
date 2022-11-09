@@ -41,6 +41,8 @@ content:
           url: https://linear.app/
         - name: gh
           url: https://github.com/luckyhacking
+        - name: Youtube Music
+          url: https://music.youtube.com/library/albums
         - name: 偷懒工具toolight
           description: 使用其密码生成器等工具
           url: https://toolight.cn/
