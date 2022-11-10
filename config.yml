@@ -82,7 +82,7 @@ content:
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
           url: https://replit.com/
           
-          
+## 网站网页相关
         - name: Web-Vitals
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面
           url: https://www.experte.com/web-vitals
@@ -93,6 +93,10 @@ content:
         - name: resource-hint-validator
           description: 一款检查preload, prefetch, preconnect等Resource Hints使用是否恰当的工具
           url: https://www.debugbear.com/resource-hint-validator
+          
+        - name: Website Metadata
+          description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
+          url: https://websitemetadata.com/
 
 
         - name: devtool.tech
