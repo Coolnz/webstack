@@ -32,7 +32,7 @@ content:
           icon: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         - name: MALI
           url: https://mali.wrss.top/
-          icon: ☯️
+          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/assets/yin-yang.png
         - name: TTRSS
           url: https://ttrss.wrss.top/
           icon: https://ttrss.wrss.top/images/favicon.png
@@ -45,6 +45,8 @@ content:
           icon: https://linear.app/static/favicon.ico
         - name: gh
           url: https://github.com/luckyhacking
+        - name: 阿里云
+          url: https://home.console.aliyun.com/home/dashboard/ProductAndService
         - name: Youtube Music
           url: https://music.youtube.com/library/albums
         - name: 偷懒工具toolight
@@ -381,6 +383,9 @@ content:
         - name: 5000yan
           url: https://5000yan.com/fenlei/zhuzi/
           description: 老子、韩非子、荀子（以及庄子孟子论语墨子孙子）
+        - name: 中国裁判文书网
+          description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看（文字版1818）。
+          url: https://wenshu.court.gov.cn/
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
