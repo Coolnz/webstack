@@ -32,6 +32,7 @@ content:
           icon: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         - name: MALI
           url: https://mali.wrss.top/
+          icon: ☯️
         - name: TTRSS
           url: https://ttrss.wrss.top/
           icon: https://ttrss.wrss.top/images/favicon.png
