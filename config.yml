@@ -104,6 +104,7 @@ content:
         - name: Website Metadata
           description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
           url: https://websitemetadata.com/
+          icon: https://websitemetadata.com/images/favicon.png
 
 
         - name: devtool.tech
@@ -197,6 +198,7 @@ content:
         - name: readme.so
           description: 辅助写README的工具，还不错
           url: https://readme.so/editor
+          icon: https://readme.so/favicon.ico
         - name: favicon.io
           description: 生成icon
           url: https://favicon.io/
@@ -347,6 +349,7 @@ content:
         - name: 芝麻HTTP
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
+          icon: https://static.http.linkudp.com/static/index/src/img/favicon.png
  
           
     - name: web3
@@ -425,6 +428,7 @@ content:
 ## 简历
         - name: 冷熊简历
           url: https://cv.ftqq.com/#
+          icon: https://fox.ftqq.com/bearcv/favicon.png
 #         - name: 木及简历
 #           url: https://www.mujicv.com/editor/?id=template-c124a10e0db5e4b9
 
@@ -443,8 +447,10 @@ content:
           url: https://xiezuocat.com/#/
         - name: Table Convert
           url: https://tableconvert.com/
+          icon: https://tableconvert.com/images/favicon.png
         - name: Graph Maker
           url: https://linegraphmaker.co/bar-graph
+          icon: https://linegraphmaker.co/icon.ico
 #         - name: ChartCube
 #           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
 #           url: https://chartcube.alipay.com/upload
@@ -529,6 +535,7 @@ content:
         - name: 烯牛数据
           description: 免费的投创数据平台，其他类似的都要收费
           url: https://www.xiniudata.com/
+          icon: https://www.xiniudata.com/static/image/icons/xiniu-icon-apple-touch.png
         - name: Kaggle
           description: 数据挖掘的比赛网站
           url: https://www.kaggle.com/
