@@ -29,6 +29,7 @@ content:
       sites:
         - name: ALIST
           url: https://alist.wrss.top/
+          icon: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
         - name: MALI
           url: https://mali.wrss.top/
         - name: TTRSS
