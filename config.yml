@@ -34,12 +34,14 @@ content:
           url: https://mali.wrss.top/
         - name: TTRSS
           url: https://ttrss.wrss.top/
+          icon: https://ttrss.wrss.top/images/favicon.png
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: Teambition
           url: https://www.teambition.com/project/5e703a1ffb67050022013213/tasks
         - name: Linear
           url: https://linear.app/
+          icon: https://linear.app/static/favicon.ico
         - name: gh
           url: https://github.com/luckyhacking
         - name: Youtube Music
@@ -82,11 +84,14 @@ content:
         - name: Replit
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
           url: https://replit.com/
+          icon: https://replit.com/public/icons/favicon-prompt-192.png
           
 ## 网站网页相关
         - name: Web-Vitals
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面
           url: https://www.experte.com/web-vitals
+          icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
+          
 #         - name: Pagespeed Insights
 #           description: 页面性能分析工具，很好用
 #           url: https://pagespeed.web.dev/
@@ -136,6 +141,8 @@ content:
           url: http://nstool.netease.com/
         - name: misaka ping
           url: https://ping.sx/ping
+          icon: https://ping.sx/favicon.ico
+          
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
