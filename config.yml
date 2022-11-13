@@ -68,7 +68,6 @@ content:
 
 # 天气
         - name: The Weather Channel
-          description: 比“墨迹天气web端”好用点
           url: https://weather.com/zh-CN/weather/today/l/7f14186934f484d567841e8646abc61b81cce4d88470d519beeb5e115c9b425a
         - name: Weather Spark
           description: 全年气候和平均天气
