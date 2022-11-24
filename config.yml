@@ -404,8 +404,10 @@ content:
           url: https://web.telegram.im/
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
-        - name: SPEEDTEST
-          url: https://www.speedtest.net/zh-Hans
+        - name: SPEEDTEST中国科学技术大学测速网站
+          url: https://test.ustc.edu.cn/
+#         - name: SPEEDTEST
+#           url: https://www.speedtest.net/zh-Hans
         - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
         - name: COKEMV
