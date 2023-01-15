@@ -43,8 +43,6 @@ content:
         - name: Linear
           url: https://linear.app/
           icon: https://linear.app/static/favicon.ico
-        - name: gh
-          url: https://github.com/luckyhacking
         - name: 阿里云
           url: https://home.console.aliyun.com/home/dashboard/ProductAndService
         - name: Youtube Music
@@ -60,6 +58,10 @@ content:
           url: https://outlook.live.com/
         - name: 高驰Training Hub
           url: https://t.coros.com/admin/views/dash-board
+        - name: gh
+          url: https://github.com/luckyhacking
+          
+          
 #         - name: 一个工具箱atoolbox
 #           description: 使用其图片拼接功能
 #           url: http://www.atoolbox.net/Tool.php?Id=978
