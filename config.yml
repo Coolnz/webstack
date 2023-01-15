@@ -404,6 +404,11 @@ content:
           url: https://web.telegram.im/
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
+        - name: Temp Mail - 临时性 - 匿名电子邮件
+          url: https://temp-mail.org/zh
+        - name: WidgetStore/组件世界
+          description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
+          url: https://cn.widgetstore.net/#/home
         - name: SPEEDTEST中国科学技术大学测速网站
           url: https://test.ustc.edu.cn/
 #         - name: SPEEDTEST
