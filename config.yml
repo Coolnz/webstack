@@ -192,8 +192,6 @@ content:
 
     - name: gh
       sites:
-        - name: gh
-          url: https://github.com/luckyhacking
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
