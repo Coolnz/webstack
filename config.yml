@@ -122,9 +122,7 @@ content:
         - name: paperswithcode
           description: 论文+代码（ML相关）
           url: https://paperswithcode.com/
-        - name: favicon.io
-          description: 生成icon
-          url: https://favicon.io/
+
 
 #         - name: 在线golang
 #           description: 有代码提示，比golang官方的playground好用
@@ -401,7 +399,6 @@ content:
           description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看（文字版1818）。
           url: https://wenshu.court.gov.cn/
 
-
         - name: IT桔子
           url: https://www.itjuzi.com/deathCompany
 
@@ -429,28 +426,6 @@ content:
 #           description: 蜜蜂剪辑，在线音视频处理
 #           url: https://beecut.cn/
 
-# 文档相关
-
-## 简历
-        - name: 冷熊简历
-          url: https://cv.ftqq.com/#
-          icon: https://fox.ftqq.com/bearcv/favicon.png
-#         - name: 木及简历
-#           url: https://www.mujicv.com/editor/?id=template-c124a10e0db5e4b9
-
-
-
-## 阅读器
-        - name: Koodo Reader
-          description: 开源阅读器（koodo-reader）
-          url: https://reader.960960.xyz/
-#         - name: Neat Reader
-#           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
-#           url: https://www.neat-reader.cn/webapp#/
-          
-          
-        - name: 写作猫
-          url: https://xiezuocat.com/#/
         - name: Table Convert
           url: https://tableconvert.com/
           icon: https://tableconvert.com/images/favicon.png
@@ -564,7 +539,24 @@ content:
 #           url: https://sou.best/
 
 
+    - name: 文档工具
+      sites:
+        - name: Koodo Reader
+          description: 开源阅读器（koodo-reader）
+          url: https://reader.960960.xyz/
+#         - name: Neat Reader
+#           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
+#           url: https://www.neat-reader.cn/webapp#/
+        - name: 写作猫
+          url: https://xiezuocat.com/#/
+        - name: 冷熊简历
+          url: https://cv.ftqq.com/#
+          icon: https://fox.ftqq.com/bearcv/favicon.png
+#         - name: 木及简历
+#           url: https://www.mujicv.com/editor/?id=template-c124a10e0db5e4b9
 
+
+          
     - name: 在线工具
       sites:
         - name: 白描OCR
