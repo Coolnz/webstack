@@ -133,6 +133,9 @@ content:
         - name: Github OSS Insight
           description: 查看gh某个repo的star/PR/issue等等数据，以及比较repo
           url: https://ossinsight.io/
+        - name: OSSRank
+          url: https://ossrank.com/
+          
 #         - name: Github Star Charts
 #           description: 比GitHub Star History好用
 #           url: https://starchart.cc/
