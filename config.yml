@@ -64,8 +64,7 @@ content:
 #         - name: Linear
 #           url: https://linear.app/
 #           icon: https://linear.app/static/favicon.ico
-#         - name: gh
-#           url: https://github.com/luckyhacking
+
 
 
 # 天气
@@ -95,10 +94,6 @@ content:
         - name: devtool.tech
           url: https://devtool.tech/
 
-
-
-
-          
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
@@ -121,31 +116,12 @@ content:
           description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境（比如容器内）是否有问题
           url: http://httpbin.org/
           
-# 正则相关
-        - name: regex101
-          description: 正则在线调试网站，非常好用
-          url: https://regex101.com/
-        - name: 正则大全any-rule
-          description: 收录了常用业务的正则
-          url: https://any86.github.io/any-rule/
-        - name: iHateRegex
-          description: 收录了更多的常用正则
-          url: https://ihateregex.io/
-        - name: 图解正则regex-vis
-          description: 比Regexper好用
-          url: https://regex-vis.com/
-        - name: regexlearn
-          description: regex游乐场
-          url: https://regexlearn.com/zh-cn/learn
+
         - name: Crontab.guru
           url: https://crontab.guru/
         - name: paperswithcode
           description: 论文+代码（ML相关）
           url: https://paperswithcode.com/
-        - name: readme.so
-          description: 辅助写README的工具，还不错
-          url: https://readme.so/editor
-          icon: https://readme.so/favicon.ico
         - name: favicon.io
           description: 生成icon
           url: https://favicon.io/
@@ -180,6 +156,24 @@ content:
           url: https://explainshell.com/
 
 
+    - name: 正则工具
+      sites:
+        - name: regex101
+          description: 正则在线调试网站，非常好用
+          url: https://regex101.com/
+        - name: 正则大全any-rule
+          description: 收录了常用业务的正则
+          url: https://any86.github.io/any-rule/
+        - name: iHateRegex
+          description: 收录了更多的常用正则
+          url: https://ihateregex.io/
+        - name: 图解正则regex-vis
+          description: 比Regexper好用
+          url: https://regex-vis.com/
+        - name: regexlearn
+          description: regex游乐场
+          url: https://regexlearn.com/zh-cn/learn
+
 
     - name: 转换工具
       sites:
@@ -198,6 +192,8 @@ content:
 
     - name: gh
       sites:
+        - name: gh
+          url: https://github.com/luckyhacking
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
           url: https://deps.dev/
@@ -209,6 +205,10 @@ content:
         - name: Github active-forks
           description: 查找repo最活跃的fork
           url: https://techgaun.github.io/active-forks/index.html
+        - name: readme.so
+          description: 辅助写README的工具，还不错
+          url: https://readme.so/editor
+          icon: https://readme.so/favicon.ico
           
 #         - name: Github Star Charts
 #           description: 比GitHub Star History好用
@@ -252,49 +252,20 @@ content:
       sites:
         - name: Quick Reference
           url: https://quickref.pipecraft.net/
+        - name: AWESOME-LIST
+          url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
         - name: alpine-packages
           url: https://pkgs.alpinelinux.org/packages
-
         - name: pre-commit的hooks和文档
           description: 提供的所有hooks，也可以看看文档
           url: https://pre-commit.com/hooks.html
-
-        - name: Redis命令/文档
-          description: 主要用来查命令（当然，还有文档）
-          url: https://redis.io/commands/
-        - name: Gitea文档
-          url: https://docs.gitea.io/zh-cn/
-        - name: UmiJS文档
-          url: https://umijs.org/zh-CN/docs/load-on-demand
-        - name: casbin文档
-          url: https://casbin.org/docs/zh-CN/overview
-        - name: Ansible文档
-          description: 找了几个中文版文档，版本都很老（将就看英文版吧）
-          url: https://docs.ansible.com/ansible/latest/index.html
-        - name: Ansible Galaxy
-          url: https://galaxy.ansible.com/home
-        - name: Element文档
-          description: ⚠️注意版本
-          url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
-        - name: Element Plus文档
-          url: https://element-plus.gitee.io/zh-CN/component/button.html
- 
-
-
-
         - name: LeetCode
           url: https://leetcode-cn.com/
         - name: CodeTop企业题库
           url: https://codetop.cc/home
-        - name: gh-actions集合
-          url: https://github.com/marketplace?type=actions
-        - name: gh-actions官方文档
-          url: https://docs.github.com/cn/actions/quickstart
-        - name: gitlab官方文档
-          url: https://docs.gitlab.com/ee/
+
           
-        - name: AWESOME-LIST
-          url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
+
           
     - name: golang文档
       sites:
@@ -309,6 +280,20 @@ content:
           url: https://www.jetbrains.com/help/go/meet-the-product.html
         - name: GORM文档
           url: https://gorm.io/zh_CN/docs/index.html
+        - name: casbin文档
+          url: https://casbin.org/docs/zh-CN/overview
+          
+          
+    - name: 前端文档
+      sites:
+        - name: UmiJS文档
+          url: https://umijs.org/zh-CN/docs/load-on-demand
+        - name: Element文档
+          description: ⚠️注意版本
+          url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
+        - name: Element Plus文档
+          url: https://element-plus.gitee.io/zh-CN/component/button.html
+          
           
           
     - name: 微服务文档
@@ -330,6 +315,25 @@ content:
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
           
+    - name: 运维文档
+      sites:
+        - name: Redis命令/文档
+          description: 主要用来查命令（当然，还有文档）
+          url: https://redis.io/commands/
+        - name: Gitea文档
+          url: https://docs.gitea.io/zh-cn/
+        - name: Ansible文档
+          description: 找了几个中文版文档，版本都很老（将就看英文版吧）
+          url: https://docs.ansible.com/ansible/latest/index.html
+        - name: Ansible Galaxy
+          url: https://galaxy.ansible.com/home 
+        - name: gh-actions集合
+          url: https://github.com/marketplace?type=actions
+        - name: gh-actions官方文档
+          url: https://docs.github.com/cn/actions/quickstart
+        - name: gitlab官方文档
+          url: https://docs.gitlab.com/ee/
+
           
           
 
