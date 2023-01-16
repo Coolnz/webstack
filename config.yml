@@ -181,7 +181,7 @@ content:
 
 
 
-    - name: <DevTool>转换工具
+    - name: 开发工具=转换工具
       sites:
         - name: OKTools
           url: https://oktools.net/number
@@ -196,7 +196,7 @@ content:
           url: https://onlinecsvtools.com/
 
 
-    - name: <DevTool>gh
+    - name: 开发工具=gh
       sites:
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
@@ -218,7 +218,7 @@ content:
 #           url: https://www.githubcompare.com/
 
 
-    - name: <DevTool>网站网页
+    - name: 开发工具=网站网页
       sites:
         - name: Web-Vitals
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面
@@ -296,7 +296,7 @@ content:
         - name: AWESOME-LIST
           url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
           
-    - name: <Doc>golang
+    - name: 文档=golang
       sites:
         - name: golang标准库
           url: https://pkg.go.dev/std
@@ -311,7 +311,7 @@ content:
           url: https://gorm.io/zh_CN/docs/index.html
           
           
-    - name: <Doc>微服务
+    - name: 文档=微服务
       sites:
         - name: k8s文档
           url: https://kubernetes.io/zh/docs/reference/
