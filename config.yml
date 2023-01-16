@@ -209,6 +209,10 @@ content:
           description: 辅助写README的工具，还不错
           url: https://readme.so/editor
           icon: https://readme.so/favicon.ico
+        - name: OpenSource Builders
+          description: 一些服务的开源替代品，还不错
+          url: https://opensource.builders/
+          
           
 #         - name: Github Star Charts
 #           description: 比GitHub Star History好用
@@ -398,33 +402,18 @@ content:
         - name: 中国裁判文书网
           description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看（文字版1818）。
           url: https://wenshu.court.gov.cn/
-        - name: OpenSource Builders
-          description: 一些服务的开源替代品，还不错
-          url: https://opensource.builders/
-        - name: 白描OCR
-          description: 白描OCR的在线服务
-          url: https://web.baimiaoapp.com/
-        - name: 草料二维码
-          url: https://cli.im/
-        - name: qrcode-monkey
-          description: 搭配草料使用（主要使用其一些国外服务的logo）
-          url: https://www.qrcode-monkey.com/
-        - name: 在线尺子achizi
-          url: http://achizi.com/
+
+
         - name: IT桔子
           url: https://www.itjuzi.com/deathCompany
 
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
-        - name: Temp Mail - 临时性 - 匿名电子邮件
-          url: https://temp-mail.org/zh
+
         - name: WidgetStore/组件世界
           description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
           url: https://cn.widgetstore.net/#/home
-        - name: SPEEDTEST中国科学技术大学测速网站
-          url: https://test.ustc.edu.cn/
-#         - name: SPEEDTEST
-#           url: https://www.speedtest.net/zh-Hans
+
         - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
 
@@ -441,11 +430,6 @@ content:
 #         - name: 蜜蜂剪辑
 #           description: 蜜蜂剪辑，在线音视频处理
 #           url: https://beecut.cn/
-
-
-
-
-          
 
 # 文档相关
 
@@ -480,9 +464,6 @@ content:
 #           url: https://chartcube.alipay.com/upload
           
 
-
-
-
           
 ## icon相关
         - name: EasyIcon
@@ -494,24 +475,6 @@ content:
 #         - name: IconFont
 #           description: 阿里巴巴矢量图标库
 #           url: http://www.iconfont.cn/
-
-
-
-
-## rss相关服务
-        - name: feeddd
-          description: 订阅微信公众号的feed
-          url: https://feeddd.org/feeds
-#         - name: Kill the Newsletter!
-#           description: newsletter转rss
-#           url: https://kill-the-newsletter.com/
-#         - name: follow.it
-#           description: rss转newsletter
-#           url: https://follow.it/enter-website
-#         - name: Blogtrottr
-#           description: 订阅rss，发送到邮箱(ttrss内置“发送某个feed到邮箱”功能，所以不需要)
-#           url: https://blogtrottr.com/
-
 
 
 
@@ -601,6 +564,27 @@ content:
 #           url: https://cook.yunyoujun.cn/
 #         - name: SOU.BEST
 #           url: https://sou.best/
+
+
+
+    - name: 在线工具
+      sites:
+        - name: 白描OCR
+          description: 白描OCR的在线服务
+          url: https://web.baimiaoapp.com/
+        - name: 草料二维码
+          url: https://cli.im/
+        - name: qrcode-monkey
+          description: 搭配草料使用（主要使用其一些国外服务的logo）
+          url: https://www.qrcode-monkey.com/
+        - name: 在线尺子achizi
+          url: http://achizi.com/
+        - name: Temp Mail - 临时性 - 匿名电子邮件
+          url: https://temp-mail.org/zh
+        - name: SPEEDTEST中国科学技术大学测速网站
+          url: https://test.ustc.edu.cn/
+#         - name: SPEEDTEST
+#           url: https://www.speedtest.net/zh-Hans
 
 
     - name: 娱乐
