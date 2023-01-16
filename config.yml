@@ -181,7 +181,7 @@ content:
 
 
 
-    - name: 开发工具=转换工具
+    - name: 转换工具
       sites:
         - name: OKTools
           url: https://oktools.net/number
@@ -196,7 +196,7 @@ content:
           url: https://onlinecsvtools.com/
 
 
-    - name: 开发工具=gh
+    - name: gh
       sites:
         - name: deps.dev
           description: 用来查看开源项目的依赖是否有漏洞
@@ -218,7 +218,7 @@ content:
 #           url: https://www.githubcompare.com/
 
 
-    - name: 开发工具=网站网页
+    - name: 网站网页
       sites:
         - name: Web-Vitals
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面
@@ -296,7 +296,7 @@ content:
         - name: AWESOME-LIST
           url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
           
-    - name: 文档=golang
+    - name: golang文档
       sites:
         - name: golang标准库
           url: https://pkg.go.dev/std
@@ -311,7 +311,7 @@ content:
           url: https://gorm.io/zh_CN/docs/index.html
           
           
-    - name: 文档=微服务
+    - name: 微服务文档
       sites:
         - name: k8s文档
           url: https://kubernetes.io/zh/docs/reference/
@@ -409,10 +409,7 @@ content:
           url: http://achizi.com/
         - name: IT桔子
           url: https://www.itjuzi.com/deathCompany
-        - name: tg
-          url: https://web.telegram.im/
-        - name: pixivFANBOX
-          url: https://www.fanbox.cc/
+
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
         - name: Temp Mail - 临时性 - 匿名电子邮件
@@ -426,11 +423,6 @@ content:
 #           url: https://www.speedtest.net/zh-Hans
         - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-        - name: COKEMV
-          url: https://cokemv.me/
-        - name: vim游戏（VIM Adventures）
-          description: Learn VIM while playing a game
-          url: https://vim-adventures.com/
 
 
 #         - name: 逮蝦戶
@@ -445,8 +437,7 @@ content:
 #         - name: 蜜蜂剪辑
 #           description: 蜜蜂剪辑，在线音视频处理
 #           url: https://beecut.cn/
-#         - name: 中文播客榜
-#           url: https://xyzrank.com/
+
 
 
 
@@ -575,11 +566,6 @@ content:
           url: https://www.qimai.cn/
 
 
-
-
-
-
-
 ## 文档工具
 #         - name: Markmap
 #           description: 在线markdown转思维导图
@@ -613,7 +599,19 @@ content:
 #           url: https://sou.best/
 
 
-
+    - name: 娱乐
+      sites:
+        - name: COKEMV
+          url: https://cokemv.me/
+        - name: vim游戏（VIM Adventures）
+          description: Learn VIM while playing a game
+          url: https://vim-adventures.com/
+        - name: tg
+          url: https://web.telegram.im/
+        - name: pixivFANBOX
+          url: https://www.fanbox.cc/
+#         - name: 中文播客榜
+#           url: https://xyzrank.com/
 
 
     - name: 购物
