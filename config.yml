@@ -398,17 +398,13 @@ content:
         - name: 中国裁判文书网
           description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看（文字版1818）。
           url: https://wenshu.court.gov.cn/
-
         - name: IT桔子
           url: https://www.itjuzi.com/deathCompany
-
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
-
         - name: WidgetStore/组件世界
           description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
           url: https://cn.widgetstore.net/#/home
-
         - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
 
@@ -449,21 +445,6 @@ content:
 #           description: 阿里巴巴矢量图标库
 #           url: http://www.iconfont.cn/
 
-
-
-## 工具集网站
-        - name: Cloud Convert
-          description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
-          url: https://cloudconvert.com/
-        - name: iLovePDF
-          description: 提供所有PDF相关的在线服务
-          url: https://www.ilovepdf.com/
-#         - name: Zamzar
-#           description: 视频/音频/图片/电子书转换器，非常强大的在线工具
-#           url: https://www.zamzar.com/
-#         - name: password-generator
-#           description: 密码生成器
-#           url: https://mrjooz.github.io/password-generator
 
 
 ## 图片相关服务
@@ -520,8 +501,6 @@ content:
 #           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
 #           url: https://md.mzr.me/
 
-
-
 #         - name: WakaTime
 #           description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
 #           url: https://wakatime.com/dashboard
@@ -575,6 +554,19 @@ content:
           url: https://test.ustc.edu.cn/
 #         - name: SPEEDTEST
 #           url: https://www.speedtest.net/zh-Hans
+        - name: iLovePDF
+          description: 提供所有PDF相关的在线服务
+          url: https://www.ilovepdf.com/
+        - name: Cloud Convert文件转换
+          description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
+          url: https://cloudconvert.com/
+#         - name: Zamzar
+#           description: 视频/音频/图片/电子书转换器，非常强大的在线工具
+#           url: https://www.zamzar.com/
+#         - name: password-generator
+#           description: 密码生成器
+#           url: https://mrjooz.github.io/password-generator
+
 
 
     - name: 娱乐
