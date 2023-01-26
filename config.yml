@@ -43,7 +43,7 @@ content:
         - name: Youtube Music
           url: https://music.youtube.com/library/albums
         - name: 偷懒工具toolight
-          description: 使用其密码生成器等工具
+          description: 使用其密码生成器等工具，比atoolbox好用
           url: https://toolight.cn/
         - name: 即时工具67tool
           url: https://www.67tool.com/
@@ -53,48 +53,34 @@ content:
           url: https://outlook.live.com/
         - name: 高驰Training Hub
           url: https://t.coros.com/admin/views/dash-board
-
-#         - name: 一个工具箱atoolbox
-#           description: 使用其图片拼接功能
-#           url: http://www.atoolbox.net/Tool.php?Id=978
-
-
-
-
-# 天气
         - name: The Weather Channel
+          description: 比墨迹天气好用
           url: https://weather.com/zh-CN/weather/hourbyhour/l/7f14186934f484d567841e8646abc61b81cce4d88470d519beeb5e115c9b425a
         - name: Weather Spark
           description: 全年气候和平均天气
           url: https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94
-#         - name: 墨迹天气
-#           url: https://tianqi.moji.com/
-
         - name: Excalidraw
           url: https://excalidraw.com/
-
-
-
+        - name: tldraw
+          description: 画板工具，挺好用，导出格式tldr（可以用来拼接图片，搭配iLoveIMG使用）
+          url: https://www.tldraw.com/
     - name: 开发工具
       sites:
         - name: Replit
-          description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE）
+          description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
           url: https://replit.com/
           icon: https://replit.com/public/icons/favicon-prompt-192.png
-
-        - name: webutils
+        - name: WebUtils
           description: 提供在线curl工具，以及一些文本和图片工具
           url: https://www.webutils.app/
         - name: devtool.tech
           url: https://devtool.tech/
-
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
         - name: Diff Checker
           description: diff 工具，diff 文本、diff 图片、diff
           url: https://www.diffchecker.com/diff
-
         - name: Program Creek
           description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
           url: https://www.programcreek.com/
@@ -105,49 +91,22 @@ content:
         - name: 数据结构模拟 Data Structure Visualizations
           description: 各种数据结构的动画
           url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-
         - name: httpbin
           description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境（比如容器内）是否有问题
           url: http://httpbin.org/
-          
-
         - name: Crontab.guru
           url: https://crontab.guru/
         - name: paperswithcode
           description: 论文+代码（ML相关）
           url: https://paperswithcode.com/
-
-
-#         - name: 在线golang
-#           description: 有代码提示，比golang官方的playground好用
-#           url: https://goplay.tools/
-#         - name: 在线PHP
-#           url: https://3v4l.org/
-#         - name: Colaboratory
-#           description: 在线使用的Jupyter notebook环境，机器学习必备
-#           url: https://colab.research.google.com/
-#         - name: Compiler Explorer
-#           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
-#           url: https://godbolt.org/
-#         - name: AST explorer
-#           description: 一款用于探索各种代码解析器生成的抽象语法树 (Abstract Syntax Tree, AST) 的在线工具
-#           url: https://astexplorer.net/
-#         - name: Nginx Config
-#           description: 用来生成nginx配置文件
-#           url: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
-
-
-# 平台
         - name: CodeCov
           url: https://about.codecov.io/
         - name: Go Report Card
           url: https://goreportcard.com/
-        - name: coveralls
+        - name: Coveralls
           url: https://coveralls.io/
-        - name: explainshell
+        - name: Explainshell
           url: https://explainshell.com/
-
-
     - name: 正则工具
       sites:
         - name: regex101
@@ -165,8 +124,6 @@ content:
         - name: regexlearn
           description: regex游乐场
           url: https://regexlearn.com/zh-cn/learn
-
-
     - name: 转换工具
       sites:
         - name: OKTools
@@ -180,8 +137,6 @@ content:
         - name: online-xxx-tools
           description: 用来转换各种数据类型和文件格式（用来搜yamllint工具时发现的）
           url: https://onlinecsvtools.com/
-
-
     - name: gh
       sites:
         - name: deps.dev
@@ -205,20 +160,10 @@ content:
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
-          
-          
-#         - name: Github Star Charts
-#           description: 比GitHub Star History好用
-#           url: https://starchart.cc/
-#         - name: Github Compare
-#           description: 对比多个github的repo，go.libhunt.com也支持类似功能，但是只能比较golang的lib
-#           url: https://www.githubcompare.com/
-
-
     - name: 网站网页
       sites:
         - name: Web-Vitals
-          description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面
+          description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
           url: https://www.experte.com/web-vitals
           icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
         - name: resource-hint-validator
@@ -238,13 +183,6 @@ content:
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
-
-#         - name: Pagespeed Insights
-#           description: 页面性能分析工具，很好用
-#           url: https://pagespeed.web.dev/
-          
-          
-          
     - name: 开发文档
       sites:
         - name: Quick Reference
@@ -260,10 +198,6 @@ content:
           url: https://leetcode-cn.com/
         - name: CodeTop企业题库
           url: https://codetop.cc/home
-
-          
-
-          
     - name: golang文档
       sites:
         - name: golang标准库
@@ -279,8 +213,6 @@ content:
           url: https://gorm.io/zh_CN/docs/index.html
         - name: casbin文档
           url: https://casbin.org/docs/zh-CN/overview
-          
-          
     - name: 前端文档
       sites:
         - name: UmiJS文档
@@ -290,9 +222,6 @@ content:
           url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
         - name: Element Plus文档
           url: https://element-plus.gitee.io/zh-CN/component/button.html
-          
-          
-          
     - name: 微服务文档
       sites:
         - name: k8s文档
@@ -311,7 +240,6 @@ content:
           url: https://docs.docker.com/engine/reference/run/
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
-          
     - name: 运维文档
       sites:
         - name: Redis命令/文档
@@ -330,10 +258,6 @@ content:
           url: https://docs.github.com/cn/actions/quickstart
         - name: gitlab官方文档
           url: https://docs.gitlab.com/ee/
-
-          
-          
-
     - name: 云服务文档
       sites:
         - name: apifox
@@ -342,10 +266,8 @@ content:
         - name: 云片
           url: https://www.yunpian.com/
         - name: 聚合数据
+          description: 比nowapi好用
           url: https://www.juhe.cn/
-#         - name: nowapi
-#           description: 常用api服务（还有余额）但是这网站实在没什么好用的API服务了，所以暂时去掉。
-#           url: https://www.nowapi.com/
         - name: 百度智能云
           description: 百度智能云，用过车牌识别之类的服务
           url: https://cloud.baidu.com/
@@ -361,8 +283,6 @@ content:
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
           icon: https://static.http.linkudp.com/static/index/src/img/favicon.png
- 
-          
     - name: web3
       sites:
         - name: Seed Club
@@ -382,11 +302,6 @@ content:
           url: https://cryptofonts.com/icons.php
         - name: ViaWallet
           url: https://explorer.viawallet.com/btc
-          
-          
-          
-
-
     - name: 日常生活
       sites:
         - name: 油猴脚本Greasy Fork
@@ -394,62 +309,22 @@ content:
         - name: WidgetStore/组件世界
           description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
           url: https://cn.widgetstore.net/#/home
-
-
-
-#         - name: 逮蝦戶
-#           description: spotify之类境外服务的拼车网站
-#           url: https://daixiahu.co/#/buses
-#         - name: xclient
-#           description: mac的破解软件
-#           url: https://xclient.info/
-#         - name: 云短信
-#           description: 在线短信接收平台，用来注册临时使用(只使用一次)的网站
-#           url: https://yunduanxin.net/
-#         - name: 蜜蜂剪辑
-#           description: 蜜蜂剪辑，在线音视频处理
-#           url: https://beecut.cn/
-
         - name: Table Convert
           url: https://tableconvert.com/
           icon: https://tableconvert.com/images/favicon.png
         - name: Graph Maker
-          url: https://linegraphmaker.co/bar-graph
+          description: 对比ChartCube使用
           icon: https://linegraphmaker.co/icon.ico
-#         - name: ChartCube
-#           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
-#           url: https://chartcube.alipay.com/upload
-          
-
-          
-## icon相关
+          url: https://linegraphmaker.co/bar-graph
+        - name: ChartCube
+          description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
+          url: https://chartcube.alipay.com/upload
+        - name: xclient
+          description: mac的破解软件
+          url: https://xclient.info/
         - name: EasyIcon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
+          description: 比FlatIcon、IconFont好用
           url: http://www.easyicon.cc/
-        - name: FlatIcon
-          description: 类似EasyIcon，可以直接搜索icon
-          url: https://www.flaticon.com/
-#         - name: IconFont
-#           description: 阿里巴巴矢量图标库
-#           url: http://www.iconfont.cn/
-
-
-        - name: illustrationlink
-          description: 插画集网站web-stack
-          url: https://www.illustrationlink.com/#list2
-#         - name: tldraw
-#           description: 画板工具，挺好用，导出格式tldr（可以用来拼接图片，搭配iLoveIMG使用）
-#           url: https://www.tldraw.com/
-#         - name: TinyPNG
-#           description: 在线图片压缩服务（picdiet/yalijuda）
-#           url: https://tinypng.com/
-#         - name: Free Image Resizer
-#           description: 修改图片分辨率，非常实用
-#           url: https://promo.com/tools/image-resizer/
-
-
-
-## 投资相关服务
         - name: Investment Calculator
           description: 计算投资收益什么的，好用
           url: https://www.calculator.net/investment-calculator.html
@@ -465,59 +340,24 @@ content:
           url: https://www.joinquant.com/
         - name: 七麦数据
           url: https://www.qimai.cn/
-
-
-## 文档工具
-#         - name: Markmap
-#           description: 在线markdown转思维导图
-#           url: https://markmap.js.org/repl
-#         - name: Mermaid Live Editor
-#           description: 在线mermaid编辑器
-#           url: https://mermaid.live/edit/
-#         - name: Excalidraw
-#           description: 流程图工具，可以画手写风格的图表
-#           url: https://excalidraw.com/
-#         - name: 在线markdown编辑器
-#           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
-#           url: https://md.mzr.me/
-
-#         - name: WakaTime
-#           description: 用来通过IDE插件统计项目，便于回溯，以及写周报什么的
-#           url: https://wakatime.com/dashboard
-
-#         - name: 开源服务的badage服务
-#           description: 提供了很多常用badage，比如license/发布版本/下载量/文档/last-commit时间，还可以定制徽章，比如qq群/捐赠地址等
-#           url: https://shields.io/
-#         - name: 硬创社
-#           url: https://x.jlc.com/
-#         - name: 设计工具排行uxtools
-#           url: https://uxtools.co/tools/design
-#         - name: 隔离食用手册
-#           url: https://cook.yunyoujun.cn/
-#         - name: SOU.BEST
-#           url: https://sou.best/
-
-
     - name: 文档工具
       sites:
         - name: Koodo Reader
-          description: 开源阅读器（koodo-reader）
+          description: 比neat-reader好用
           url: https://reader.960960.xyz/
-#         - name: Neat Reader
-#           description: 在线阅读ePUB/mobi等格式文件，阅读体验不错，不再需要下载calibre之类的本地阅读器
-#           url: https://www.neat-reader.cn/webapp#/
         - name: 写作猫
           url: https://xiezuocat.com/#/
         - name: 冷熊简历
+          description: 木及简历
           url: https://cv.ftqq.com/#
           icon: https://fox.ftqq.com/bearcv/favicon.png
-#         - name: 木及简历
-#           url: https://www.mujicv.com/editor/?id=template-c124a10e0db5e4b9
-
-
-          
+        - name: 在线markdown编辑器
+          description: 比StackEdit好用很多，用来辅助处理一些md格式问题
+          url: https://md.mzr.me/
     - name: 在线工具
       sites:
+        - name: 隔离食用手册
+          url: https://cook.yunyoujun.cn/
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
@@ -528,12 +368,14 @@ content:
           url: https://www.qrcode-monkey.com/
         - name: 在线尺子achizi
           url: http://achizi.com/
-        - name: Temp Mail - 临时性 - 匿名电子邮件
+        - name: Temp Mail - 临时性匿名邮箱
           url: https://temp-mail.org/zh
+        - name: 云短信 - 临时性匿名短信
+          description: 在线短信接收平台，用来注册临时使用(只使用一次)的网站
+          url: https://yunduanxin.net/        
         - name: SPEEDTEST中国科学技术大学测速网站
+          description: SPEEDTEST
           url: https://test.ustc.edu.cn/
-#         - name: SPEEDTEST
-#           url: https://www.speedtest.net/zh-Hans
         - name: iLoveIMG
           description: 使用其图片压缩/图片编辑/修改图片分辨率/图片格式转换等功能
           url: https://www.iloveimg.com/zh-cn
@@ -548,13 +390,6 @@ content:
         - name: Cloud Convert文件转换
           description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
           url: https://cloudconvert.com/
-#         - name: Zamzar
-#           description: 视频/音频/图片/电子书转换器，非常强大的在线工具
-#           url: https://www.zamzar.com/
-#         - name: password-generator
-#           description: 密码生成器
-#           url: https://mrjooz.github.io/password-generator
-
     - name: 随便看看
       sites:
         - name: 5000yan
@@ -567,10 +402,8 @@ content:
           url: https://www.itjuzi.com/deathCompany
         - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-          
-          
-          
-
+        - name: 硬创社
+          url: https://x.jlc.com/platform/community
     - name: 娱乐
       sites:
         - name: COKEMV
@@ -582,13 +415,10 @@ content:
           url: https://web.telegram.im/
         - name: pixivFANBOX
           url: https://www.fanbox.cc/
-#         - name: 中文播客榜
-#           url: https://xyzrank.com/
-
-
+        - name: 中文播客榜
+          url: https://xyzrank.com/
     - name: 购物
       sites:
-## 综合服务
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
@@ -596,24 +426,14 @@ content:
           url: https://www.kuaidi100.com/
         - name: 黑猫投诉
           url: https://tousu.sina.com.cn/
-          
-## 选购网站
         - name: ProductZ
           url: https://productz.com/en
         - name: REI
           url: https://www.rei.com/
         - name: 充电头网手机充电兼容性测试数据库
           url: https://shimo.im/sheets/aBAYV0nY69S90V3j
-        - name: 跑鞋选购
-          url: https://www.kdocs.cn/l/cbxLvRl512AN
         - name: PACK HACKER
           url: https://packhacker.com/
-#         - name: Top10Zone
-#           description: 几个缺点：商品种类太少，且很多Top10商品实际上一般（并且没有很多很好用的国内品牌），另外更新很慢，大部分榜单还是2020年的
-#           url: https://www.top10-zone.com/
-          
-          
-## 品牌
         - name: IKEA
           url: https://www.ikea.cn/cn/zh/cat/chu-wu-he-shou-na-st001/
         - name: MUJI
