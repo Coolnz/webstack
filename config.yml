@@ -78,11 +78,6 @@ content:
         - name: AST explorer
           description: 一款用于探索各种代码解析器生成的抽象语法树 (Abstract Syntax Tree, AST) 的在线工具
           url: https://astexplorer.net/
-        - name: WebUtils
-          description: 提供在线curl工具，以及一些文本和图片工具
-          url: https://www.webutils.app/
-        - name: devtool.tech
-          url: https://devtool.tech/
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
@@ -327,27 +322,13 @@ content:
         - name: ChartCube
           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
           url: https://chartcube.alipay.com/upload
-        - name: xclient
-          description: mac的破解软件
-          url: https://xclient.info/
         - name: EasyIcon
           description: 比FlatIcon、IconFont好用
           url: http://www.easyicon.cc/
         - name: Investment Calculator
           description: 计算投资收益什么的，好用
           url: https://www.calculator.net/investment-calculator.html
-        - name: 烯牛数据
-          description: 免费的投创数据平台，其他类似的都要收费
-          url: https://www.xiniudata.com/
-          icon: https://www.xiniudata.com/static/image/icons/xiniu-icon-apple-touch.png
-        - name: Kaggle
-          description: 数据挖掘的比赛网站
-          url: https://www.kaggle.com/
-        - name: JoinQuant聚宽量化交易平台
-          description: 相当于国内的Kaggle，没事下载几个策略跑跑
-          url: https://www.joinquant.com/
-        - name: 七麦数据
-          url: https://www.qimai.cn/
+
     - name: 文档工具
       sites:
         - name: Koodo Reader
@@ -398,6 +379,11 @@ content:
         - name: Cloud Convert文件转换
           description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
           url: https://cloudconvert.com/
+        - name: WebUtils
+          description: 提供在线curl工具，以及一些文本和图片工具
+          url: https://www.webutils.app/
+        - name: devtool.tech
+          url: https://devtool.tech/
     - name: 随便看看
       sites:
         - name: 5000yan
@@ -412,6 +398,21 @@ content:
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
         - name: 硬创社
           url: https://x.jlc.com/platform/community
+        - name: 烯牛数据
+          description: 免费的投创数据平台，其他类似的都要收费
+          url: https://www.xiniudata.com/
+          icon: https://www.xiniudata.com/static/image/icons/xiniu-icon-apple-touch.png
+        - name: Kaggle
+          description: 数据挖掘的比赛网站
+          url: https://www.kaggle.com/
+        - name: JoinQuant聚宽量化交易平台
+          description: 相当于国内的Kaggle，没事下载几个策略跑跑
+          url: https://www.joinquant.com/
+        - name: 七麦数据
+          url: https://www.qimai.cn/
+        - name: xclient
+          description: mac的破解软件
+          url: https://xclient.info/
     - name: 娱乐
       sites:
         - name: COKEMV
