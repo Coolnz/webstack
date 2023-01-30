@@ -413,6 +413,12 @@ content:
         - name: xclient
           description: mac的破解软件
           url: https://xclient.info/
+        - name: Packal
+          url: http://www.packal.org/
+        - name: Alfred workflows
+          url: https://www.alfredapp.com/workflows/
+        - name: Alfred Forum
+          url: https://www.alfredforum.com/
     - name: 娱乐
       sites:
         - name: COKEMV
