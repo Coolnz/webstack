@@ -49,9 +49,6 @@ content:
           url: https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94
         - name: Excalidraw
           url: https://excalidraw.com/
-        - name: tldraw
-          description: 画板工具，挺好用，导出格式tldr（可以用来拼接图片，搭配iLoveIMG使用）
-          url: https://www.tldraw.com/
     - name: 开发工具
       sites:
         - name: Repl.it
