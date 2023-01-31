@@ -370,11 +370,6 @@ content:
         - name: Cloud Convert文件转换
           description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
           url: https://cloudconvert.com/
-        - name: WebUtils
-          description: 提供在线curl工具，以及一些文本和图片工具
-          url: https://www.webutils.app/
-        - name: devtool.tech
-          url: https://devtool.tech/
     - name: 随便看看
       sites:
         - name: 5000yan
