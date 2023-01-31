@@ -341,11 +341,6 @@ content:
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
-        - name: 草料二维码
-          url: https://cli.im/
-        - name: qrcode-monkey
-          description: 搭配草料使用（主要使用其一些国外服务的logo）
-          url: https://www.qrcode-monkey.com/
         - name: 在线尺子achizi
           url: http://achizi.com/
         - name: Temp Mail - 临时性匿名邮箱
