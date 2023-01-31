@@ -27,15 +27,6 @@ content:
   categories:
     - name: 常用网站
       sites:
-        - name: ALIST
-          url: https://alist.wrss.top/
-          icon: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
-        - name: MALI
-          url: https://mali.wrss.top/
-          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/assets/yin-yang.png
-        - name: TTRSS
-          url: https://ttrss.wrss.top/
-          icon: https://ttrss.wrss.top/images/favicon.png
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: 阿里云
