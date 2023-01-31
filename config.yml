@@ -33,11 +33,6 @@ content:
           url: https://home.console.aliyun.com/home/dashboard/ProductAndService
         - name: Youtube Music
           url: https://music.youtube.com/library/albums
-        - name: 偷懒工具toolight
-          description: 使用其密码生成器（password-generator）等工具，比atoolbox好用
-          url: https://toolight.cn/
-        - name: 即时工具67tool
-          url: https://www.67tool.com/
         - name: Google翻译
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
         - name: 微软邮箱Outlook
@@ -72,9 +67,6 @@ content:
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
-        - name: Diff Checker
-          description: diff 工具，diff 文本、diff 图片、diff
-          url: https://www.diffchecker.com/diff
         - name: Program Creek
           description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
           url: https://www.programcreek.com/
@@ -101,36 +93,6 @@ content:
           url: https://coveralls.io/
         - name: Explainshell
           url: https://explainshell.com/
-    - name: 正则工具
-      sites:
-        - name: regex101
-          description: 正则在线调试网站，非常好用
-          url: https://regex101.com/
-        - name: 正则大全any-rule
-          description: 收录了常用业务的正则
-          url: https://any86.github.io/any-rule/
-        - name: iHateRegex
-          description: 收录了更多的常用正则
-          url: https://ihateregex.io/
-        - name: 图解正则regex-vis
-          description: 比Regexper好用
-          url: https://regex-vis.com/
-        - name: regexlearn
-          description: regex游乐场
-          url: https://regexlearn.com/zh-cn/learn
-    - name: 转换工具
-      sites:
-        - name: OKTools
-          url: https://oktools.net/number
-        - name: transform
-          description: 各种数据类型转换
-          url: https://transform.tools/
-        - name: verytoolz
-          description: 各种数据类型转换
-          url: https://verytoolz.com/yaml-parser.html
-        - name: online-xxx-tools
-          description: 用来转换各种数据类型和文件格式（用来搜yamllint工具时发现的）
-          url: https://onlinecsvtools.com/
     - name: gh
       sites:
         - name: deps.dev
@@ -341,8 +303,6 @@ content:
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
-        - name: 在线尺子achizi
-          url: http://achizi.com/
         - name: Temp Mail - 临时性匿名邮箱
           url: https://temp-mail.org/zh
         - name: 云短信 - 临时性匿名短信
@@ -351,20 +311,6 @@ content:
         - name: SPEEDTEST中国科学技术大学测速网站
           description: SPEEDTEST
           url: https://test.ustc.edu.cn/
-        - name: iLoveIMG
-          description: 使用其图片压缩/图片编辑/修改图片分辨率/图片格式转换等功能（比TinyPNG、picdiet、yalijuda好用）
-          url: https://www.iloveimg.com/zh-cn
-        - name: iLovePDF
-          description: 提供所有PDF相关的在线服务
-          url: https://www.ilovepdf.com/
-        - name: 在线GIF动图压缩 - docsmall
-          url: https://docsmall.com/gif-compress
-        - name: 稿定抠图 - 在线PS
-          description: 免费在线抠图软件，图片快速换背景-抠白底图
-          url: https://ps.gaoding.com/#/
-        - name: Cloud Convert文件转换
-          description: 在线文件转换网站，所有格式应有尽有（比Zamzar支持更多格式）
-          url: https://cloudconvert.com/
     - name: 随便看看
       sites:
         - name: 5000yan
