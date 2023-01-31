@@ -59,7 +59,7 @@ content:
           url: https://www.tldraw.com/
     - name: 开发工具
       sites:
-        - name: Replit
+        - name: Repl.it
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
           url: https://replit.com/
           icon: https://replit.com/public/icons/favicon-prompt-192.png
