@@ -2,7 +2,7 @@
 title: webstack
 
 # description of website
-description: luckyhakcing's navigation site
+description: hapihacking's navigation site
 
 # favicon of website
 favicon: "https://webstack.cc/assets/images/favicon.png"
@@ -14,13 +14,13 @@ url: https://ws.wrss.top
 github: "https://github.com/toolsz/webstack"
 
 # footer message
-footer: © 2021-2021 @luckyhacking
+footer: © 2021-2021 @hapihacking
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
 
-# Google analytics
+# Google Analytics
 # google_analytics: "G-EXE1PJ8CR2"
 
 content:
