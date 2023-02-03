@@ -25,7 +25,7 @@ template: webstack
 
 content:
   categories:
-    - name: 常用网站
+    - name: cy
       sites:
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
@@ -49,7 +49,7 @@ content:
           url: https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94
         - name: Excalidraw
           url: https://excalidraw.com/
-    - name: 开发工具
+    - name: tools
       sites:
         - name: Repl.it
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
@@ -113,7 +113,7 @@ content:
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
-    - name: 网站网页
+    - name: web
       sites:
         - name: Web-Vitals
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
@@ -136,7 +136,7 @@ content:
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
-    - name: 开发文档
+    - name: doc
       sites:
         - name: Quick Reference
           url: https://quickref.pipecraft.net/
@@ -151,68 +151,6 @@ content:
           url: https://leetcode-cn.com/
         - name: CodeTop企业题库
           url: https://codetop.cc/home
-    - name: golang文档
-      sites:
-        - name: golang标准库
-          url: https://pkg.go.dev/std
-        - name: gf文档
-          url: https://pkg.go.dev/github.com/gogf/gf/v2
-        - name: go-zero文档
-          url: https://go-zero.dev/cn/docs/introduction/
-        - name: Goland文档
-          description: IDE相关问题别再乱查各种帖子了，直接看文档最好
-          url: https://www.jetbrains.com/help/go/meet-the-product.html
-        - name: GORM文档
-          url: https://gorm.io/zh_CN/docs/index.html
-        - name: casbin文档
-          url: https://casbin.org/docs/zh-CN/overview
-    - name: 前端文档
-      sites:
-        - name: UmiJS文档
-          url: https://umijs.org/zh-CN/docs/load-on-demand
-        - name: Element文档
-          description: ⚠️注意版本
-          url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
-        - name: Element Plus文档
-          url: https://element-plus.gitee.io/zh-CN/component/button.html
-    - name: 微服务文档
-      sites:
-        - name: k8s文档
-          url: https://kubernetes.io/zh/docs/reference/
-        - name: kubesphere
-          url: https://kubesphere.io/zh/
-        - name: Artifact Hub
-          url: https://artifacthub.io/packages/search?sort=relevance&page=1
-        - name: Helm
-          url: https://helm.sh/zh/docs/intro/quickstart/
-        - name: 云原生资料库
-          description: k8s/Istio/Envoy教程
-          url: https://lib.jimmysong.io/kubernetes-handbook/
-        - name: Docker文档
-          description: 文档写的特别好，三个部分：docker命令/Dockerfile/docker-compose
-          url: https://docs.docker.com/engine/reference/run/
-        - name: Prometheus文档
-          url: https://prometheus.io/docs/prometheus/latest/getting_started/
-    - name: 运维文档
-      sites:
-        - name: Redis命令/文档
-          description: 主要用来查命令（当然，还有文档）
-          url: https://redis.io/commands/
-        - name: Gitea文档
-          url: https://docs.gitea.io/zh-cn/
-        - name: Ansible文档
-          description: 找了几个中文版文档，版本都很老（将就看英文版吧）
-          url: https://docs.ansible.com/ansible/latest/index.html
-        - name: Ansible Galaxy
-          url: https://galaxy.ansible.com/home 
-        - name: gh-actions集合
-          url: https://github.com/marketplace?type=actions
-        - name: gh-actions官方文档
-          url: https://docs.github.com/cn/actions/quickstart
-        - name: gitlab官方文档
-          url: https://docs.gitlab.com/ee/
-    - name: 云服务文档
-      sites:
         - name: apifox
           description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
           url: https://www.apifox.cn/apihub/
@@ -236,6 +174,66 @@ content:
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
           icon: https://static.http.linkudp.com/static/index/src/img/favicon.png
+    - name: golang
+      sites:
+        - name: golang标准库
+          url: https://pkg.go.dev/std
+        - name: gf文档
+          url: https://pkg.go.dev/github.com/gogf/gf/v2
+        - name: go-zero文档
+          url: https://go-zero.dev/cn/docs/introduction/
+        - name: Goland文档
+          description: IDE相关问题别再乱查各种帖子了，直接看文档最好
+          url: https://www.jetbrains.com/help/go/meet-the-product.html
+        - name: GORM文档
+          url: https://gorm.io/zh_CN/docs/index.html
+        - name: casbin文档
+          url: https://casbin.org/docs/zh-CN/overview
+    - name: fe
+      sites:
+        - name: UmiJS文档
+          url: https://umijs.org/zh-CN/docs/load-on-demand
+        - name: Element文档
+          description: ⚠️注意版本
+          url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
+        - name: Element Plus文档
+          url: https://element-plus.gitee.io/zh-CN/component/button.html
+    - name: micro
+      sites:
+        - name: k8s文档
+          url: https://kubernetes.io/zh/docs/reference/
+        - name: kubesphere
+          url: https://kubesphere.io/zh/
+        - name: Artifact Hub
+          url: https://artifacthub.io/packages/search?sort=relevance&page=1
+        - name: Helm
+          url: https://helm.sh/zh/docs/intro/quickstart/
+        - name: 云原生资料库
+          description: k8s/Istio/Envoy教程
+          url: https://lib.jimmysong.io/kubernetes-handbook/
+        - name: Docker文档
+          description: 文档写的特别好，三个部分：docker命令/Dockerfile/docker-compose
+          url: https://docs.docker.com/engine/reference/run/
+        - name: Prometheus文档
+          url: https://prometheus.io/docs/prometheus/latest/getting_started/
+    - name: devops
+      sites:
+        - name: Redis命令/文档
+          description: 主要用来查命令（当然，还有文档）
+          url: https://redis.io/commands/
+        - name: Gitea文档
+          url: https://docs.gitea.io/zh-cn/
+        - name: Ansible文档
+          description: 找了几个中文版文档，版本都很老（将就看英文版吧）
+          url: https://docs.ansible.com/ansible/latest/index.html
+        - name: Ansible Galaxy
+          url: https://galaxy.ansible.com/home 
+        - name: gh-actions集合
+          url: https://github.com/marketplace?type=actions
+        - name: gh-actions官方文档
+          url: https://docs.github.com/cn/actions/quickstart
+        - name: gitlab官方文档
+          url: https://docs.gitlab.com/ee/
     - name: web3
       sites:
         - name: Seed Club
@@ -255,7 +253,7 @@ content:
           url: https://cryptofonts.com/icons.php
         - name: ViaWallet
           url: https://explorer.viawallet.com/btc
-    - name: 日常生活
+    - name: rc
       sites:
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
@@ -278,9 +276,6 @@ content:
         - name: Investment Calculator
           description: 计算投资收益什么的，好用
           url: https://www.calculator.net/investment-calculator.html
-
-    - name: 文档工具
-      sites:
         - name: Koodo Reader
           description: 比neat-reader好用
           url: https://reader.960960.xyz/
@@ -293,8 +288,6 @@ content:
         - name: 在线markdown编辑器
           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
           url: https://md.mzr.me/
-    - name: 在线工具
-      sites:
         - name: 隔离食用手册
           url: https://cook.yunyoujun.cn/
         - name: 白描OCR
@@ -308,7 +301,7 @@ content:
         - name: SPEEDTEST中国科学技术大学测速网站
           description: SPEEDTEST
           url: https://test.ustc.edu.cn/
-    - name: 随便看看
+    - name: cc
       sites:
         - name: 5000yan
           url: https://5000yan.com/fenlei/zhuzi/
@@ -346,7 +339,7 @@ content:
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
-    - name: 娱乐
+    - name: yl
       sites:
         - name: COKEMV
           url: https://cokemv.me/
@@ -359,7 +352,7 @@ content:
           url: https://www.fanbox.cc/
         - name: 中文播客榜
           url: https://xyzrank.com/
-    - name: 购物
+    - name: shop
       sites:
         - name: 黑猫投诉
           url: https://tousu.sina.com.cn/
