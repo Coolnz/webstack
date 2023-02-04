@@ -339,6 +339,8 @@ content:
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
+        - name: 程序员在囧途
+          url: https://www.jtthink.com/
     - name: yl
       sites:
         - name: COKEMV
@@ -352,6 +354,8 @@ content:
           url: https://www.fanbox.cc/
         - name: 中文播客榜
           url: https://xyzrank.com/
+        - name: Qwerty Learner
+          url: https://kaiyiwing.github.io/qwerty-learner/
     - name: shop
       sites:
         - name: 黑猫投诉
