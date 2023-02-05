@@ -360,6 +360,8 @@ content:
           url: https://www.jtthink.com/
         - name: 吾爱破解52pojie
           url: https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=234
+        - name: rsshub文档
+          url: https://docs.rsshub.app/
     - name: yl
       sites:
         - name: COKEMV
