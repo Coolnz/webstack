@@ -27,6 +27,15 @@ content:
   categories:
     - name: cy
       sites:
+        - name: ALIST
+          url: https://alist.wrss.top/
+          icon: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+        - name: MALI
+          url: https://mali.wrss.top/
+          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/assets/yin-yang.png
+        - name: TTRSS
+          url: https://ttrss.wrss.top/
+          icon: https://ttrss.wrss.top/images/favicon.png
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: 阿里云
@@ -293,6 +302,11 @@ content:
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
+        - name: 草料二维码qrcode
+          url: https://cli.im/
+        - name: qrcode-monkey
+          description: 搭配草料使用（主要使用其一些国外服务的logo）
+          url: https://www.qrcode-monkey.com/
         - name: Temp Mail - 临时性匿名邮箱
           url: https://temp-mail.org/zh
         - name: 云短信 - 临时性匿名短信
@@ -301,6 +315,9 @@ content:
         - name: SPEEDTEST中国科学技术大学测速网站
           description: SPEEDTEST
           url: https://test.ustc.edu.cn/
+        - name: docsmall
+          description: gif压缩
+          url: https://docsmall.com/gif-compress
     - name: cc
       sites:
         - name: 5000yan
