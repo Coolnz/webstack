@@ -343,6 +343,12 @@ content:
         - name: docsmall
           description: gif压缩
           url: https://docsmall.com/gif-compress
+        - name: CloudConvert
+          description: 几乎所有文件格式的转换工具
+          url: https://cloudconvert.com/
+        - name: Zamzar - File Conversion progress
+          description: Convert documents, images, videos & sound - 1100+ formats supported
+          url: https://www.zamzar.com/
     - name: cc
       sites:
         - name: 5000yan
