@@ -214,7 +214,7 @@ content:
           url: https://pkg.go.dev/std
         - name: gf文档
           url: https://pkg.go.dev/github.com/gogf/gf/v2
-        - name: go-zero文档
+        - name: gozero文档
           url: https://go-zero.dev/cn/docs/introduction/
         - name: Goland文档
           description: IDE相关问题别再乱查各种帖子了，直接看文档最好
@@ -412,6 +412,8 @@ content:
           url: https://www.producthunt.com/
         - name: 小众软件APPINN
           url: https://meta.appinn.net/tag/macos
+        - name: Go夜读 talkgo 
+          url: https://talkgo.org/
     - name: shop
       sites:
         - name: 黑猫投诉
