@@ -64,9 +64,7 @@ content:
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
           url: https://replit.com/
           icon: https://replit.com/public/icons/favicon-prompt-192.png
-        - name: 在线golang
-          description: 有代码提示，比golang官方的playground好用
-          url: https://goplay.tools/
+
         - name: 在线PHP
           url: https://3v4l.org/
         - name: Colaboratory
@@ -101,8 +99,6 @@ content:
           url: https://paperswithcode.com/
         - name: CodeCov
           url: https://about.codecov.io/
-        - name: Go Report Card
-          url: https://goreportcard.com/
         - name: Coveralls
           url: https://coveralls.io/
         - name: Explainshell
@@ -223,6 +219,11 @@ content:
           url: https://gorm.io/zh_CN/docs/index.html
         - name: casbin文档
           url: https://casbin.org/docs/zh-CN/overview
+        - name: 在线golang
+          description: 有代码提示，比golang官方的playground好用
+          url: https://goplay.tools/
+        - name: Go Report Card
+          url: https://goreportcard.com/
     - name: js
       sites:
         - name: UmiJS文档
