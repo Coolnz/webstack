@@ -168,6 +168,8 @@ content:
         - name: regexlearn
           description: regex游乐场
           url: https://regexlearn.com/zh-cn/learn
+        - name: Diff Checker
+          url: https://www.diffchecker.com/zh-Hans/
     - name: doc
       sites:
         - name: Quick Reference
