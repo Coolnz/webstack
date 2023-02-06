@@ -356,7 +356,7 @@ content:
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
-        - name: 程序员在囧途
+        - name: 程序员在囧途codersway
           url: https://www.jtthink.com/
         - name: 吾爱破解52pojie
           url: https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=234
