@@ -349,6 +349,8 @@ content:
         - name: Zamzar - File Conversion progress
           description: Convert documents, images, videos & sound - 1100+ formats supported
           url: https://www.zamzar.com/
+        - name: iLovePDF
+          url: https://www.ilovepdf.com/
     - name: cc
       sites:
         - name: 5000yan
