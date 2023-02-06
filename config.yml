@@ -64,6 +64,14 @@ content:
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
           url: https://replit.com/
           icon: https://replit.com/public/icons/favicon-prompt-192.png
+        - name: 在线golang
+          description: 有代码提示，比golang官方的playground好用
+          url: https://goplay.tools/
+        - name: 在线PHP
+          url: https://3v4l.org/
+        - name: Colaboratory
+          description: 在线使用的Jupyter notebook环境，机器学习必备
+          url: https://colab.research.google.com/
         - name: Compiler Explorer
           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
           url: https://godbolt.org/
