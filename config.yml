@@ -145,6 +145,21 @@ content:
         - name: DNSdumpster
           description: 查看某个域名下的所有二级域名
           url: https://dnsdumpster.com/
+        - name: regex101
+          description: 正则在线调试网站，非常好用
+          url: https://regex101.com/
+        - name: 正则大全regex-any-rule
+          description: 收录了常用业务的正则
+          url: https://any86.github.io/any-rule/
+        - name: iHateRegex
+          description: 收录了更多的常用正则
+          url: https://ihateregex.io/
+        - name: 图解正则regex-vis
+          description: 比Regexper好用
+          url: https://regex-vis.com/
+        - name: regexlearn
+          description: regex游乐场
+          url: https://regexlearn.com/zh-cn/learn
     - name: doc
       sites:
         - name: Quick Reference
