@@ -243,25 +243,25 @@ content:
           url: https://docs.github.com/cn/actions/quickstart
         - name: gitlab官方文档
           url: https://docs.gitlab.com/ee/
-    - name: web3
-      sites:
-        - name: Seed Club
-          url: https://www.seedclub.xyz/
-        - name: Mirror
-          url: https://mirror.xyz/
-        - name: UNISWAP
-          url: https://uniswap.org/
-        - name: FWB
-          url: https://www.fwb.help/
-        - name: Bankless DAO
-          url: https://www.bankless.community/
-        - name: DAOrayaki
-          url: https://media.daorayaki.org/
-        - name: cryptofonts
-          description: 加密货币的icon
-          url: https://cryptofonts.com/icons.php
-        - name: ViaWallet
-          url: https://explorer.viawallet.com/btc
+#     - name: web3
+#       sites:
+#         - name: Seed Club
+#           url: https://www.seedclub.xyz/
+#         - name: Mirror
+#           url: https://mirror.xyz/
+#         - name: UNISWAP
+#           url: https://uniswap.org/
+#         - name: FWB
+#           url: https://www.fwb.help/
+#         - name: Bankless DAO
+#           url: https://www.bankless.community/
+#         - name: DAOrayaki
+#           url: https://media.daorayaki.org/
+#         - name: cryptofonts
+#           description: 加密货币的icon
+#           url: https://cryptofonts.com/icons.php
+#         - name: ViaWallet
+#           url: https://explorer.viawallet.com/btc
     - name: rc
       sites:
         - name: 油猴脚本Greasy Fork
@@ -375,6 +375,8 @@ content:
           url: https://xyzrank.com/
         - name: Qwerty Learner
           url: https://kaiyiwing.github.io/qwerty-learner/
+        - name: Product Hunt
+          url: https://www.producthunt.com/
     - name: shop
       sites:
         - name: 黑猫投诉
