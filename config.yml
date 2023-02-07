@@ -29,10 +29,10 @@ content:
       sites:
         - name: ALIST
           url: https://alist.wrss.top/
-          icon: https://cdn.jsdelivr.net/gh/alist-org/logo@main/logo.svg
+          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/mali/uploads/alist.png
         - name: MALI
           url: https://mali.wrss.top/
-          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/assets/yin-yang.png
+          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/mali/uploads/yin-yang.jpeg
         - name: TTRSS
           url: https://ttrss.wrss.top/
           icon: https://ttrss.wrss.top/images/favicon.png
