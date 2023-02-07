@@ -64,7 +64,6 @@ content:
           description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
           url: https://replit.com/
           icon: https://replit.com/public/icons/favicon-prompt-192.png
-
         - name: 在线PHP
           url: https://3v4l.org/
         - name: Colaboratory
@@ -204,8 +203,6 @@ content:
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
           icon: https://static.http.linkudp.com/static/index/src/img/favicon.png
-    - name: golang
-      sites:
         - name: golang标准库
           url: https://pkg.go.dev/std
         - name: gf文档
@@ -224,8 +221,6 @@ content:
           url: https://goplay.tools/
         - name: Go Report Card
           url: https://goreportcard.com/
-    - name: js
-      sites:
         - name: UmiJS文档
           url: https://umijs.org/zh-CN/docs/load-on-demand
         - name: Element文档
@@ -233,8 +228,6 @@ content:
           url: https://element.faas.ele.me/2.14/#/zh-CN/component/layout
         - name: Element Plus文档
           url: https://element-plus.gitee.io/zh-CN/component/button.html
-    - name: k8s
-      sites:
         - name: k8s文档
           url: https://kubernetes.io/zh/docs/reference/
         - name: kubesphere
@@ -251,8 +244,6 @@ content:
           url: https://docs.docker.com/engine/reference/run/
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
-    - name: devops
-      sites:
         - name: Redis命令/文档
           description: 主要用来查命令（当然，还有文档）
           url: https://redis.io/commands/
