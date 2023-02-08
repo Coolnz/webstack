@@ -36,6 +36,8 @@ content:
         - name: TTRSS
           url: https://ttrss.wrss.top/
           icon: https://ttrss.wrss.top/images/favicon.png
+        - name: ws
+          url: https://ws.wrss.top/
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: 阿里云
@@ -343,6 +345,8 @@ content:
           url: https://www.zamzar.com/
         - name: iLovePDF
           url: https://www.ilovepdf.com/
+        - name: iplc
+          url: https://iplc.vip
     - name: cc
       sites:
         - name: 5000yan
