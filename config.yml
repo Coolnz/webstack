@@ -413,6 +413,8 @@ content:
           url: https://meta.appinn.net/tag/macos
         - name: Go夜读 talkgo 
           url: https://talkgo.org/
+        - name: Supjav
+          url: https://supjav.com/
     - name: shop
       sites:
         - name: 黑猫投诉

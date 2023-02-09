@@ -1,0 +1,15 @@
+on:
+  push:
+    branches:
+      - gh-pages
+    paths:
+      - 'config.yml'
+name: Link Checker
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check links
+        uses: filiph/linkcheck@latest
+        with:
+          arguments:
