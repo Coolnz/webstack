@@ -41,6 +41,7 @@ content:
           icon: https://webstack.cc/assets/images/favicon.png
         - name: 滴答清单ticktick
           url: https://dida365.com/webapp/#q/all/today/
+          icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/mali/uploads/2023-02-10/ticktick.ico
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: 阿里云
@@ -100,40 +101,45 @@ content:
           url: http://httpbin.org/
         - name: Crontab.guru
           url: https://crontab.guru/
-        - name: paperswithcode
-          description: 论文+代码（ML相关）
-          url: https://paperswithcode.com/
         - name: CodeCov
           url: https://about.codecov.io/
         - name: Coveralls
           url: https://coveralls.io/
         - name: Explainshell
           url: https://explainshell.com/
-    - name: gh
-      sites:
-        - name: deps.dev
-          description: 用来查看开源项目的依赖是否有漏洞
-          url: https://deps.dev/
-        - name: Github OSS Insight
-          description: 查看gh某个repo的star（`starchart.cc`）/PR/issue等等数据，以及比较repo（类似`Github Compare`）
-          url: https://ossinsight.io/
-        - name: OSSRank
-          url: https://ossrank.com/
-        - name: Github active-forks
-          description: 查找repo最活跃的fork
-          url: https://techgaun.github.io/active-forks/index.html
-        - name: Useful Forks
-          description: 一款分析repo forks的工具，它会自动过滤掉没有新的提交的forks，只留下有用的forks
-          url: https://useful-forks.github.io/
-        - name: readme.so
-          description: 辅助写README的工具，还不错
-          url: https://readme.so/editor
-          icon: https://readme.so/favicon.ico
-        - name: OpenSource Builders
-          description: 一些服务的开源替代品，还不错
-          url: https://opensource.builders/
-    - name: web
-      sites:
+        - name: TOML-to-Go
+          url: https://xuri.me/toml-to-go/
+          description: Convert TOML to Go instantly
+        - name: YAML-to-Go
+          url: https://zhwt.github.io/yaml-to-go/
+          description: Convert YAML to Go struct
+        - name: golang在线工具
+          url: https://www.printlove.cn/tools/yaml2go
+          description: json转go结构体，yaml转go结构体，XML转json，sql转gozero/GORM/ES/entgo/MongoDB
+        - name: golang在线工具集
+          url: http://www.gotool.top/handlesql/sql2proto
+          description: sql处理、json处理
+        - name: curl-to-Go
+          url: https://mholt.github.io/curl-to-go/
+          description: 把curl语句直接转成golang请求该api的方法
+        - name: sql2dsl
+          url: http://sql2dsl.atotoa.com/
+          description: sql转struct和sql转ES
+        - name: soJSON
+          url: https://www.sojson.com/jshtml.html
+          description: js/css 格式化/压缩/解压缩/美化
+        - name: veryToolZ
+          url: https://verytoolz.com/yaml-parser.html
+          description: 处理json、yaml、XML等等数据
+        - name: Online YAML Tools
+          url: https://onlineyamltools.com/
+          description: Simple, free and easy to use YAML utilities
+        - name: Online JSON Tools
+          url: https://onlinejsontools.com/
+          description: Simple, free and easy to use JSON utilities
+        - name: Transform
+          url: https://transform.tools/
+          description: JSON、yaml、toml之类的数据转换
         - name: Web-Vitals
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
           url: https://www.experte.com/web-vitals
@@ -172,6 +178,29 @@ content:
           url: https://regexlearn.com/zh-cn/learn
         - name: Diff Checker
           url: https://www.diffchecker.com/zh-Hans/
+    - name: gh
+      sites:
+        - name: deps.dev
+          description: 用来查看开源项目的依赖是否有漏洞
+          url: https://deps.dev/
+        - name: Github OSS Insight
+          description: 查看gh某个repo的star（`starchart.cc`）/PR/issue等等数据，以及比较repo（类似`Github Compare`）
+          url: https://ossinsight.io/
+        - name: OSSRank
+          url: https://ossrank.com/
+        - name: Github active-forks
+          description: 查找repo最活跃的fork
+          url: https://techgaun.github.io/active-forks/index.html
+        - name: Useful Forks
+          description: 一款分析repo forks的工具，它会自动过滤掉没有新的提交的forks，只留下有用的forks
+          url: https://useful-forks.github.io/
+        - name: readme.so
+          description: 辅助写README的工具，还不错
+          url: https://readme.so/editor
+          icon: https://readme.so/favicon.ico
+        - name: OpenSource Builders
+          description: 一些服务的开源替代品，还不错
+          url: https://opensource.builders/
     - name: doc
       sites:
         - name: Quick Reference
@@ -209,7 +238,6 @@ content:
         - name: 芝麻HTTP
           descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
           url: https://h.zhimaruanjian.com/
-          icon: https://static.http.linkudp.com/static/index/src/img/favicon.png
         - name: golang标准库
           url: https://pkg.go.dev/std
         - name: gf文档
@@ -419,6 +447,9 @@ content:
           url: https://supjav.com/
         - name: The JetBrains Blog
           url: https://blog.jetbrains.com/zh-hans/
+        - name: paperswithcode
+          description: 论文+代码（ML相关）
+          url: https://paperswithcode.com/
     - name: shop
       sites:
         - name: 黑猫投诉
