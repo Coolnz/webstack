@@ -417,6 +417,8 @@ content:
           url: https://talkgo.org/
         - name: Supjav
           url: https://supjav.com/
+        - name: The JetBrains Blog
+          url: https://blog.jetbrains.com/zh-hans/
     - name: shop
       sites:
         - name: 黑猫投诉
