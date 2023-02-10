@@ -39,6 +39,8 @@ content:
         - name: ws
           url: https://ws.wrss.top/
           icon: https://webstack.cc/assets/images/favicon.png
+        - name: 滴答清单ticktick
+          url: https://dida365.com/webapp/#q/all/today/
         - name: 阿里云盘
           url: https://www.aliyundrive.com/drive
         - name: 阿里云
