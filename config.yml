@@ -201,6 +201,9 @@ content:
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
+        - name: synk Advisor
+          description: 查找类似功能的repo
+          url: https://snyk.io/advisor/golang
     - name: doc
       sites:
         - name: Quick Reference
