@@ -178,6 +178,8 @@ content:
           url: https://regexlearn.com/zh-cn/learn
         - name: Diff Checker
           url: https://www.diffchecker.com/zh-Hans/
+        - name: AICodeHelper - AI编程助手
+          url: https://aicodehelper.com/
     - name: gh
       sites:
         - name: deps.dev
@@ -453,8 +455,6 @@ content:
         - name: paperswithcode
           description: 论文+代码（ML相关）
           url: https://paperswithcode.com/
-    - name: shop
-      sites:
         - name: 黑猫投诉
           url: https://tousu.sina.com.cn/
         - name: ProductZ
@@ -473,6 +473,13 @@ content:
           url: https://arcteryx.com/ca/zh/c/mens
         - name: 始祖鸟leaf
           url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
+        - name: gofun
+          url: https://1005281342.gitbook.io/gofun/go-xie-cheng/goroutine
+        - name: Go 语言设计与实现
+          url: https://draveness.me/golang/
+        - name: K8S训练营
+          url: https://www.qikqiak.com/k8strain/
+
 
 
 
