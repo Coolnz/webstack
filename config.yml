@@ -479,6 +479,10 @@ content:
           url: https://draveness.me/golang/
         - name: K8S训练营
           url: https://www.qikqiak.com/k8strain/
+        - name: Linux kernel脉络和主干总结
+          url: https://www.kancloud.cn/zhangyi8928/kernel/531187
+        - name: go-interview
+          url: https://www.yuque.com/go-interview/set/qhe51m
 
 
 
