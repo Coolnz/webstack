@@ -414,6 +414,9 @@ content:
         - name: xclient
           description: mac的破解软件
           url: https://xclient.info/
+        - name: MacMenuBar
+          description: 用来筛选出非常好用的menubar软件，可以作为长期以来汰换软件的数据源，比直接google要好得多
+          url: https://macmenubar.com/
         - name: Packal
           url: http://www.packal.org/
         - name: Alfred workflows
