@@ -74,7 +74,7 @@ content:
         - name: 在线PHP IDE
           url: https://3v4l.org/
         - name: 在线JS IDE
-          url： https://playcode.io/
+          url: https://playcode.io/
         - name: Colaboratory
           description: 在线使用的Jupyter notebook环境，机器学习必备
           url: https://colab.research.google.com/
