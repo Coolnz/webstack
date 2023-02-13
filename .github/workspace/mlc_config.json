@@ -1,6 +1,11 @@
 {
   "ignorePatterns": [
-
+    {
+      "pattern": "https://goplay.tools/"
+    },
+    {
+      "pattern": "https://xuri.me/toml-to-go/"
+    }
   ],
   "replacementPatterns": [
     {
