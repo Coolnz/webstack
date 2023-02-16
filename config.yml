@@ -67,21 +67,18 @@ content:
           url: https://excalidraw.com/
     - name: tools
       sites:
-        - name: Repl.it
-          description: 在线使用的通用IDE，支持所有主流语言（完美替代其他在线IDE），集合了goplay.tools、3v4l.org、Colab好用
-          url: https://replit.com/
-          icon: https://replit.com/public/icons/favicon-prompt-192.png
-        - name: 在线PHP IDE
-          url: https://3v4l.org/
+        - name: Programiz 通用IDE
+          description: 通用IDE，相比于Repl.it响应更快，使用更方便（当然功能上不如Repl强大，没有代码提示什么的）
+          url: https://www.programiz.com/golang/online-compiler/
         - name: 在线JS IDE
           url: https://playcode.io/
-        - name: Colaboratory
+        - name: Colaboratory IDE
           description: 在线使用的Jupyter notebook环境，机器学习必备
           url: https://colab.research.google.com/
-        - name: Compiler Explorer
+        - name: Compiler Explorer IDE
           description: 在线C++编译器能够查看c++/rust/golang编译过程的在线编译器
           url: https://godbolt.org/
-        - name: AST explorer
+        - name: AST explorer IDE
           description: 一款用于探索各种代码解析器生成的抽象语法树 (Abstract Syntax Tree, AST) 的在线工具
           url: https://astexplorer.net/
         - name: Staticfile CDN
