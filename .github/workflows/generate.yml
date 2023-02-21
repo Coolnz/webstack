@@ -38,5 +38,5 @@ jobs:
 
 # Canceling since a higher priority waiting request for 'pages build and deployment @ gh-pages' exists
 concurrency:
-  group: "gh-pages"
-  cancel-in-progress: false
+  group: ${{ github.ref }}
+  cancel-in-progress: true
