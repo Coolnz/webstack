@@ -5,6 +5,9 @@
     },
     {
       "pattern": "https://xuri.me/toml-to-go/"
+    },
+    {
+      "pattern": "^https://www.programiz.com/*"
     }
   ],
   "replacementPatterns": [
