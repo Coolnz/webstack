@@ -294,6 +294,10 @@ content:
           url: https://docs.github.com/cn/actions/quickstart
         - name: gitlab官方文档
           url: https://docs.gitlab.com/ee/
+        - name: ElasticSearch文档（ES）
+          url: https://www.elastic.co/guide/en/elasticsearch/reference/master/release-highlights.html
+        - name: gh文档
+          url: https://docs.github.com/zh
 #     - name: web3
 #       sites:
 #         - name: Seed Club
