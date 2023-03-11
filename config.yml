@@ -283,6 +283,8 @@ content:
           url: https://www.elastic.co/guide/en/elasticsearch/reference/master/release-highlights.html
         - name: gh文档
           url: https://docs.github.com/zh
+        - name: MongoDB文档
+          url: https://docs.mongoing.com/
 #     - name: web3
 #       sites:
 #         - name: Seed Club
@@ -368,6 +370,9 @@ content:
           url: https://www.ilovepdf.com/
         - name: iplc
           url: https://iplc.vip
+        - name: 白板工具OneModel
+          description: 适合用来画架构图
+          url: https://www.onemodel.app/
     - name: cc
       sites:
         - name: 5000yan
@@ -465,6 +470,8 @@ content:
           url: https://www.yuque.com/go-interview/set/qhe51m
         - name: BlackGlory
           url: https://blackglory.me/
+        - name: CloudWeGo字节博客
+          url: https://www.cloudwego.io/zh/blog/
 
 
 
