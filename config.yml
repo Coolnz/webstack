@@ -61,8 +61,6 @@ content:
         - name: Programiz 通用IDE
           description: 通用IDE，相比于Repl.it响应更快，使用更方便（当然功能上不如Repl强大，没有代码提示什么的）
           url: https://www.programiz.com/golang/online-compiler/
-        - name: 在线JS IDE
-          url: https://playcode.io/
         - name: Colaboratory IDE
           description: 在线使用的Jupyter notebook环境，机器学习必备
           url: https://colab.research.google.com/
@@ -236,9 +234,6 @@ content:
           url: https://gorm.io/zh_CN/docs/index.html
         - name: casbin文档
           url: https://casbin.org/zh/docs/overview
-        - name: 在线golang IDE
-          description: 有代码提示和高亮，比golang官方的playground好用
-          url: https://goplay.tools/
         - name: Go Report Card
           url: https://goreportcard.com/
         - name: UmiJS文档
