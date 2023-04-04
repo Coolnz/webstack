@@ -201,6 +201,8 @@ content:
           url: https://leetcode-cn.com/
         - name: CodeTop企业题库
           url: https://codetop.cc/home
+        - name: LintCode炼码
+          url: https://www.lintcode.com/problem/
         - name: apifox
           description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
           url: https://www.apifox.cn/apihub/
