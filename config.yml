@@ -75,9 +75,6 @@ content:
         - name: Staticfile CDN
           description: 收录知名开源js、css等静态资源的网站
           url: https://www.staticfile.org/
-        - name: Program Creek
-          description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
-          url: https://www.programcreek.com/
         - name: 阿里云镜像源
           url: https://developer.aliyun.com/mirror/
           icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/images/ops/aliyun.jpg
@@ -184,8 +181,6 @@ content:
       sites:
         - name: Quick Reference
           url: https://quickref.pipecraft.net/
-        - name: AWESOME-LIST
-          url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
         - name: alpine-packages
           url: https://pkgs.alpinelinux.org/packages
         - name: pre-commit的hooks和文档
@@ -416,6 +411,8 @@ content:
           url: https://codetop.cc/home
         - name: LintCode炼码
           url: https://www.lintcode.com/problem/
+        - name: Awesome List
+          url: https://asmen.icopy.site/awesome/awesome-linux/
 
 
 

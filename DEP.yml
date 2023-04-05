@@ -76,3 +76,12 @@
           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
           url: https://www.experte.com/web-vitals
           icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
+
+
+        - name: AWESOME-LIST # 机翻真不太行，直接用英文原网站了
+          url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
+
+
+        - name: Program Creek
+          description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
+          url: https://www.programcreek.com/
