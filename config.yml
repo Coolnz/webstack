@@ -89,8 +89,6 @@ content:
         - name: httpbin
           description: 用来通过查看url请求是否符合预期，来看代码是否有问题，或者当前网络环境（比如容器内）是否有问题
           url: http://httpbin.org/
-        - name: Crontab.guru
-          url: https://crontab.guru/
         - name: CodeCov
           url: https://about.codecov.io/
         - name: Coveralls
@@ -127,10 +125,6 @@ content:
         - name: Transform
           url: https://transform.tools/
           description: JSON、yaml、toml之类的数据转换
-        - name: Web-Vitals
-          description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
-          url: https://www.experte.com/web-vitals
-          icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
         - name: resource-hint-validator
           description: 一款检查preload, prefetch, preconnect等Resource Hints使用是否恰当的工具
           url: https://www.debugbear.com/resource-hint-validator
@@ -284,25 +278,7 @@ content:
           url: https://docs.github.com/zh
         - name: MongoDB文档
           url: https://docs.mongoing.com/
-#     - name: web3
-#       sites:
-#         - name: Seed Club
-#           url: https://www.seedclub.xyz/
-#         - name: Mirror
-#           url: https://mirror.xyz/
-#         - name: UNISWAP
-#           url: https://uniswap.org/
-#         - name: FWB
-#           url: https://www.fwb.help/
-#         - name: Bankless DAO
-#           url: https://www.bankless.community/
-#         - name: DAOrayaki
-#           url: https://media.daorayaki.org/
-#         - name: cryptofonts
-#           description: 加密货币的icon
-#           url: https://cryptofonts.com
-#         - name: ViaWallet
-#           url: https://explorer.viawallet.com/btc
+
     - name: rc
       sites:
         - name: 油猴脚本Greasy Fork
@@ -338,8 +314,6 @@ content:
         - name: 在线markdown编辑器
           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
           url: https://md.mzr.me/
-        - name: 隔离食用手册
-          url: https://cook.yunyoujun.cn/
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
@@ -376,16 +350,14 @@ content:
       sites:
         - name: 5000yan
           url: https://5000yan.com/fenlei/zhuzi/
-          description: 老子、韩非子、荀子（以及庄子孟子论语墨子孙子）
+          description: 老子、荀子、韩非子（以及庄子孟子论语墨子孙子）
         - name: 中国裁判文书网
-          description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看（文字版1818）。
+          description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看
           url: https://wenshu.court.gov.cn/
         - name: IT桔子
-          url: https://www.itjuzi.com/deathCompany
+          url: https://www.itjuzi.com
         - name: Wiki How
           url: https://zh.wikihow.com/%E9%A6%96%E9%A1%B5
-        - name: 硬创社
-          url: https://x.jlc.com/platform/community
         - name: 烯牛数据
           description: 免费的投创数据平台，其他类似的都要收费
           url: https://www.xiniudata.com/
@@ -398,44 +370,19 @@ content:
           url: https://www.joinquant.com/
         - name: 七麦数据
           url: https://www.qimai.cn/
-        - name: xclient
-          description: mac的破解软件
-          url: https://xclient.info/
-        - name: MacMenuBar
-          description: 用来筛选出非常好用的menubar软件，可以作为长期以来汰换软件的数据源，比直接google要好得多
-          url: https://macmenubar.com/
-        - name: Packal
-          url: http://www.packal.org/
-        - name: Alfred workflows
-          url: https://www.alfredapp.com/workflows/
-        - name: Alfred Forum
-          url: https://www.alfredforum.com/
         - name: 国标/行标
           description: 查看全文，自带搜索功能，输入关键字或者国标编号即可
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
         - name: 程序员在囧途codersway
           url: https://www.jtthink.com/
-        - name: 吾爱破解52pojie
-          url: https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=234
         - name: rsshub文档
           url: https://docs.rsshub.app/
         - name: COKEMV
           url: https://cokemv.me/
-        - name: vim游戏（VIM Adventures）
-          description: Learn VIM while playing a game
-          url: https://vim-adventures.com/
         - name: tg
           url: https://web.telegram.im/
-        - name: pixivFANBOX
-          url: https://www.fanbox.cc/
-        - name: 中文播客榜
-          url: https://xyzrank.com/
         - name: Qwerty Learner
           url: https://kaiyiwing.github.io/qwerty-learner/
-        - name: Product Hunt
-          url: https://www.producthunt.com/
-        - name: 小众软件APPINN
-          url: https://meta.appinn.net/tag/macos
         - name: Go夜读 talkgo 
           url: https://talkgo.org/
         - name: Supjav
@@ -447,8 +394,6 @@ content:
           url: https://paperswithcode.com/
         - name: 黑猫投诉
           url: https://tousu.sina.com.cn/
-        - name: ProductZ
-          url: https://productz.com/en
         - name: REI
           url: https://www.rei.com/
         - name: PACK HACKER

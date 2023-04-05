@@ -1,0 +1,78 @@
+#     - name: web3
+#       sites:
+#         - name: Seed Club
+#           url: https://www.seedclub.xyz/
+#         - name: Mirror
+#           url: https://mirror.xyz/
+#         - name: UNISWAP
+#           url: https://uniswap.org/
+#         - name: FWB
+#           url: https://www.fwb.help/
+#         - name: Bankless DAO
+#           url: https://www.bankless.community/
+#         - name: DAOrayaki
+#           url: https://media.daorayaki.org/
+#         - name: cryptofonts
+#           description: 加密货币的icon
+#           url: https://cryptofonts.com
+#         - name: ViaWallet
+#           url: https://explorer.viawallet.com/btc
+
+
+
+        - name: xclient
+          description: mac的破解软件
+          url: https://xclient.info/
+
+        - name: pixivFANBOX
+          url: https://www.fanbox.cc/
+
+        - name: vim游戏（VIM Adventures）
+          description: Learn VIM while playing a game
+          url: https://vim-adventures.com/
+
+        - name: MacMenuBar
+          description: 用来筛选出非常好用的menubar软件，可以作为长期以来汰换软件的数据源，比直接google要好得多
+          url: https://macmenubar.com/
+
+        - name: 小众软件APPINN
+          url: https://meta.appinn.net/tag/macos
+        - name: Product Hunt
+          url: https://www.producthunt.com/
+        - name: 吾爱破解52pojie
+          url: https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=234
+
+
+
+        - name: 中文播客榜
+          url: https://xyzrank.com/
+
+        - name: Packal
+          url: http://www.packal.org/
+        - name: Alfred workflows
+          url: https://www.alfredapp.com/workflows/
+        - name: Alfred Forum
+          url: https://www.alfredforum.com/
+
+        - name: ProductZ
+          url: https://productz.com/en
+
+
+
+        - name: 硬创社
+          url: https://x.jlc.com/platform/community
+
+
+
+
+        - name: 隔离食用手册
+          url: https://cook.yunyoujun.cn/
+
+
+
+        - name: Crontab.guru # 用ChatGPT代替了
+          url: https://crontab.guru/
+        - name: Web-Vitals
+          description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
+          url: https://www.experte.com/web-vitals
+          icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
