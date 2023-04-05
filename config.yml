@@ -191,12 +191,6 @@ content:
         - name: pre-commit的hooks和文档
           description: 提供的所有hooks，也可以看看文档
           url: https://pre-commit.com/hooks.html
-        - name: LeetCode
-          url: https://leetcode-cn.com/
-        - name: CodeTop企业题库
-          url: https://codetop.cc/home
-        - name: LintCode炼码
-          url: https://www.lintcode.com/problem/
         - name: apifox
           description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
           url: https://www.apifox.cn/apihub/
@@ -416,7 +410,12 @@ content:
           url: https://blackglory.me/
         - name: CloudWeGo字节博客
           url: https://www.cloudwego.io/zh/blog/
-
+        - name: LeetCode
+          url: https://leetcode-cn.com/
+        - name: CodeTop企业题库
+          url: https://codetop.cc/home
+        - name: LintCode炼码
+          url: https://www.lintcode.com/problem/
 
 
 
