@@ -390,6 +390,14 @@ content:
           url: https://codetop.cc/home
         - name: LintCode炼码
           url: https://www.lintcode.com/problem/
+        - name: LeetCode Cookbook
+          url: https://books.halfrost.com/leetcode/
+        - name: 算法珠玑 algo
+          url: https://algorithm-essentials.soulmachine.me/
+        - name: labuladong 的算法小抄 algo
+          url: https://labuladong.github.io/algo/
+        - name: algorithm-pattern
+          url: https://greyireland.gitbook.io/algorithm-pattern/
         - name: Awesome List
           url: https://asmen.icopy.site/awesome/awesome-linux/
 
