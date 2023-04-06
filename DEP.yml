@@ -85,3 +85,32 @@
         - name: Program Creek
           description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
           url: https://www.programcreek.com/
+
+        - name: 始祖鸟
+          url: https://arcteryx.com/ca/zh/c/mens
+        - name: 始祖鸟leaf
+          url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
+
+        - name: REI
+          url: https://www.rei.com/
+
+        - name: paperswithcode
+          description: 论文+代码（ML相关）
+          url: https://paperswithcode.com/
+
+        - name: The JetBrains Blog
+          url: https://blog.jetbrains.com/zh-hans/
+
+
+        - name: WidgetStore/组件世界
+          description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
+          url: https://cn.widgetstore.net/#/home
+
+
+        - name: 写作猫
+          url: https://xiezuocat.com/#/
+
+
+        - name: 在线markdown编辑器
+          description: 比StackEdit好用很多，用来辅助处理一些md格式问题
+          url: https://md.mzr.me/

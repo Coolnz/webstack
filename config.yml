@@ -272,9 +272,6 @@ content:
       sites:
         - name: 油猴脚本Greasy Fork
           url: https://greasyfork.org/zh-CN
-        - name: WidgetStore/组件世界
-          description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
-          url: https://cn.widgetstore.net/#/home
         - name: Table Convert
           url: https://tableconvert.com/
           icon: https://tableconvert.com/images/favicon.png
@@ -294,15 +291,10 @@ content:
         - name: Koodo Reader
           description: 比neat-reader好用
           url: https://reader.960960.xyz/
-        - name: 写作猫
-          url: https://xiezuocat.com/#/
         - name: 冷熊简历
           description: 木及简历
           url: https://cv.ftqq.com/#
           icon: https://fox.ftqq.com/bearcv/favicon.png
-        - name: 在线markdown编辑器
-          description: 比StackEdit好用很多，用来辅助处理一些md格式问题
-          url: https://md.mzr.me/
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
@@ -330,7 +322,7 @@ content:
           url: https://www.zamzar.com/
         - name: iLovePDF
           url: https://www.ilovepdf.com/
-        - name: iplc
+        - name: IPLC
           url: https://iplc.vip
         - name: 白板工具OneModel
           description: 适合用来画架构图
@@ -352,10 +344,8 @@ content:
           url: https://www.xiniudata.com/
           icon: https://www.xiniudata.com/static/image/icons/xiniu-icon-apple-touch.png
         - name: Kaggle
-          description: 数据挖掘的比赛网站
           url: https://www.kaggle.com/
         - name: JoinQuant聚宽量化交易平台
-          description: 相当于国内的Kaggle，没事下载几个策略跑跑
           url: https://www.joinquant.com/
         - name: 七麦数据
           url: https://www.qimai.cn/
@@ -364,33 +354,22 @@ content:
           url: http://openstd.samr.gov.cn/bzgk/gb/std_list
         - name: 程序员在囧途codersway
           url: https://www.jtthink.com/
-        - name: rsshub文档
-          url: https://docs.rsshub.app/
+        - name: RSSHub文档
+          url: https://docs.rsshub.app/social-media.html#bilibili
         - name: COKEMV
           url: https://cokemv.me/
         - name: tg
           url: https://web.telegram.im/
         - name: Qwerty Learner
           url: https://kaiyiwing.github.io/qwerty-learner/
-        - name: Go夜读 talkgo 
+        - name: Go夜读 TalkGo 
           url: https://talkgo.org/
         - name: Supjav
           url: https://supjav.com/
-        - name: The JetBrains Blog
-          url: https://blog.jetbrains.com/zh-hans/
-        - name: paperswithcode
-          description: 论文+代码（ML相关）
-          url: https://paperswithcode.com/
         - name: 黑猫投诉
           url: https://tousu.sina.com.cn/
-        - name: REI
-          url: https://www.rei.com/
         - name: PACK HACKER
           url: https://packhacker.com/
-        - name: 始祖鸟
-          url: https://arcteryx.com/ca/zh/c/mens
-        - name: 始祖鸟leaf
-          url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
         - name: gofun
           url: https://1005281342.gitbook.io/gofun/go-xie-cheng/goroutine
         - name: Go 语言设计与实现
