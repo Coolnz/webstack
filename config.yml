@@ -359,6 +359,7 @@ content:
           url: https://www.jtthink.com/
         - name: RSSHub文档
           url: https://docs.rsshub.app/social-media.html#bilibili
+          icon: https://docs.rsshub.app/logo.png
         - name: COKEMV
           url: https://cokemv.me/
         - name: tg
