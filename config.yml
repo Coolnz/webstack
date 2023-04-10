@@ -49,6 +49,8 @@ content:
           url: https://music.youtube.com/library/albums
         - name: Google翻译
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
+        - name: Google Drive
+          url: https://drive.google.com/drive/my-drive
         - name: 微软邮箱Outlook
           url: https://outlook.live.com/
         - name: Notion
