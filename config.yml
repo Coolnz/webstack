@@ -150,8 +150,8 @@ content:
           url: https://regex-vis.com/
         - name: Diff Checker
           url: https://www.diffchecker.com/zh-Hans/
-        - name: AICodeHelper - AI编程助手
-          url: https://aicodehelper.com/
+#         - name: AICodeHelper - AI编程助手
+#           url: https://aicodehelper.com/
         - name: Docker Hub
           url: https://hub.docker.com/
     - name: gh
@@ -164,12 +164,12 @@ content:
           url: https://ossinsight.io/
         - name: OSSRank
           url: https://ossrank.com/
-        - name: Github active-forks
-          description: 查找repo最活跃的fork
-          url: https://techgaun.github.io/active-forks/index.html
-        - name: Useful Forks
-          description: 一款分析repo forks的工具，它会自动过滤掉没有新的提交的forks，只留下有用的forks
-          url: https://useful-forks.github.io/
+#         - name: Github active-forks
+#           description: 查找repo最活跃的fork
+#           url: https://techgaun.github.io/active-forks/index.html
+#         - name: Useful Forks
+#           description: 一款分析repo forks的工具，它会自动过滤掉没有新的提交的forks，只留下有用的forks
+#           url: https://useful-forks.github.io/
         - name: readme.so
           description: 辅助写README的工具，还不错
           url: https://readme.so/editor
@@ -177,9 +177,9 @@ content:
         - name: OpenSource Builders
           description: 一些服务的开源替代品，还不错
           url: https://opensource.builders/
-        - name: synk Advisor
-          description: 查找类似功能的repo
-          url: https://snyk.io/advisor/golang
+#         - name: synk Advisor
+#           description: 查找类似功能的repo
+#           url: https://snyk.io/advisor/golang
     - name: doc
       sites:
         - name: Quick Reference
