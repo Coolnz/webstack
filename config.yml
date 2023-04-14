@@ -150,38 +150,10 @@ content:
           url: https://regex-vis.com/
         - name: Diff Checker
           url: https://www.diffchecker.com/zh-Hans/
-#         - name: AICodeHelper - AI编程助手
-#           url: https://aicodehelper.com/
         - name: Docker Hub
           url: https://hub.docker.com/search?q=
         - name: Docker文档
           url: https://docs.docker.com/reference/
-    - name: gh
-      sites:
-        - name: deps.dev
-          description: 用来查看开源项目的依赖是否有漏洞
-          url: https://deps.dev/
-        - name: Github OSS Insight
-          description: 查看gh某个repo的star（`starchart.cc`）/PR/issue等等数据，以及比较repo（类似`Github Compare`）
-          url: https://ossinsight.io/
-        - name: OSSRank
-          url: https://ossrank.com/
-#         - name: Github active-forks
-#           description: 查找repo最活跃的fork
-#           url: https://techgaun.github.io/active-forks/index.html
-#         - name: Useful Forks
-#           description: 一款分析repo forks的工具，它会自动过滤掉没有新的提交的forks，只留下有用的forks
-#           url: https://useful-forks.github.io/
-        - name: readme.so
-          description: 辅助写README的工具，还不错
-          url: https://readme.so/editor
-          icon: https://readme.so/favicon.ico
-        - name: OpenSource Builders
-          description: 一些服务的开源替代品，还不错
-          url: https://opensource.builders/
-#         - name: synk Advisor
-#           description: 查找类似功能的repo
-#           url: https://snyk.io/advisor/golang
     - name: doc
       sites:
         - name: Quick Reference
@@ -298,6 +270,10 @@ content:
           description: 木及简历
           url: https://cv.ftqq.com/#
           icon: https://fox.ftqq.com/bearcv/favicon.png
+        - name: readme.so
+          description: 辅助写README的工具，还不错
+          url: https://readme.so/editor
+          icon: https://readme.so/favicon.ico
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
@@ -332,12 +308,6 @@ content:
           url: https://www.onemodel.app/
     - name: cc
       sites:
-        - name: 5000yan
-          url: https://5000yan.com/fenlei/zhuzi/
-          description: 老子、荀子、韩非子（以及庄子孟子论语墨子孙子）
-        - name: 中国裁判文书网
-          description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看
-          url: https://wenshu.court.gov.cn/
         - name: IT桔子
           url: https://www.itjuzi.com
         - name: Wiki How
@@ -406,7 +376,19 @@ content:
           url: https://greyireland.gitbook.io/algorithm-pattern/
         - name: Awesome List
           url: https://asmen.icopy.site/awesome/awesome-linux/
-
+        - name: deps.dev
+          description: 用来查看开源项目的依赖是否有漏洞
+          url: https://deps.dev/
+        - name: Github OSS Insight
+          description: 查看gh某个repo的star（`starchart.cc`）/PR/issue等等数据，以及比较repo（类似`Github Compare`）
+          url: https://ossinsight.io/
+        - name: OSSRank
+          url: https://ossrank.com/fast
+        - name: OpenSource Builders
+          description: 一些服务的开源替代品，还不错
+          url: https://opensource.builders/
+        - name: AlternativeTo - Crowdsourced software recommendations
+          url: https://alternativeto.net/
 
 
 
