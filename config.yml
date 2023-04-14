@@ -153,7 +153,9 @@ content:
 #         - name: AICodeHelper - AI编程助手
 #           url: https://aicodehelper.com/
         - name: Docker Hub
-          url: https://hub.docker.com/
+          url: https://hub.docker.com/search?q=
+        - name: Docker文档
+          url: https://docs.docker.com/reference/
     - name: gh
       sites:
         - name: deps.dev
@@ -244,8 +246,6 @@ content:
         - name: 云原生资料库
           description: k8s/Istio/Envoy教程
           url: https://lib.jimmysong.io/kubernetes-handbook/
-        - name: Docker文档
-          url: https://docs.docker.com/reference/
         - name: Prometheus文档
           url: https://prometheus.io/docs/prometheus/latest/getting_started/
         - name: Redis命令/文档
