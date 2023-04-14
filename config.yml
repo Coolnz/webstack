@@ -350,6 +350,8 @@ content:
           url: https://www.kaggle.com/
         - name: JoinQuant聚宽量化交易平台
           url: https://www.joinquant.com/
+        - name: 飞浆AI Studio
+          url: https://aistudio.baidu.com
         - name: 七麦数据
           url: https://www.qimai.cn/
         - name: 国标/行标
