@@ -128,10 +128,7 @@ content:
         - name: resource-hint-validator
           description: 一款检查preload, prefetch, preconnect等Resource Hints使用是否恰当的工具
           url: https://www.debugbear.com/resource-hint-validator
-        - name: Website Metadata
-          description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
-          url: https://websitemetadata.com/
-          icon: https://websitemetadata.com/images/favicon.png
+
         - name: itdog
           url: https://www.itdog.cn/
         - name: 网易DNS检测工具

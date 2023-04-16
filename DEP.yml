@@ -171,3 +171,7 @@
 
 
 
+        - name: Website Metadata
+          description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
+          url: https://websitemetadata.com/
+          icon: https://websitemetadata.com/images/favicon.png
