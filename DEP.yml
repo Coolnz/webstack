@@ -141,3 +141,33 @@
           description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看
           url: https://wenshu.court.gov.cn/
 
+
+
+        - name: 草料二维码qrcode
+          url: https://cli.im/
+        - name: qrcode-monkey
+          description: 搭配草料使用（主要使用其一些国外服务的logo）
+          url: https://www.qrcode-monkey.com/
+
+
+
+        - name: SPEEDTEST中国科学技术大学测速网站
+          description: SPEEDTEST
+          url: https://test.ustc.edu.cn/
+        - name: docsmall
+          description: gif压缩
+          url: https://docsmall.com/gif-compress
+
+
+        - name: Graph Maker
+          description: 对比ChartCube使用
+          icon: https://linegraphmaker.co/icon.ico
+          url: https://linegraphmaker.co/bar-graph
+
+
+
+        - name: Go Report Card
+          url: https://goreportcard.com/
+
+
+

@@ -198,8 +198,7 @@ content:
           url: https://gorm.io/zh_CN/docs/index.html
         - name: casbin文档
           url: https://casbin.org/zh/docs/overview
-        - name: Go Report Card
-          url: https://goreportcard.com/
+
         - name: UmiJS文档
           url: https://umijs.org/zh-CN/docs/load-on-demand
         - name: Element文档
@@ -250,10 +249,7 @@ content:
         - name: Table Convert
           url: https://tableconvert.com/
           icon: https://tableconvert.com/images/favicon.png
-        - name: Graph Maker
-          description: 对比ChartCube使用
-          icon: https://linegraphmaker.co/icon.ico
-          url: https://linegraphmaker.co/bar-graph
+
         - name: ChartCube
           description: 相当于可以在线使用的echarts，可以导出饼图柱状图折线图等，但仅支持导入csv/excel/json数据
           url: https://chartcube.alipay.com/upload
@@ -277,22 +273,13 @@ content:
         - name: 白描OCR
           description: 白描OCR的在线服务
           url: https://web.baimiaoapp.com/
-        - name: 草料二维码qrcode
-          url: https://cli.im/
-        - name: qrcode-monkey
-          description: 搭配草料使用（主要使用其一些国外服务的logo）
-          url: https://www.qrcode-monkey.com/
+
         - name: Temp Mail - 临时性匿名邮箱
           url: https://temp-mail.org/zh
         - name: 云短信 - 临时性匿名短信
           description: 在线短信接收平台，用来注册临时使用(只使用一次)的网站
           url: https://yunduanxin.net/        
-        - name: SPEEDTEST中国科学技术大学测速网站
-          description: SPEEDTEST
-          url: https://test.ustc.edu.cn/
-        - name: docsmall
-          description: gif压缩
-          url: https://docsmall.com/gif-compress
+
         - name: CloudConvert
           description: 几乎所有文件格式的转换工具
           url: https://cloudconvert.com/
