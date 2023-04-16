@@ -20,100 +20,100 @@
 
 
 
-        - name: xclient
-          description: mac的破解软件
-          url: https://xclient.info/
+#         - name: xclient
+#           description: mac的破解软件
+#           url: https://xclient.info/
 
-        - name: pixivFANBOX
-          url: https://www.fanbox.cc/
+#         - name: pixivFANBOX
+#           url: https://www.fanbox.cc/
 
-        - name: vim游戏（VIM Adventures）
-          description: Learn VIM while playing a game
-          url: https://vim-adventures.com/
+#         - name: vim游戏（VIM Adventures）
+#           description: Learn VIM while playing a game
+#           url: https://vim-adventures.com/
 
-        - name: MacMenuBar
-          description: 用来筛选出非常好用的menubar软件，可以作为长期以来汰换软件的数据源，比直接google要好得多
-          url: https://macmenubar.com/
+#         - name: MacMenuBar
+#           description: 用来筛选出非常好用的menubar软件，可以作为长期以来汰换软件的数据源，比直接google要好得多
+#           url: https://macmenubar.com/
 
-        - name: 小众软件APPINN
-          url: https://meta.appinn.net/tag/macos
-        - name: Product Hunt
-          url: https://www.producthunt.com/
-        - name: 吾爱破解52pojie
-          url: https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=234
-
-
-
-        - name: 中文播客榜
-          url: https://xyzrank.com/
-
-        - name: Packal
-          url: http://www.packal.org/
-        - name: Alfred workflows
-          url: https://www.alfredapp.com/workflows/
-        - name: Alfred Forum
-          url: https://www.alfredforum.com/
-
-        - name: ProductZ
-          url: https://productz.com/en
+#         - name: 小众软件APPINN
+#           url: https://meta.appinn.net/tag/macos
+#         - name: Product Hunt
+#           url: https://www.producthunt.com/
+#         - name: 吾爱破解52pojie
+#           url: https://www.52pojie.cn/forum.php?mod=forumdisplay&fid=16&filter=typeid&typeid=234
 
 
 
-        - name: 硬创社
-          url: https://x.jlc.com/platform/community
+#         - name: 中文播客榜
+#           url: https://xyzrank.com/
+
+#         - name: Packal
+#           url: http://www.packal.org/
+#         - name: Alfred workflows
+#           url: https://www.alfredapp.com/workflows/
+#         - name: Alfred Forum
+#           url: https://www.alfredforum.com/
+
+#         - name: ProductZ
+#           url: https://productz.com/en
+
+
+
+#         - name: 硬创社
+#           url: https://x.jlc.com/platform/community
 
 
 
 
-        - name: 隔离食用手册
-          url: https://cook.yunyoujun.cn/
+#         - name: 隔离食用手册
+#           url: https://cook.yunyoujun.cn/
 
 
 
-        - name: Crontab.guru # 用ChatGPT代替了
-          url: https://crontab.guru/
-        - name: Web-Vitals
-          description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
-          url: https://www.experte.com/web-vitals
-          icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
+#         - name: Crontab.guru # 用ChatGPT代替了
+#           url: https://crontab.guru/
+#         - name: Web-Vitals
+#           description: 批量检查网页加载速度的工具，一次最多可以检查 500 个页面（比`Pagespeed Insights`好用）
+#           url: https://www.experte.com/web-vitals
+#           icon: https://www.experte.com/assets/favicons/www.experte.com/apple-touch-icon.png
 
 
-        - name: AWESOME-LIST # 机翻真不太行，直接用英文原网站了
-          url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
+#         - name: AWESOME-LIST # 机翻真不太行，直接用英文原网站了
+#           url: https://asmcn.icopy.site/awesome/awesome-zsh-plugins/
 
 
-        - name: Program Creek
-          description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
-          url: https://www.programcreek.com/
+#         - name: Program Creek
+#           description: 一些lib的使用例子，但是只支持java/python/c++/scala，不知道某个lib的用法时，可以先在这个网站查查
+#           url: https://www.programcreek.com/
 
-        - name: 始祖鸟
-          url: https://arcteryx.com/ca/zh/c/mens
-        - name: 始祖鸟leaf
-          url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
+#         - name: 始祖鸟
+#           url: https://arcteryx.com/ca/zh/c/mens
+#         - name: 始祖鸟leaf
+#           url: https://leaf.arcteryx.com/ca/en/c/combat-uniforms
 
-        - name: REI
-          url: https://www.rei.com/
+#         - name: REI
+#           url: https://www.rei.com/
 
-        - name: paperswithcode
-          description: 论文+代码（ML相关）
-          url: https://paperswithcode.com/
+#         - name: paperswithcode
+#           description: 论文+代码（ML相关）
+#           url: https://paperswithcode.com/
 
-        - name: The JetBrains Blog
-          url: https://blog.jetbrains.com/zh-hans/
-
-
-        - name: WidgetStore/组件世界
-          description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
-          url: https://cn.widgetstore.net/#/home
+#         - name: The JetBrains Blog
+#           url: https://blog.jetbrains.com/zh-hans/
 
 
-        - name: 写作猫
-          url: https://xiezuocat.com/#/
+#         - name: WidgetStore/组件世界
+#           description: 丰富的嵌入式小组件库、动态图标库、可视化图表库
+#           url: https://cn.widgetstore.net/#/home
 
 
-        - name: 在线markdown编辑器
-          description: 比StackEdit好用很多，用来辅助处理一些md格式问题
-          url: https://md.mzr.me/
+#         - name: 写作猫
+#           url: https://xiezuocat.com/#/
+
+
+#         - name: 在线markdown编辑器
+#           description: 比StackEdit好用很多，用来辅助处理一些md格式问题
+#           url: https://md.mzr.me/
 
 
 #         - name: AICodeHelper - AI编程助手
@@ -134,44 +134,44 @@
 #           url: https://snyk.io/advisor/golang
 
 
-        - name: 5000yan
-          url: https://5000yan.com/fenlei/zhuzi/
-          description: 老子、荀子、韩非子（以及庄子孟子论语墨子孙子）
-        - name: 中国裁判文书网
-          description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看
-          url: https://wenshu.court.gov.cn/
+#         - name: 5000yan
+#           url: https://5000yan.com/fenlei/zhuzi/
+#           description: 老子、荀子、韩非子（以及庄子孟子论语墨子孙子）
+#         - name: 中国裁判文书网
+#           description: 做任何新项目之前，都去搜一搜，了解底线在哪，雷区在哪，该碰什么不碰什么。闲着没事也可以翻翻看
+#           url: https://wenshu.court.gov.cn/
 
 
 
-        - name: 草料二维码qrcode
-          url: https://cli.im/
-        - name: qrcode-monkey
-          description: 搭配草料使用（主要使用其一些国外服务的logo）
-          url: https://www.qrcode-monkey.com/
+#         - name: 草料二维码qrcode
+#           url: https://cli.im/
+#         - name: qrcode-monkey
+#           description: 搭配草料使用（主要使用其一些国外服务的logo）
+#           url: https://www.qrcode-monkey.com/
 
 
 
-        - name: SPEEDTEST中国科学技术大学测速网站
-          description: SPEEDTEST
-          url: https://test.ustc.edu.cn/
-        - name: docsmall
-          description: gif压缩
-          url: https://docsmall.com/gif-compress
+#         - name: SPEEDTEST中国科学技术大学测速网站
+#           description: SPEEDTEST
+#           url: https://test.ustc.edu.cn/
+#         - name: docsmall
+#           description: gif压缩
+#           url: https://docsmall.com/gif-compress
 
 
-        - name: Graph Maker
-          description: 对比ChartCube使用
-          icon: https://linegraphmaker.co/icon.ico
-          url: https://linegraphmaker.co/bar-graph
-
-
-
-        - name: Go Report Card
-          url: https://goreportcard.com/
+#         - name: Graph Maker
+#           description: 对比ChartCube使用
+#           icon: https://linegraphmaker.co/icon.ico
+#           url: https://linegraphmaker.co/bar-graph
 
 
 
-        - name: Website Metadata
-          description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
-          url: https://websitemetadata.com/
-          icon: https://websitemetadata.com/images/favicon.png
+#         - name: Go Report Card
+#           url: https://goreportcard.com/
+
+
+
+#         - name: Website Metadata
+#           description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
+#           url: https://websitemetadata.com/
+#           icon: https://websitemetadata.com/images/favicon.png
