@@ -157,9 +157,7 @@ content:
           url: https://quickref.pipecraft.net/
         - name: alpine-packages
           url: https://pkgs.alpinelinux.org/packages
-        - name: pre-commit的hooks和文档
-          description: 提供的所有hooks，也可以看看文档
-          url: https://pre-commit.com/hooks.html
+
         - name: apifox
           description: apifox提供的api开放平台，提供了基本上所有主流服务的文档和调试，用起来很方便
           url: https://www.apifox.cn/apihub/
@@ -173,19 +171,11 @@ content:
           url: https://cloud.baidu.com/
         - name: 高德开放平台
           url: https://lbs.amap.com/
-        - name: 超级鹰
-          description: 打码平台，还不错
-          url: https://www.chaojiying.com/
+
         - name: 腾讯防水墙
           description: 验证码/内容平台防垃圾内容等服务
           url: https://007.qq.com/
-        - name: 芝麻HTTP
-          descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
-          url: https://h.zhimaruanjian.com/
-        - name: golang标准库
-          url: https://pkg.go.dev/std
-        - name: gf文档
-          url: https://pkg.go.dev/github.com/gogf/gf/v2
+
         - name: gozero文档
           url: https://go-zero.dev/cn/docs/introduction/
         - name: Goland文档

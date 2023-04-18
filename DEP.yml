@@ -175,3 +175,23 @@
 #           description: 查看网页meta标签信息的工具。输入网址，就可以看到在各个搜索引擎和社交媒体平台上面显示的效果。还可以在线编辑生成meta标签。
 #           url: https://websitemetadata.com/
 #           icon: https://websitemetadata.com/images/favicon.png
+
+
+
+        - name: pre-commit的hooks和文档
+          description: 提供的所有hooks，也可以看看文档
+          url: https://pre-commit.com/hooks.html
+
+
+        - name: 芝麻HTTP
+          descriptin: 比较好用的代理IP网站，但是不便宜，用过几次还可以
+          url: https://h.zhimaruanjian.com/
+        - name: golang标准库
+          url: https://pkg.go.dev/std
+        - name: gf文档
+          url: https://pkg.go.dev/github.com/gogf/gf/v2
+
+
+        - name: 超级鹰
+          description: 打码平台，还不错
+          url: https://www.chaojiying.com/
