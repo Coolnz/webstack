@@ -363,6 +363,10 @@ content:
           url: https://opensource.builders/
         - name: AlternativeTo - Crowdsourced software recommendations
           url: https://alternativeto.net/
+        - name: MacScripter - macOS and iOS automation
+          url: https://www.macscripter.net/
+        - name: Tiny Tiny RSS: Community
+          url: https://community.tt-rss.org/
 
 
 
