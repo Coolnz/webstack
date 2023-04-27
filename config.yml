@@ -383,6 +383,10 @@ content:
         - name: OPS 提示词工作室
           description: 可视化编辑提示词 | 一键翻译 AIGC 提示词 | Midjourney 提示词 | OpenPromptStudio made by Moonvy 月维
           url: https://moonvy.com/apps/ops/
+        - name: 猿人学Web端爬虫攻防刷题平台-题目列表
+          url: https://match.yuanrenxue.cn/list
+        - name: 竹白专栏检索 - ZhuBai
+          url: https://zb.liey.cn/
 
 
 
