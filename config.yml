@@ -41,7 +41,7 @@ content:
           icon: https://webstack.cc/assets/images/favicon.png
         - name: blog
           url: https://blog.wrss.top/
-          icon: https://blog.wrss.top/favicon.ico
+          icon: https://blog.wrss.top/img/favicon.ico
         - name: 阿里云
           url: https://home.console.aliyun.com/home/dashboard/ProductAndService
           icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/images/ops/aliyun.jpg
@@ -370,6 +370,12 @@ content:
         - name: Hugging Face
           description: The AI community building the future.
           url: https://huggingface.co/
+        - name: ChatGPT Shortcut
+          description: 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts | Tag filtering, keyword search, and one-click copy prompts
+          url: https://www.aishort.top/
+        - name: Regex.ai
+          description: Artificial Intelligence Regular Expression Generator
+          url: https://regex.ai/
 
 
 
