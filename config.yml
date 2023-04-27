@@ -365,7 +365,7 @@ content:
           url: https://alternativeto.net/
         - name: MacScripter - macOS and iOS automation
           url: https://www.macscripter.net/
-        - name: Tiny Tiny RSS: Community
+        - name: Tiny Tiny RSS - Community
           url: https://community.tt-rss.org/
         - name: Hugging Face
           description: The AI community building the future.
@@ -376,6 +376,13 @@ content:
         - name: Regex.ai
           description: Artificial Intelligence Regular Expression Generator
           url: https://regex.ai/
+        - name: Open Prompt - ChatGPT
+          url: https://openprompt.co/
+        - name: nGQL GPT Composer
+          url: https://ngql-gpt.siwei.io/
+        - name: OPS 提示词工作室
+          description: 可视化编辑提示词 | 一键翻译 AIGC 提示词 | Midjourney 提示词 | OpenPromptStudio made by Moonvy 月维
+          url: https://moonvy.com/apps/ops/
 
 
 
