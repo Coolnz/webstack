@@ -367,6 +367,9 @@ content:
           url: https://www.macscripter.net/
         - name: Tiny Tiny RSS: Community
           url: https://community.tt-rss.org/
+        - name: Hugging Face
+          description: The AI community building the future.
+          url: https://huggingface.co/
 
 
 
