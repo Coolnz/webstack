@@ -391,6 +391,9 @@ content:
           url: https://docusaurus.io/zh-CN/docs
         - name: World Athletics
           url: https://worldathletics.org/records/all-time-toplists/road-running/marathon/outdoor/men/senior
+        - name: 最酷 - zuicool
+          description: 比赛报名
+          url: https://zuicool.com/events?type=run&where=jiangzhe&regtype=reg
 
 
 
