@@ -394,6 +394,13 @@ content:
         - name: 最酷 - zuicool
           description: 比赛报名
           url: https://zuicool.com/events?type=run&where=jiangzhe&regtype=reg
+        - name: 深言达意 – WantWords
+          description: 反向词典 找词，成语
+          url: https://www.shenyandayi.com/
+        - name: 捷径社区 - shortcuts
+          url: https://sharecuts.cn/
+        - name: 捷径库 - shortcuts
+          url: https://jiejingku.net/
 
 
 
