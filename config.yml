@@ -59,6 +59,8 @@ content:
           url: https://t.coros.com/admin/views/dash-board
         - name: The Weather Channel # 比墨迹天气好用
           url: https://weather.com/zh-CN/weather/hourbyhour/l/7f14186934f484d567841e8646abc61b81cce4d88470d519beeb5e115c9b425a
+        - name: QWeather - 和风天气
+          url: https://www.qweather.com/pcpn/jiading-101020500.html
         - name: Weather Spark # 全年气候和平均天气
           url: https://zh.weatherspark.com/y/137446/%E4%B8%AD%E5%9B%BD%E3%80%81%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%A4%A9%E6%B0%94
     - name: tools
@@ -411,6 +413,13 @@ content:
           url: https://www.flyert.com/portal.php
         - name: 携程 - ctrip
           url: https://www.ctrip.com/
+        - name: 马拉松发烧友 - MarathonFans - 新浪博客
+          url: https://blog.sina.com.cn/s/articlelist_2962914900_0_1.html
+        - name: RunRepeat
+          description: 跑鞋评测
+          url: https://runrepeat.com/catalog/running-shoes
+        - name: ASMRGAY
+          url: https://www.asmrgay.com/
 
 
 
