@@ -30,8 +30,8 @@ content:
         - name: 阿里云
           url: https://home.console.aliyun.com/home/dashboard/ProductAndService
           icon: https://jeffcott.oss-cn-beijing.aliyuncs.com/images/ops/aliyun.jpg
-        - name: Youtube Music
-          url: https://music.youtube.com/library/albums
+        - name: spotify
+          url: https://open.spotify.com/
         - name: Google翻译
           url: https://translate.google.cn/?sl=auto&tl=en&op=translate
         - name: Google Drive
@@ -390,8 +390,6 @@ content:
           url: https://jiejingku.net/
         - name: RQrun
           url: https://www.rq.run/user
-        - name: spotify
-          url: https://open.spotify.com/
         - name: 天天基金 - ttjj
           url: https://www.1234567.com.cn/
         - name: 飞客 - flyert
