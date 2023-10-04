@@ -137,8 +137,6 @@ content:
           url: https://docs.docker.com/reference/
     - name: doc
       sites:
-        - name: Quick Reference
-          url: https://quickref.pipecraft.net/
         - name: alpine-packages
           url: https://pkgs.alpinelinux.org/packages
         - name: apifox
